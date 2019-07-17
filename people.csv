@@ -1,0 +1,2827 @@
+first_name,last_name,email_address,Organization,title
+Molly ,Coston,  Molly.Coston@cityofwashougal.us,"""Washougal, WA""",Mayor
+Sara,Boone,  Sara.Boone@portlandoregon.gov,"""Portland, OR""",Fire Battalion Chief 
+Stacey,Armato,  sarmato@hermosabch.org ,"""Hermosa Beach, CA """,Mayor
+Paul,Hodson, Administration@ehtgov.org,"""Egg Harbor, NJ""",Mayor
+Annie,Mezzacappa, amezzacappa@anaheim.net,"""Anaheim, CA""",Chief of Staff
+Barbara ,Clark, bclark@wallawallawa.gov,"""Walla Walla, WA""",Mayor
+ Bob,Goodwin, bgoodwin@mylubbock.us,"""Lubbock, TX""",Chief of Staff
+Bryan,Lyons, blyons@youngstownohio.gov,"""Youngstown, OH""",Executive Assistant to Mayor Jamael Tito Brown
+Bill ,Mauro, bmauro@thunderbay.ca,"""Thunder Bay, ON (Canada)""",Mayor
+Chuck ,Bennett, cbennett@cityofsalem.net,"""Salem, OR""",Mayor
+Christina,Shea, christinashea@cityofirvine.org,"""Irvine, CA""",Mayor
+Debbie,Bertlin, debbie.bertlin@mercergov.org,"""Mercer Island, WA""",Mayor
+Dorothy,Hubbard, dhubbard@albanyga.gov ,"""Albany, GA""",Mayor
+Dean,Kaufert, dkaufert@ci.neenah.wi.us,"""Neenah, WI""",Mayor
+Glen ,McNeil, gmcneil@acwtownship.ca,"""Ashfield-Colborne-Wawanosh, ON (Canada)""",Mayor
+  Jeffrey,Schomisch, j.schomisch@landoverhills.us,"""Landover Hills, MD""",Mayor
+Tom ,McCrackin, jean.southward@carsoncitymi.com,"""Carson City, MI""",Mayor
+Alex ,Yudelson, Jessica.Wright@cityofrochester.gov ,"""Rochester, NY""",Chief of Staff
+Jim,Gilvin, jgilvin@alpharetta.ga.us,"""Alpharetta, GA """,Mayor
+John,Grace, jgrace@goderich.ca,"""Goderich, ON (Canada)""",Mayor
+Jim,Reed, jim.reed@sanjoseca.gov,"""San Jose, CA""",Chief of Staff
+John ,King, jking@covinaca.gov ,"""Covina, CA""",Mayor
+Jay,Moran, jmoran@manchesterct.gov,Manchester. CT,Mayor
+Keith,James, KJames@wpb.org,"""West Palm Beach, FL""",Mayor
+Laura,Naramore, lnaramore@mitre.org,The MITRE Corporation ,"Director, Public Sector"
+Sylvie ,Parent, mairie@longueuil.quebec,"""Longueuil, QC (Canada)""",Mayor
+Christopher ,Clark, mayor@cityofharvey.org,"""Harvey, IL""",Mayor
+Lorraine ,Borowski, mayor@decorahia.org ,"""Decorah, IA""",Mayor
+Tammy,de Weerd, mayortammy@meridiancity.org,"""Meridian, ID """,Mayor
+Marc,McGovern, mmcgovern@cambridgema.gov,"""Cambridge, MA""",Mayor
+Najwa,Massad, nmassad@mankatomn.gov,"""Mankato, MN""",Mayor
+Peter,Stewart, pstewart@bucksportmaine.gov,"""Bucksport, ME""",Mayor
+Ron,Anders, randers@auburnalabama.org,"""Auburn, AL""",Mayor
+ Adam ,Keller, rellekja@yahoo.com,"""West Union, IA""",Mayor
+Julie ,Nelles,Rockdale5@frontier.com,"""Rockdale, IL""",Village President
+Gattuso,Paul,	pgattuso@westchester-il.org,"""Westchester, IL""",Mayor
+Bob ,Carson,	r.carson@villageofgolf.us,"""Golf, IL""",Village President
+Preet,Didbal,(530) 755-7663,Former Mayors,Former Mayor
+Stan,Booker,@cityof.lawton.ok.us,"""Lawton, OK""",Mayor
+Lesa,Sobek,@cityofmenifee.us,"""Menifee, CA""",Mayor
+Carolyn G.,Goodman,@lasvegasnevada.gov,"""Las Vegas, NV""",Mayor
+Larry,Crandle,1@palladiumgunshop.com,"""Coopersville, MI""",Mayor
+Andrew,Ginther,311@columbus.gov,"""Columbus, OH""",Mayor
+Aaron ,Richardson,aaron.richardson@fitchburgwi.gov,"""Fitchburg, WI""",Mayor
+Allen,Brown,ab@allenbrownmayor.com,"""Texarkana, AR""",Mayor
+Al,Murry,abernstein@tustinca.org,Former Mayors,Former Mayor
+Art,Bishop,abishop@applevalley.org,"""Apple Valley, CA""",Mayor
+Art,Brown,abrown@buenapark.com,"""Buena Park, CA""",Mayor
+Allen,Brown,abrown@cityofhinesville.org,"""Hinesville, GA""",Mayor
+Andy,Brauninger,abruauninger@huntsvilletx.gov,"""Huntsville, TX""",Mayor
+Anthony ,Caggiano,acaggiano@margatefl.com,"""Margate, FL""",Mayor
+Alan,Casavant,acasavant@biddefordmaine.org,"""Biddeford, ME""",Mayor
+Andy,Cook,acook@westfield.in.gov,"""Westfield, IN""",Mayor
+Karina,Macias,acornejo@hpca.gov,"""Huntington Park, CA""",Mayor
+Alejandra,Cortez,ACortez@bellgardens.org,"""Bell Gardens, CA""",Mayor
+Michael,Soriano,action@parsippany.net,"""Parsippany-Troy Hills, NJ""",Mayor
+Ashley,Curry,acurry@vhal.org,"""Vestavia Hills, AL""",Mayor
+Alexander,Demos,ademosvb@glenellyninfo.org,"""Glen Ellyn, IL""",Village President
+Thomas,Brown,admin@easthazelcrest.com,"""East Hazel Crest, IL""",Mayor
+Louise,Carter-King,admn@gillettewy.gov,"""Gillette, WY""",Mayor
+Adrian,Perkins,adrian.perkins@shreveportla.gov,"""Shreveport, LA""",Mayor
+Aimee,Faucett,afaucett@sandiego.gov,"""San Diego, CA""",Chief of Staff
+Adria,Finch,afinch@syrgov.net,"""Syracuse, NY""",Director of Innovation
+Allan,Fung,afung@cranstonri.org,"""Cranston, RI""",Mayor
+ Alice ,Gallagher,agallagher@wsprings.com,"""Western Springs, IL""",Mayor
+Anne,Gerwig,agerwig@wellingtonfl.gov,"""Wellington, FL""",Mayor
+Adrienne,Holloway,aholloway@aurora-il.org,"""Aurora, IL""",Chief Innovation Officer
+Aja,Brown,ajabrown@comptoncity.org,"""Compton, CA""",Mayor
+Arlene,Juracek,ajuracek@mountprospect.org,"""Mount Prospect, IL""",Village President
+Ann,Keighran,akeighran@burlingame.org,"""Burlingame, CA""",Mayor
+Anna,Kennedy,akennedy@southbendin.gov,"""South Bend, IN""",Business Analyst
+Al,Heggins,Al.Heggins@salisburync.gov,"""Salisbury, NC""",Mayor
+Alan,Nagy,al.nagy@newark.org,"""Newark, CA""",Mayor
+Alan,Salazar,alan.salazar@denvergov.org,"""Denver, CO""",Chief of Staff
+Al,Larson,alarson@ci.schaumburg.il.us,"""Schaumburg, IL""",President 
+Claire,Alaura,Alaura@ci.oakley.ca.us,"""Oakley, CA""",Mayor
+Edwin,Garcia Feliciano,alcaldecamuy@yahoo.com,"""Camuy, PR""",Mayor
+Alex,Krughoff,Alex.Krughoff@socrata.com,Tyler Technologies,Solution Architect
+Alex,Kapur,alex@tolemi.com,Tolemi,"Co-Founder, Board Director"
+Alex,Knox,alex_knox@ci.richmond.ca.us,"""Richmond, CA""",Chief of Staff
+Alison,Reeves,alison.reeves@dc.gov,,Public Affairs Specialist
+Dr. LaQuandra,Nesbitt,alison.reeves@dc.gov,"""Washington, D.C.""","Director, DC Health and Interim Director, Department of Behavioral Health"
+Allan,Adams,Allan.B.Adams@wellsfargo.com,"""Van Meter, IA""",Mayor
+[James] Allen,Joines,allenj@cityofws.org,"""Winston-Salem, NC""",Mayor
+Ana ,Lopez,ALopez@wichita.gov,"""Wichita, KS""",Office manager
+Allan,Lowe III,alowe@rooseveltpark.org,"""Roosevelt Park, MI""",Mayor
+Andy,Maglio,amaglio@roselle.il.us,"""Roselle, IL""",Village President
+Alex,Mansfield,amansfield@cityofgolden.net,"""Golden, CO""",Management Assistant
+Steve,Miklos,amorin@folsom.ca.us,Former Mayors,Former Mayor
+Amy,Harrington,Amy.Harrington@sonomacity.org,"""Sonoma, CA""",Mayor
+Ana,Guerrero,ana.guerrero@lacity.org,"""Los Angeles, CA""","Chief of Staff, Mayor's Office"
+Alan,Nakanishi,anakanishi@lodi.gov,"""Lodi, CA""",Mayor
+Andrew,Savage,andrew@limebike.com,LimeBike,"Vice President, Sustainability"
+Andy,Rheaume,andy.rheaume@bothellwa.gov,"""Bothell, WA""",Mayor
+Andy,Beerman,andy@parkcity.org,"""Park City, UT""",Mayor
+Anne,McEnerny-Ogle,anne.mcenerny-ogle@cityofvancouver.us,"""Vancouver, WA""",Mayor
+Anthony,DeFillipo,anthony.defillipo@citynmb.com,"""North Miami Beach, FL""",Mayor
+Anthony,Williams,Anthony.Williams @abilenetx.gov,"""Abilene, TX""",Mayor
+Alisa,O'Hanlon,aohanlon@cityoftacoma.org,"""Tacoma, WA""",Federal & Tribal Relations
+Anne,Oliva,aoliva@ci.millbrae.ca.us,"""Millbrae, CA""",Mayor
+Adam,Paul,apaul@lakewood.org,"""Lakewood, CO""",Mayor
+Samuel,Dickman,apederson@bayside-wi.gov,"""Bayside, WI""",Village President
+Amber,Pence,apence@cityofboise.org,"""Boise, ID""",Intergovernmental Affairs Director
+Armando,Real,areal@calexico.ca.gov,Former Mayors,Former Mayor
+Tom,Prather,arlene.wilson@georgetownky.gov,"""Georgetown, KY""",Mayor
+Adam,Roof,aroof@burlingtonvt.gov,"""Burlington, VT""",City Councilor
+Arron,Cobb,arronc@uoregon.edu,University of Oregon,
+Alan,Rudnick,arudnick@elkhartlakewi.gov,"""Elkhart Lake, WI""",Village President
+Tara,Beiter-Fluhr,asagee@ci.sheridan.co.us,"""Sheridan, CO""",Mayor
+Andy,Medellin,asd3661@yahoo.com,"""Madera, CA""",Mayor
+Amna,Seibold,aseibold@eastgr.org,"""East Grand Rapids, MI""",Mayor
+Ashley,DeCurtis,ashley.decurtis@geospiza.us,Geospiza,Sales Lead
+Ashley,Orgain,ashley.orgain@seventhgeneration.com,Seventh Generation,"Director, Mission Advocacy and Outreach"
+Alison,Sutter,asutter@grand-rapids.mi.us,"""Grand Rapids, MI""",Sustainability Manager
+Ali,Sajjad Taj,ataj@cityofartesia.us,"""Artesia, CA""",Mayor
+Athanasia,Landis,athanasialandis@gmail.com,"""Fredonia, NY""",Mayor
+Alex ,Hassel ,athassel@dmgov.org,"""Des Moines, IA""",EAA to Mayor & Council
+AJ,Tourigny,atourigny@fitchburgma.gov,"""Fitchburg, MA""",Chief of Staff
+Glenn,Ryback,auack@villageofwadsworth.org,"""Wadsworth, IL""",Village President
+Alex,Vargas,avargas@hawthorneCA.gov,"""Hawthorne, CA""",Mayor
+Amy,Walen,awalen@kirklandwa.gov,"""Kirkland, WA""",Mayor
+Acquanetta,Warren,awarren@fontana.org,"""Fontana, CA""",Mayor
+Anne,Watson,awatson@montpelier-vt.org,"""Montpelier, VT""",Mayor
+Alan,Webber,awebber@santafenm.gov,"""Santa Fe, NM""",Mayor
+Art ,Welch ,awelch@banningca.gov,"""Banning, CA""",Mayor
+Alicia,Welch,awelch@cityofgolden.net,"""Golden, CO""",Fire Chief
+Anissa,Welch,awelch@milton-wi.gov,"""Milton, WI""",Mayor
+Brad ,Hart,b.hart@cedar-rapids.org,"""Cedar Rapids, IA""",Mayor
+Becky,Ames,bames@ci.beaumont.tx.us,"""Beaumont, TX""",Mayor
+Beth,Anderson,banderson@burlingtonvt.gov,"""Burlington, VT""",Chief Innovation Officer
+Bob,Andeweg,bandeweg@urbandale.org,"""Urbandale, IA""",Mayor
+Ras,Baraka,barakara@ci.newark.nj.us,"""Newark, NJ""",Mayor
+Barbara,Halliday,barbara.halliday@hayward-ca.gov,"""Hayward, CA""",Mayor
+Barbara,Traylor Smith,barbaras@gjcity.org,"""Grand Junction, CO""",Mayor
+Richard,Grenvich,barbtrainor@forestview-il.org,"""Forest View, IL""",Village President
+Brian M.,Arrigo,barrigo@revere.org,"""Revere, MA""",Mayor
+Bart,Castleberry,bart.castleberry@cityofconway.org,"""Conway, AR""",Mayor
+Ken,Kesselus,bastropmayorken@gmail.com,"""Bastrop, TX""",Mayor
+Pat,Baustian,baustian6@gmail.com,"""Luverne, MN""",Mayor
+Brendon,Barber,bbarber@cogsc.com,"""Georgetown, SC""",Mayor
+Barry ,Bass,bbass@lwd.org,"""Lincolnwood, IL""",Village President
+Ben ,Benoit,bbenoit@cityofwildomar.org,"""Wildomar, CA""",Mayor
+Brian ,Berkson,bberkson@jurupavalley.org,"""Jurupa Valley, CA""",Mayor
+Brenda,Bethune,bbethune@cityofmyrtlebeach.com,"""Myrtle Beach, SC""",Mayor
+Roger C.,Claar,bbmayor@aol.com,"""Bolingbrook, IL""",Mayor
+Bill,Brandt,bbrandt@antigo-city.org,"""Antigo, WI""",Mayor
+Byron,Brown,bbrown@city-buffalo.com,"""Buffalo, NY""",Mayor
+Butch,Buckley,bbuckley@thirdlakevillage.com,"""Third Lake, IL""",Mayor
+Brandi,Campbell,bcampbell@cityofberkeley.info,,Former Chief of Staff
+Benjamin,Cantu,bcantu@ci.manteca.ca.us,"""Manteca, CA""",Mayor
+Robert,Childs,bchilds@surfsidebeach.org,"""Surfside Beach, SC""",Mayor
+Bill,Clarkson,bclarkson@sanramon.ca.gov,"""San Ramon, CA""",Mayor
+Ward,Three,bcollins@romega.us,"""Rome, GA""",Mayor
+Bruce Carlos,Delgado,bdelgado62@gmail.com,"""Marina, CA""",Mayor
+Brandon,del Pozo,bdelpozo@bpdvt.org,Burlington Police Dept,Chief of Police
+Bob,Walsh,bdt375@gmail.com,"""Burlington, IL""",Village President
+Bobby ,Duncan,bduncan@yucaipa.org,"""Yucaipa, CA""",Mayor
+Benjamin,Seigel,ben.seigel@jhu.edu,21st Century Cities Initiative,Executive Director
+Ben,Winter,ben.winter@lacity.org,"""Los Angeles, CA""", Chief Housing Officer for Mayor’s Office
+Barb,Ermeling,bermeling@westonwi.gov,"""Weston, WI""",Village President
+Jeffrey,Hall,bernadette.baker@cityofalex.com,"""Alexandria, LA""",Mayor
+Michael,Besosa,besosam@bbfl.us,"""Boynton Beach, FL""",EMS Assistant Chief 
+Elizabeth,Greenwood,beth00mike@twcny.rr.com,"""Tully, NY""",Mayor
+Betsy,Price,Betsy.Price@fortworthgov.org,"""Fort Worth, TX""",Mayor
+Betsy,Hodges,betsy@betsyhodges.org,,"Former Mayor, Minneapolis, MN"
+Bruce,Krieger,BFKRIEGER@YAHOO.COM,"""Scottville, MI""",Mayor
+Bruce,Flax,bflax@groton-ct.gov,Former Mayors,Former Mayor
+Bob,Fox,bfox@cityofcape.org,"""Cape Girardeau, MO""",Mayor
+Dan,Foy,bfoy@burbankil.gov,"""Burbank, IL""",Mayor
+Bryan,Gadow,BGadow@ci.monona.wi.us,"""Monona, WI""",City Manager
+Robert,Gallagher,bgallagher@bettendorf.org,"""Bettendorf, IA""",Mayor
+Brittany,Grogan,bgrogan@publichealthmdc.com,"""Madison, WI""",Public Health Analyst 
+Bill,Hennessy,bhennessy@ofallon.mo.us,"""O'Fallon, MO""",Mayor
+Bron,Houston,bhouston@bpdvt.org,"Burlington Police Dept,""Burlington, VT""",Exective Assistant to Chief of Police
+Bob,Huber,bhuber@simivalley.org,"""Simi Valley, CA""",Mayor
+Bob,Bielinski,bielinskib@wilmette.com,"""Wilmette, IL""",Village President
+Biff,Traber,biff.traber@corvallisoregon.gov,"""Corvallis, OR""",Mayor
+Bill,Brand,bill.brand@redondo.org,"""Redondo Beach, CA""",Mayor
+Bill,Hurtley,bill.hurtley@ci.evansville.wi.gov,"""Evansville, WI""",Mayor
+ Bill,Jacob,Bill.Jacob@LonggroveIL.gov ,"""Long Grove, IL""",Village President
+Joane,McLeod,bill.mcleod@hoffmanestates.org,"""Hoffman Estates, IL""",Commissioner
+William,McLeod,bill.mcleod@hoffmanestates.org,"""Hoffman Estates, IL""",Mayor
+Bill,Partington,bill.partington@ormondbeach.org,"""Ormond Beach, FL""",Mayor
+Bill,Peduto,bill.peduto@pittsburghpa.gov,"""Pittsburgh, PA""",Mayor
+Bill,Saffo,bill.saffo@wilmingtonnc.gov,"""Wilmington, NC""",Mayor
+Bill,Williams,bill.williams@louisvilleky.gov,"""Louisville- Jefferson County, KY""",Fire Captain
+William,Peterson,Bill@governmentresource.com,Government Resource,Senior Vice President 
+Carmen,Rojas,bill@theworkerslab.com,The Workers Lab,CEO & Co-Founder
+Bill ,Schiebler,bill@theworkerslab.com,The Workers Lab,Program Director
+Bill ,Carpenter,billcarpenter@cobma.us,Former Mayors,Former Mayor
+Matt ,Christenson,billingclerk@greensburgks.org,"""Greensburg, KS""",Mayor
+Billy ,McKinney,billym@zion.il.us,"""Zion, IL""",Mayor
+Brent,Irving,birving@grapevinetexas.gov,"""Grapevine, TX""",Fire Division Chief 
+Bob,Kelly,bkelly@greatfallsmt.net,"""Great Falls, MT""",Mayor
+Bobby,Kilgore,bkilgore@monroenc.org,"""Monroe, NC""",Mayor
+Blair,Camp,blair.camp@murray.utah.gov,"""Murray, UT""",Mayor
+Bill,Lambert,blambert@ci.moscow.id.us,"""Moscow, ID""",Mayor
+Bob,LeGare,blegare@auroragov.org,"""Aurora, CO""",Mayor
+William,Peard,blpeard@mchsi.com,"""Waukee, IA""",Mayor
+Beniamino,Mazzulla,BMAZZULLA@VOSP.US,"""Stone Park, IL""",Village President
+Burt,McIntyre,bmcintyre@villageofhoward.com,"""Howard, WI""",Village President
+Barbara ,McMorrow,bmcmorrow@ twp.freehold.nj.us,"""Freehold Township, NJ""",Mayor
+Bill,McMurray,bmcmurray@ci.st-joseph.mo.us,"""St. Joseph, MO""",Mayor
+Bob,Nation,bnation@chesterfield.mo.us,"""Chesterfield, MO""",Mayor
+Benjamin,Holbert,bnewsman@aol.com,"""Woodmere, OH""",Mayor
+Bridget,Newton,bnewton@rockvillemd.gov,"""Rockville, MD""",Mayor
+Richard,Champion,boardoftrustees@columbinevalley.org,"""Columbine Valley, CO""",Mayor
+Bob,Sampayan,Bob.Sampayan@cityofvallejo.net,"""Vallejo, CA""",Mayor
+Bob,Scott,bob@rescottco.com,"""Sioux City, IA""",Mayor
+Bobbi,Dillon,bobbi.dillon@cincinnati-oh.gov,"""Cincinnati, OH""",Chief of Staff (female)
+Bob,Muckle,BobM@LouisvilleCO.gov,"""Louisville, CO""",Mayor
+Booker,Gainor,booker1.gainor@yahoo.com,"""Cairo, GA""",Mayor
+Kris,Larsen,bot@nederlandco.org,"""Nederland, CO""",Mayor
+Nancy,Tragarz,bpacheco@ci.walnut.ca.us,"""Walnut, CA""",Mayor
+Brian,Park,bpark@confire.org,Confire,
+Brad,Czebotar,brad.czebotar@mcfarland.wi.us,"""McFarland, WI""",Village President
+Chardaé,Jones,braddockborough@comcast.net,"""Braddock, PA""",Mayor (interim)
+Michael,Braiman,braimanm@wilmette.com,"""Wilmette, IL""",Assistant Village Manager
+Brandon,Smith,brandon.smith@gwdcity.com,"""Greenwood, SC""",Mayor
+Matthew,Braunginn,braunginn@cows.org,COWS,Senior Associate
+Brenda,Gunter,brenda.gunter@cosatx.us,"""San Angelo, TX""",Mayor
+Brendan,Pratt,brendanp@ci.altoona.wi.us,"""Altoona, WI""",Mayor
+Brian,Meurer,brian.meurer@louisvilleky.gov,"""Louisville- Jefferson County, KY""",Assistant Fire Chief
+Brian,Lowe,brian@burlingtonvt.gov,,Policy Advisor
+Brian ,Lowe,brian@burlingtonvt.gov,"""Burlington, VT""",Policy Director
+Brian,Hartwell,brianhartwell@madison-heights.org,"""Madison Heights, MI""",Mayor
+Jack,Brinkhoff,brinkhjd@wellingtoncolorado.gov,"""Wellington, CO""",Mayor
+Matt,Brolley,brolley@ci.montgomery.il.us,"""Montgomery, IL""",Village President
+Erik,Brooks,Brooks@smwi.org,"""South Milwaukee, WI""",Mayor
+Bruce,Wilkerson,Bruce.Wilkerson@bgky.org,"""Bowling Green, KY""",Mayor
+Bruce,Teague,bruce-teague@iowa-city.org,"""Iowa City, IA""",Council Member
+Patricia ,Williams,brunson0712@frontier.com,"""Brunson, SC""",Mayor 
+Barney,Rush,brush@townofchevychase.org,"""Chevy Chase, MD""",Mayor
+Bryan,Jeffries,bryan.jeffries@phoenix.gov,,Former Co-Chief of Staff
+Bryan,Kennedy,bryankennedy@mindspring.com,"""Glendale, WI""",Mayor
+Benjamin,Sells,bsells@riverside.il.us,"""Riverside, IL""",Village President
+Bud,Starker,bstarker@ci.wheatridge.co.us,"""Wheat Ridge, CO""",Mayor
+Beverly,Sussman,bsussman@vbg.org,"""Buffalo Grove, IL""",Mayor
+Robert,Taylor,btaylor@brentwoodca.gov,"""Brentwood, CA""",Mayor
+Robert,Thompson,bthompson@ci.richland.wa.us,"""Richland, WA""",Mayor
+Natasha,Johnson,btisdale@lake-elsinore.org,"""Lake Elsinore, CA""",Council Member
+Buddy,Dyer,buddy.dyer@cityoforlando.net,"""Orlando, FL""",Mayor
+Brian,Wahler,bwahler@piscatawaynj.org,"""Piscataway, NJ""",Mayor
+Kristen,Schreder,bweaver@cityofredding.org,"""Redding, CA""",Council Member
+Bob,Whalen,bwhalen@lagunabeachcity.net,"""Laguna Beach, CA""",Mayor
+Brad,Wiersum,bwiersum@eminnetonka.com,"""Minnetonka, MN""",Mayor
+Bonnie,Wright,bwright@cityofhemet.rog,"""Hemet, CA""",Mayor
+Doug,Chaffee,bwwhitaker@live.com,Former Mayors,Former Mayor
+Theron ,Smith,c4life@bellsouth.net,"""New Roads, LA""",Mayor
+Valerie,Plante,cabinet.de.la.mairesse@ville.montreal.qc.ca.,"""Montreal, QC (Canada)""",Mayor
+Yves,Levesque,cabinet.maire@v3r.net,"""Trois-Rivieres, QC (Canada)""",Mayor
+Catherine,Adduci,cadduci@vrf.us,"""River Forest, IL""",Village President
+Caitlin,Reagan,caitlinreagan@aia.org,American Institute of Architects,"Senior Manager, Public Affairs"
+Rick,Caldeira,CaldeiraR@reno.gov,"""Reno, NV""",Chief of Staff
+Chokwe,Lumumba,calumumba@jacksonms.gov,"""Jackson, MS""",Mayor
+Candice,Copple,candice.copple@mesaaz.gov,"""Mesa, AZ""",Chief of Staff
+Cyndy,Andrus,candrus@bozeman.net,"""Bozeman, MT""",Mayor
+Carl,Gerlach,carl.gerlach@opkansas.org,"""Overland Park, KS""",Mayor
+Justin,Wedel,carlston@walnut-creek.org,"""Walnut Creek, CA""",City Council Member 
+Mary Catherine,Carmichael,carmichm@bloomington.in.gov,"""Bloomington, IN""",Director of Public Engagement
+ Tommy ,Battle,Carol.Atchley@huntsvilleal.gov,"""Huntsville, AL""",Mayor
+Paula,Hicks-Hudson,carrie.hartman@toledo.oh.gov,,"Former Mayor, Current State Representative"
+Casey,Earp,casey@bangthetable.com,Bang the Table,Territory Manager
+Carl,Castillo,castilloc@bouldercolorado.gov,"""Boulder, CO""",Policy Advisor
+Catherine ,Crosby,catherine.crosby@toledo.oh.gov,"""Toledo, OH""",Chief of Staff
+Catherine,Blakespear,cblakespear@encinitasca.gov,"""Encinitas, CA""",Mayor
+Christopher ,Bobbitt,cbobbitt@lawrencetwp.com,"""Lawrence, NJ""",Mayor
+Sam ,Hindi,cbronitsky@fostercity.org,"""Foster City, CA""",Mayor
+Michael,Fournier,ccfournier@romi.gov,"""Royal Oak, MI""",Mayor
+David,Terrazas,cchase@cityofsantacruz.com,Former Mayors,Former Mayor
+Mel,Carruth,ccouncil@ci.laguna-hills.ca.us,Former Mayors,Former Mayor
+Dore ,Gilbert,ccouncil@ci.laguna-hills.ca.us,"""Laguna Hills, CA""",Mayor
+Constance,Crisp,ccrisp@bpdvt.org,"""Burlington, VT"",Burlington Police Dept",Training & Special Projects Coordinator
+Carol,Dodge,cdodge@northglenn.org,"""Northglenn, CO""",Mayor
+Cecilia,Hupp,ceciliah@ci.brea.ca.us,"""Brea, CA""",Council Member 
+Celestine,Jefferys,celestineje@greenbaywi.gov,"""Green Bay, WI""",Chief of Staff
+Ceri,Jenkins,cerijenkins@gmail.com,COWS,Senior Associate
+Coral,Evans,cevans@flagstaffaz.gov,"""Flagstaff, AZ""",Mayor
+Carolyn,Felix,cfelix@burlingtonvt.gov,"""Burlington, VT""","BTV Stat Analyst and Performance Monitoring, Evaluation and Learning Specialist "
+Troy,Hill,cfielder@leandertx.gov,"""Leander, TX""",Mayor
+Thomas,Schnettler,cgamb@kohlervillage.org,"""Kohler, WI""",Village President
+Tim,Keller,cgcampbell@cabq.gov,"""Albuquerque, NM""",Mayor
+Christopher,Getty,cgetty@villageoflyons-il.net,"""Lyons, IL""",Village President
+Chad,Wanke,chad@chadwanke.com,"""Placentia, CA""",Council Member 
+Christopher ,Hanks,chanks@cityofnorthport.com,"""North Port, FL""",Mayor
+Richard,Chapman,chapmanr9@comcast.net,"""Shorewood, IL""",Village President
+Charlie,Amrich,charles.amrich@voislk.com,"""Island Lake, IL""",Mayor
+Charles,Hatfield,charles.hatfield@cityofwilliamson.org,"""Williamson, WV""",Mayor
+Robert,McMahon,chartfive@aol.com,"""Media Borough, PA""",Mayor
+Chelsea,Hurley,chelsea.hurley@team.neustar,"""Neustar, Inc. """,Marketing Manager
+Chelsea,Capurro,chelsea@bullpeninc.com,"""Bullpen, Inc. """,Government Affairs Liaison
+Carter,Hendricks,chendricks@hopkinsvilleky.us,"""Hopkinsville, KY""",Mayor
+Chris,Heppel,cheppel@eugene-or.gov,"""Eugene, OR""",Fire Department Deputy Chief of Strategic Services 
+Carol,Herrera,CHerrera@DiamondBarCA.gov,"""Diamond Bar, CA""",Mayor
+Dr. Cheryl-Marie,Hansberger,cherylmhansberger@riversideca.gov,"""Riverside, CA""",Chief of Staff
+Candace ,Hollingsworth,chollingsworth@hyattsville.org,"""Hyattsville, MD""",Mayor
+Chris,Clark,chris.clark@mountainview.gov,"""Mountain View, CA""",Councilmember
+Chris,Lyon,chris.lyon@seventhgeneration.com,Seventh Generation,Manager of Mission Impact
+Chris,Watts,chris.watts@cityofdenton.com,"""Denton, TX""",Mayor
+Chris,Kauffman,chrisk@ci.hanover.mn.us,"""Hanover, MN""",Mayor
+Christina,Rinderle,ChristinaRinderle@DurangoGov.org,"""Durango, CO""",Mayor
+Christine ,Marick,christinem@ci.brea.ca.us,"""Brea, CA""",Mayor
+Christopher,Cabaldon,christopherc@cityofwestsacramento.org,"""West Sacramento, CA""",Mayor
+ Manny, Cid,cidm@miamilakes-fl.gov,"""Miami Lakes, FL""",Mayor
+Paul,Grenier,city_manager@berlinnh.gov,"""Berlin, NH""",Mayor
+Steven,Morley,cityadmin@elmhurst.org,"""Elmhurst, IL""",Mayor
+H William (Bill),Mutz,citycommission@lakelandgov.net,"""Lakeland, FL""",Mayor
+Brenda,Davis,citycomplex@hotmail.com,"""Stamps, AR""",Mayor
+Pete,Longmire,citycouncil@ci.pittsburg.ca.us,"""Pittsburg, CA""",Mayor
+ All ,Aldermen,citycouncil@cityofbatavia.net,"""Batavia, IL""",Mayor
+Carolyn,Obringer,citycouncil@cityofconcord.org,"""Concord, CA""",Mayor
+Mike,Maguire,citycouncil@cityofeagan.com,"""Eagan, MN""",Mayor
+Martine ,Watkins,citycouncil@cityofsantacruz.com,"""Santa Cruz, CA""",Mayor
+Juslyn ,Manalo,citycouncil@dalycity.org,"""Daly City, CA""",Council Member
+Diane,DuBois,citycouncil@lakewoodcity.org,"""Lakewood, CA""",Mayor
+Susan,Rohan,CityCouncil@roseville.ca.us,"""Roseville, CA""",Mayor
+Shon,Harris,citycouncil@yubacity.net,"""Yuba City, CA""",Mayor
+Sabby,Johnathon,cityhall@cityofpalmdesert.org,"""Palm Desert, CA""",Mayor
+Donald,Groesser,cityhall@cityofralston.com,"""Ralston, NE""",Mayor
+Jerry,Mouton,cityhall@deerparktx.org,"""Deer Park, TX""",Mayor
+Tim,Brown,cityhall@san-clemente.org,"""San Clemente, CA""",Mayor
+Nichole,Harris,cityoftutwiler@gmail.com,"""Tutwiler, MS""",Mayor
+Chase,Palmer,citysec@gallatintx.com,"""Gallatin, TX""",Mayor
+Cameron,Johnson,cjohnson@cityofsancarlos.org,"""San Carlos, CA""",Mayor
+Craig,Johnson,cjohnson@elkgrove.org,"""Elk Grove, IL""",Village President
+Chris,Kelley,ckelley@cityofowasso.com,"""Owasso, OK""",Mayor
+Charles,Lacey,clacey@winterspringsfl.org,"""Winter Springs, FL""",Mayor
+Cathy,Clark,clarkc@keizer.org,"""Keizer, OR""",Mayor
+Andrew,Fox,claudia4slowgrowth@roadrunner.com,Former Mayors,Former Mayor
+Curt,Leng,cleng@hamden.com,"""Hamden, CT""",Mayor
+Steven,Mabie,clerk@neillsville-wi.com,"""Neillsville, WI""",Mayor
+Clifford,Lentz,clifflentz@sbcglobal.net,"""Brisbane, CA""",Mayor
+Clint,Folsom,clintf@superiorcolorado.gov,"""Superior, CO""",Mayor
+Carly,Lorentz,clorentz@cityofgolden.net,"""Golden, CO""",Deputy City Manager
+Julie,Trude,cm.trude@andovermn.gov,"""Andover, MN""",Mayor
+Christie,Malchow,cmalchow@sammamish.us,"""Sammamish, WA""",Mayor
+Mercedes,Goni,cmobais@yahoo.com.ph,"""Bais City, Philippines""",Mayor
+Cynthia,Moran,cmoran@chinohills.org,"""Chino Hills, CA""",Mayor
+Craig,Morgan,cmorgan@roundrocktexas.gov,"""Round Rock, TX""",Mayor
+Claude,Morgan,Cmorgan@southportland.org,"""South Portland, ME""",Mayor
+Curt,Morris,cmorris@ci.san-dimas.ca.us,"""San Dimas, CA""",Mayor
+Cal,Motsch,cmotsch@cityofdubuqe.org,"""Dubuque, IA""",Fire Lieutenant  
+Cathy,Murillo,cmurillo@SantaBarbaraCA.gov,"""Santa Barbara, CA""",Mayor
+Christopher,Nelson,cnelson@wdundee.org,"""West Dundee, IL""",Village president
+Christopher ,Nelson,cnelson@wdundee.org,"""West Dundee, IL""",Mayor
+Laurie,Gere,coa.mayor@cityofanacortes.org,"""Anacortes, WA""",Mayor
+Bill,Cole,coleb@ci.billings.mt.us,"""Billings, MT""",Mayor
+Aaron,Shepley,comments@crystallake.org,"""Crystal Lake, IL""",Mayor
+Sylvain,Hudon,communication@lapocatiere.ca,"""La Pocatiere, QC (Canada)""",Mayor
+Frank,Jackson,Communications@city.cleveland.oh.us,"""Cleveland, OH""",Mayor
+Pete,Saenz,communications@petesaenzformayor.com,"""Laredo, TX""",Mayor
+John A.,Tatooles,contact@inverness-il.gov ,"""Inverness, IL""",Village President
+Steve,Conway,conways@stlouis-mo.gov,"""St. Louis, MO""",Chief of Staff
+Steve,Cooper,coopers@osage.net,"""Osage, IA""",Mayor
+Lloyd Johnson,Spence,Corey.Warshaw@westcovina.org,"""West Covina, CA""",Mayor
+Kerri,Howell,corrprincess@ardennet.com,"""Folsom, CA""",Mayor
+Cory,Poris-Plasch,cory@polco.us,Polco,"Vice President, Client Success"
+Charlotte,Craven,council@cityofcamarillo.org,"""Camarillo, CA""",Council Member
+Kevin,Kildee,council@cityofcamarillo.org,"""Camarillo, CA""",Mayor
+Elaine,Gennawey,council@cityoflagunaniguel.org,"""Laguna Niguel, CA""",Council Member 
+L. Dennis,Michael,council@cityofrc.us,"""Rancho Cucamonga, CA""",Mayor
+Robert,Rickman,council@cityoftracy.org,"""Tracy, CA""",Mayor
+Victor,Kidd,council@masonoh.org,"""Mason, OH """,Mayor
+McKinley,Price,council@nngov.com,"""Newport News, VA""",Mayor
+Anne ,Burt,council@woodburymn.gov,"""Woodbury, MN""",Mayor
+Will,Haynie,councilclk@tompsc.com,"""Mount Pleasant, SC""",Mayor
+Philip,Kramer,Councilman.Kramer@twp.franklin.nj.us,"""Franklin, NJ""",Mayor
+Glenford,Shibley,coventry@coventryri.org,Former Mayors,Former Mayor
+Kerry,McGee,coventry@coventryri.org,"""Coventry, RI""",Mayor
+Christopher,Palmieri,CPalmieri@southington.org,"""Southington, CT""",Town Council Chair 
+Christopher ,Pecak,cpecak@villageoflisle.org,"""Lisle, IL""",Village President
+Charlie,Pecaro,cpecaro@cityofhighwood.org,"""Highwood, IL""",Mayor
+Charles ,Powell,cpowell@casperwy.gov,"""Casper, WY""",Mayor
+"Charles ""Chuck""",Puckett,cpuckett@tustinca.org,"""Tustin, CA""",Mayor
+Craig,Treneff,craig.treneff@westerville.org,"""Westerville, OH""",Mayor
+Craig,McFarland,craig_mcfarland@casagrandeaz.gov,"""Casa Grande, AZ""",Mayor
+Christie,Rainwater,crainwater@cityofhanahan.com,"""Hanahan, SC""",Mayor
+Carolyn,Kay Riggle,criggle@delawareohio.net,"""Delaware, OH""",Mayor
+Chris,Rintz,CRintz@Winnetka.org,"""Winnetka, IL""",Village President
+Carrie,Rivette,crivette@grcity.us,"""Grand Rapids, MI""",Stormwater Manager
+Carson,Ross,cross@bluespringsgov.com,"""Blue Springs, MO""",Mayor
+Charles,Sass,csass@huntley.il.us,"""Huntley, IL""",Village President
+Cheryl,Selby,cselby@ci.olympia.wa.us,"""Olympia, WA""",Mayor
+Curt ,Sullivan,csullivan@cityofbondurant.com,"""Bondurant, IA""",Mayor
+Connie,Sullivan,csullivan@townoflyons.com,"""Lyons, CO""",Mayor
+Chris,Taylor,ctaylor@a2gov.org,"""Ann Arbor, MI""",Mayor
+Carrie,Tergin,ctergin@jeffcitymo.org,"""Jefferson City, MO""",Mayor
+Cyndi,Trobeck,ctrobeck@cityofotsego.org,"""Otsego, MI""",Mayor
+Charles,Tokar,ctsr2@msn.com,"""Chicago Ridge, IL""",Village President
+Casey,Urlacher,Curlacher@mettawa.org,"""Mettawa, IL""",Mayor
+Linda,Tyer,cvanbramer@pittsfieldch.com,"""Pittsfield, MA""",Mayor
+Chris,Vierra,cvierra@ci.ceres.ca.us,"""Ceres, CA""",Mayor
+Cheryl,Viegas-Walker,cwalker@cityofelcentro.org,"""El Centro, CA""",Mayor
+David,Shawver,CWarren@ci.stanton.ca.us,"""Stanton, CA""",Mayor
+Catherine,Way,cway@cityoflarkspur.org,"""Larkspur, CA""",Mayor
+Kathleen,O'Hara,cweatherall@lakebluff.org,"""Lake Bluff, IL""",Village President
+Chuck,Wexler,cwexler@policeforum.org,Police Executive Research Forum,Executive Director 
+Chris,Zellner,czellner@waunakee.com,"""Waunakee, WI""",Village President
+Dale,Adams,dadams@ci.grand-rapids.mn.us,"""Grand Rapids, MN""",Mayor
+Dan ,Agnew,dagnew@grinnelliowa.gov,"""Grinnell, IA""",Mayor
+David,Alvey,dalvey@wycokck.org,"""Kansas City, KS""",Mayor/ CEO
+David,Ament,dament@newberlin.org,"""New Berlin, WI""",Mayor
+Damon,Gale,Damon@qfrc.com,"""Otis, CO""",Mayor
+Dan,Gilman,dan.gilman@pittsburghpa.gov,"""Pittsburgh, PA""",Chief of Staff
+Dan,Neil,dan.oneil@edmondok.com,"""Edmond, OK""",Mayor
+Dan,Roe,dan.roe@cityofroseville.com,"""Roseville, MN""",Mayor
+Don,Anderson,danderson@cityoflakewood.us,"""Lakewood, WA""",Mayor
+Doug,Anderson,danderson@lakevillemn.gov,"""Lakeville, MN""",Mayor
+Dan,Gelber,dangelber@miamibeachfl.gov,"""Miami Beach, FL""",Mayor
+Daniel,Harsha,daniel_harsha@hks.harvard.edu,"""Ash Center for Democratic Governance and Innovation, Harvard Kennedy School""",Communications and Government Relations Director
+Dan,Anderson,daniela@cityofwestsacramento.org,"""West Sacramento, CA""",Fire Administration Secretary 
+Dan,Lund,danlund@live.com,"""Newport, MN""",Mayor
+Dan,Romero,danromero@ci.hercules.ca.us,"""Hercules, CA""",Mayor
+Josh,Fryday,dathas@novato.org,"""Novato, CA""",Council Member
+David,Dauer,dave.dauer@toledo.oh.gov,"""Toledo, OH""",
+Dave,Earling,dave.earling@edmondswa.gov,"""Edmonds, WA""",Mayor
+Dave,Kleis,dave.kleis@ci.stcloud.mn.us,"""St. Cloud, MN""",Mayor
+Dave,Cieslewicz,davecieslewicz@gmail.com,Wisconsin Bike federation,"Former Mayor, Madison, WI"
+David G.,Haubert,david.haubert@dublin.ca.gov,"""Dublin, CA""",Mayor
+ David,Inskeep,David.inskeep@hutchgov.com,"""Hutchinson, KS""",Mayor
+David L.,Meyer,david.meyer@fairfaxva.gov,"""Fairfax, VA""",Mayor
+David,Sweeney,David.Sweeney@boston.gov,"""Boston, MA""",Chief of Staff
+David,Weiss,david.weiss@shakeronline.com,"""Shaker Heights, OH""",Mayor
+David,Brummel,davidbrummel@warrenville.il.us,"""Warrenville, IL""",Mayor
+David,Combs,davidcombsmayor@aol.com,"""Rocky Mount, NC""",Mayor
+David,Plyler,davidp@ci.sherman.tx.us,"""Sherman, TX""",Mayor
+David,Ayers,dayers@cityofhanfordca.com,"""Hanford, CA""",Mayor
+David,Baker,dbaker@kenmorewa.gov,"""Kenmore, WA""",Mayor
+David,Basil,dbasil@hudson.oh.us,"""Hudson, OH""",Mayor
+Dona,Bate,dbatespeaking@gmail.com,"""Montpelier, VT""",City Councilor
+Dale,Berman,dberman@vil.north-aurora.il.us,"""North Aurora, IL""",Village President
+David,Bieter,dbieter@cityofboise.org,"""Boise, ID""",Mayor
+David ,Brace,dbrace@knoxvilletn.gov ,"""Knoxville, TN""",Chief Operating Officer & Deputy to the Mayor
+David,Brady,dbrady@villageofbedfordpark.com,"""Bedford Park, IL""",Village President
+Debbie,Brinkman,dbrinkman@littletongov.org,"""Littleton, CO""",Mayor 
+Diana,Broderson,dbroderson@muscatineiowa.gov,"""Muscatine, IA""",Mayor
+Daniel,Bukiewicz,dbukiewicz@oakcreekwi.org,"""Oak Creek, WI""",Mayor
+Derrick ,Burgess,DBurgess@Sauk Village.org,"""Sauk Village, IL""",Village President
+Dave ,Burgess,dburgess@windsorheights.org,"""Windsor Heights, IA""",Mayor
+Donald,Burnette,dburnette@port-orange.org,"""Port Orange, FL""",Mayor
+Dave,Campana,dcampana@marquettemi.gov,"""Marquette, MI""",Mayor
+Pat,Milliren,dchall@nelson-tel.net,"""Durand, WI""",Mayor
+Daniel A. ,Champagne,dchampagne@vernon-ct.gov,"""Vernon, CT""",Mayor
+Dave,Chapin,dchapin@vailgov.com,"""Vail, CO""",Mayor
+Dennis,Clough,dclough@cityofwestlake.org,"""Westlake, OH""",Mayor
+David,Coulter,dcoulter@ferndalemi.gov,"""Ferndale, MI""",Mayor
+Dan,Devine,ddevine@westalliswi.gov,"""West Allis, WI""",Mayor
+Daniel,Dick,ddick@fedheights.org,"""Federal Heights, CO""",Mayor
+Daniel,Dietch,ddietch@townofsurfsidefl.gov,"""Surfside, FL""",Mayor
+Dan,DiMaria,ddimaria@mortongroveil.org,"""Morton Grove, IL""",Mayor
+Diane,Dixon,ddixon@newportbeachca.gov,"""Newport Beach, CA""",Mayor
+Derek,Dobies,ddobies@cityofjackson.org,"""Jackson, MI""",Mayor
+Dean,Hummell,dean.hummell@villageofbigrock.us,"""Big Rock, IL""",Village President
+Dean,Rice,dean.rice@knoxcounty.org,"""Knox County, TN""",Chief of Staff
+Deanna,Reed,Deanna.Reed@harrisonburgva.gov,"""Harrisonburg, VA""",Mayor
+Derek,Easterling,deasterling@kennesaw-ga.gov,"""Kennesaw, GA """,Mayor
+Deborah,Feinen,Deb.Feinen@champaignil.gov,"""Champaign, IL""",Mayor
+Debra,Stone,debbiestoneforupland@gmail.com,"""Upland, CA""",Mayor
+Deloris,Prince,deloris.prince@portarthurtx.gov,Former Mayors,Former Mayor
+Bruno Ralphy ,Lozano,delriomayor@cityofdelrio.com,"""Del Rio, TX""",Mayor
+Delton,Thorson,deltont@hotmail.com,"""Augusta, WI""",Mayor
+Denis,Shortal,denis.shortal@dunwoodyga.gov,"""Dunwoody, GA""",Mayor
+Denise,Egiziaco,Denise.Egiziaco@yonkersny.gov,"""Yonkers, NY""",Chief of Staff
+Michael,Nutter,denise@mikenutterllc.com,Former Mayors,"Former Mayor, Philadelphia, PA & David N. Dinkins Professor of Professional Practice in Urban and Public Affairs"
+Dennis,Rogero,dennis.rogero@tampagov.net,"""Tampa, FL""",Chief of Staff
+Jamie,Denslow,denslowj@whitecloud.net,"""White Cloud, MI""",Mayor
+Devery,Corbin,devery.corbin@calgary.ca,"""Calgary, AB (Canada)""",Chief of Staff
+David,Gates,dgates@villageofhempsteadny.gov,"""Hempstead, NY""",Chief of Staff
+Darryl,Gissel,DGIDDEL@brla.gov,"""Parish of East Baton Rouge, LA""",Chief Administrative Officer
+David,Gonzalez,dgonzalez@chicagoheights.net,"""Chicago Heights, IL""",Mayor
+Dale,Graunke,dgraunke@delano.mn.us,"""Delano, MN""",Mayor
+David,Green,dgreen@ci.duncanville.tx.us,"""Duncanville,TX""",Mayor
+Don,Hahn,dhahn@statecollegepa.us,"""State College, PA""",Mayor
+Karen,Spiegel,DHaley@ci.corona.ca.us,Former Mayors,Former Mayor
+Dave,Harrington,dharrington@cityofalisoviejo.com,"""Aliso Viejo, CA""",Council Member
+Dianne,Herrin,dherrin@west-chester.com,"""West Chester, PA""",Mayor
+David ,Hill,dhill@waxahachie.com,"""Waxahachie, TX""",Mayor
+Dana,Hilliard,dhilliard@somersworth.com,"""Somersworth, NH""",Mayor
+David,Hillock,dhillock@littleelm.org,"""Little Elm, TX""",Mayor
+Darrell,Hinnant,dhinnant@cityofkannapolis.com,"""Kannapolis, NC""",Mayor
+Kelly,Devine,director@bbavt.org,Burlington Business Association,President
+Daniel,Mandell,djmandell@cityofelmira.net,"""Elmira, NY""",Mayor
+Wayne,Redekop,dkelley@forterie.ca,"""Fort Erie, ON (Canada)""",Mayor
+Don,Kendrick,dkendrick@ci.la-verne.ca.us,"""La Verne, CA""",Mayor
+David,Lang,dlang@iaff.org,International Association of Fire Fighters,Assistant to the General President for Governmental Affairs and Public Policy
+Dave,Lang,DLang@iaff.org,,Assistant to the General President
+Denis,Law,dlaw@rentonwa.gov,"""Renton, WA""",Mayor
+David,Lesser,dlesser@citymb.info,Former Mayors,Former Mayor
+Debra,Lewis,dlewis@coawi.org,"""Ashland, WI""",Mayor
+David,Kay,dlk2@cornell.edu,Cornell University,Senior Extension Associate
+Debbie,Long,dlong@ci.pinole.ca.us,"""Pinole, CA""",Mayor
+Daniel,MacGillis,dmacgillis@eroundlake.com,"""Round Lake, IL""",Mayor
+David,Maffei,dmaffei@lawrencetwp.com,"""Lawrence, NJ""",Mayor
+David,Martin,dmartin@ci.stamford.ct.us,"""Stamford, CT""",Mayor
+David,Mayer,dmayer@glotwp.com,"""Gloucester Township, NJ""",Mayor
+Dean,Mazzarella,dmazzarella@leominster-ma.gov,"""Leominster, MA""",Mayor
+Don,Merkes,dmerkes@ci.menasha.wi.us,"""Menasha, WI""",Mayor
+Drew ,Merrifield,dmerrifield@carlisleiowa.org,"""Carlisle, IA""",Mayor
+Dennis,Mock,dmock@cityofdalton-ga.gov,"""Dalton, GA""",Mayor
+Dennis,Morley,dmorley@eastlakeohio.com,"""Eastlake, OH""",Mayor
+Darrell,Mussatto,dmussatto@cnv.org,"""North Vancouver, BC (Canada)""",Mayor
+Mike,Dodson,dodson@cityofmhk.com,"""Manhattan, KS""",Mayor
+Domenick,Stampone,domstampone@gmail.com,"""Haledon, NJ""",Mayor
+Don,Britian,don.britian@ci.kennewick.wa.us,"""Kennewick, WA""",Mayor
+Don,Iveson,don.iveson@edmonton.ca,"""Edmonton, AB (Canada)""",Mayor
+Don,Patterson,don.patterson@ketteringoh.org,"""Kettering, OH""",Mayor
+Donald R.,Grebien,don@dongrebien.com,"""Pawtucket, RI""",Mayor
+Brian,Donoghue,donoghue@southbendin.gov,"""South Bend, IN""",Director of Civic Innovation
+Don,Ryan,donryan@villageofhempsteadny.gov,"""Hempstead, NY""",Mayor
+Doug,Echols,DougEchols@comporium.net,Former Mayors,Former Mayor
+Douglas,Nicholls,Douglas.Nicholls@YumaAZ.gov,"""Yuma, AZ""",Mayor
+Dave,Palmer,dpalmer@bsb.mt.gov,"""Butte, MT""",Mayor
+Dominick,Pangallo,dpangallo@Salem.com,"""Salem, MA""",Chief of Staff
+David,Parro,dparro@towerlakes-il.gov,"""Tower Lakes, IL""",Mayor
+Dean,Pearcy,dpearcy@spokanefire.org,"""Spokane, WA""",Fire Department Audio Video Technician
+Dominic,Persampiere,dpersampiere@cityofoviedo.net,"""Oviedo, FL""",Mayor
+Daniel,Pope,dpope@mylubbock.us,"""Lubbock, TX""",Mayor
+David,Pope,dpope@oakparkrc.com,The Residence Corporation / Oak Park Housing Authority,President/CEO
+David,Post,dpost@salisburync.gov,"""Salisbury, NC""",Mayor Pro Tem 
+Dawn,Ramsey,dramsey@sjc.utah.gov,"""South Jordan, UT""",Mayor
+Dianne,Reese,dreese@wppienergy.org,"""New Holstein, WI""",Mayor
+Dave,Ribeiro,dribeiro@aceee.org,American Council for an Energy-Efficient Economy (ACEEE),Senior Researcher
+Greg,Bogh,driddell@yucaipa.org,Former Mayors,Former Mayor
+Deborah,Robertson,drobertson@rialtoca.gov,"""Rialto, CA""",Mayor
+Deb ,Rogers  ,drogers@village.williamsville.ny.us,"""Williamsville, NY""",Mayor
+Donna,Rutherford,drutherford@cityofepa.org,"""East Palo Alto, CA""",Mayor
+Dale,Sands,dsands@vodp.net,"""Deer Park, IL""",Village President
+Domenic J.,Sarno,dsarno@springfieldcityhall.com,"""Springfield, MA""",Mayor
+ Donna, Schmitt,dschmitt@columbiaheightsmn.gov,"""Columbia Heights, MN""",Mayor
+David,Slater,DSlater@PleasantValleyMO.org,"""Pleasant Valley, MO""",Mayor
+Darren,Springer,dspringer@burlingtonelectric.com,Burlington Electric Department,Chief Operating Officer
+David,Tarter,dtarter@fallschurchva.gov,"""Falls Church, VA""",Mayor
+Daniel,Terbrack,dterbrack@berkleymich.net,"""Berkley, MI""",Mayor
+Linda,Budge,dterry@cityofranchocordova.org,"""Rancho Cordova, CA""",Council Member 
+Debbie,Testroet,DTestroet@cityofgolden.net,"""Golden, CO""",Administrative Coordinator
+Dan,Toland,dtoland@rfcity.org,"""River Falls, WI""",Mayor
+David,Tossava,Dtossava@hastingsmi.org,"""Hastings, MI""",Mayor
+Dean,Trantalis,dtrantalis@fortlauderdale.gov,"""Fort Lauderdale, FL""",Mayor
+Regina,Dunkin,dunkinr@beloitwi.gov,"""Beloit, WI""",Mayor
+Bill,Dusch,duschb@concordnc.gov,"""Concord, NC""",Mayor
+Domingo,Vargas,dvargas@cityofblueisland.org,"""Blue Island, IL""",Mayor
+Deirdre,Waterman,dwaterman@pontiac.mi.us,"""Pontiac, MI""",Mayor
+Cassie,Franklin,dwilliams@everettwa.gov,"""Everett, WA""",Mayor
+Debbie,Winn,dwinn@tooelecity.org,"""Tooele, UT""",Mayor
+Diane,Marlin,dwmarlin@urbanaillinois.us,"""Urbana, IL""",Mayor
+Dennis,Yates,dyates1329@aol.com,"""Chino, CA""",Mayor
+Mary Ann,McDonald,dyoung@trotwood.org,"""Trotwood, OH""",Mayor
+Eileen,Phipps,e.phipps@villageofwayne.org,"""Wayne, IL""",Village President
+Edd,Akers,eakers@bransonmo.gov,"""Branson, MO""",Mayor
+Elizabeth ,Callis,ecallis@townofweddington.com,"""Weddington, NC""",Mayor
+Edward,Blayney,ed.blayney@louisvilleky.gov,"""Louisville- Jefferson County, KY""",Civic Technology Manager 
+Eddie,DeLoach,edeloach@savannahga.gov,"""Savannah, GA""",Mayor
+Eric,Delong,edelong@ci.grand-rapids.mi.us,,Deputy City Manager
+Errick,Simmons,edsimmons@greenvillems.org,"""Greenville, MS""",Mayor
+Eric,Fowler,efowler@bpdvt.org,"Burlington Police Dept,""Burlington, VT""",Burlington Police Dept
+Emily,Gabel-Luddy,egabel-luddy@burbankca.gov,"""Burbank, CA""",Mayor
+Edwin,Hettermann,ehettermann@johnsburg.org,"""Johnsburg, IL""",Village President
+Michael,Wilson,EholmesinIndio@gmail.com,Former Mayors,Former Mayor
+Emily,Miota,ejmiota@mayorsinnovation.org,COWS,Senior Associate
+Emmitt,Jordan,ejordan@greenbeltmd.gov,"""Greenbelt, MD""",Mayor
+Eric,Kratochvil,ekratochvil@bpdvt.org,"Burlington Police Dept,""Burlington, VT""",Policy Analyst
+Emily,Larson,ELarson@duluthmn.gov,"""Duluth, MN""",Mayor
+Frank,Fleischer,electedofficial@mokena.org,"""Mokena, IL""",Village President
+Doug ,Jenco,electedofficials@villageofelwood.com,"""Elwood, IL""",Mayor
+Bradley,Stephens,electedofficials@villageofrosemont.org,"""Rosemont, IL""",Village President
+Elizabeth,Edwards,elizabeth.edwards@portlandoregon.gov,"""Portland, OR""","Director, Office of Government Relations"
+Elizabeth,Kautz,elizabeth.kautz@ci.burnsville.mn.us,"""Burnsville, MN""",Mayor
+Elizabeth ,Higgins,elizabeth_higgins@tempe.gov,"""Tempe, AZ""",Chief of Staff
+Eric,Lucan ,elucan@novato.org,"""Novato, CA""",Mayor
+Roger,Agpawa,emartinez@cityofmarkham.net,"""Markham, IL""",Mayor
+Eric,McCarthy,emccarthy@proterra.com,Proterra,"Senior Vice President, Government Relations, Public Policy and Legal Affairs"
+Emily, McFarland,emcfarland@cityofwatertown.org ,"""Watertown, WI""",Mayor
+Emily,Passini,emily.passini@nashville.gov,"""Nashville, TN""",Chief of Staff
+Erik,Nasarenko,enasarenko@ci.ventura.ca.us,"""Ventura, CA""",City Council Member 
+Elizabeth,Patterson,epatterson@ci.benicia.ca.us,"""Benicia, CA""",Mayor
+Edweena,Perkins,eperkins@maywood-il.org,"""Maywood, IL""",Mayor
+Eve,Phillips,ephillips@cityoforinda.org,"""Orinda, CA""",Mayor
+James,Sexton,epmayor1@gmail.com,"""Evergreen Park, IL""",Mayor
+Eric,Reed,ereed@belmont.gov,"""Belmont, CA""",Mayor
+Eric,Hogue,eric.hogue@wylietexas.gov,"""Wylie, TX""",Mayor
+Erik,Peterson,erik.peterson@surfcity-hb.org,"""Huntington Beach, CA""",Mayor
+Eric,Steinhilber,ERSteinhilber@gmail.com,"""Barnstable, MA""",Mayor
+Erik,Spande,espande@villageofwinfield.com,"""Winfield, IL""",Village President
+Esther,Manheimer,esthermanheimer@avlcouncil.com,"""Asheville, NC""",Mayor
+Ethan,Strimling,estrimling@portlandmaine.gov,"""Portland, ME""",Mayor
+Eugene,Grant,eugene.grant@seatpleasantmd.gov,"""Seat Pleasant, MD""",Mayor
+Eva,Arevuo,eva@neighborly.com,Neighborly,Director of Communications
+Everton,Morris,Everton@ourmayors.org,African American Mayors Association,Deputy Executive Director
+Stephen,Pickett,evolkening@sleepyhollowil.org,"""Sleepy Hollow, IL""",Village President
+Eileen,Weir,EWeir@indepmo.org,"""Independence, MO""",Mayor
+Enid,Weisman,eweisman@cityofaventura.com,"""Aventura, FL""",Mayor
+Edwrad,Wilson,ewilson@cityofsignalhill.org,"""Signal Hill, CA""",Mayor
+Frank,Bubenik,fbubenik@tualatin.gov ,"""Tualatin, OR""",Mayor
+T.M. Franklin,Cownie,fcownie@dmgov.org,"""Des Moines, IA""",Mayor
+ Frank ,DelCore,fdelcore@hillsborough-nj.org,"""Hillsborough Township, NJ""",Mayor
+Francisco ,Estrada,festrada@chulavistaca.gov,"""Chula Vista, CA""",Chief of Staff
+Rich,Larsen,findrichlarsen@gmail.com,"""Los Altos Hills, CA""",Mayor
+Karen,Firehock,firehock@gicinc.org,Green Infrastructure Center Inc.,Executive Director
+Michael,Tetreau,firstselectmanffld@town.fairfield.ct.us,"""Fairfield, CT""",First Selectman
+Fidencio,Joel Gallardo,fjgallardo@cityofbell.org,"""Bell, CA""",Mayor
+Frank,Klipsch,fklipsch@ci.davenport.ia.us,"""Davenport, IA""",Mayor
+Floyd,Kloc,fkloc@saginaw-mi.com,"""Saginaw, MI""",Mayor 
+Frank,Gilliam Jr,fmgilliam@cityofatlanticcity.org,"""Atlantic City, NJ""",Mayor
+Francis,Murray,fmurray@rvcny.us,"""Rockville Centre, NY""",Mayor
+Ford,Greene,fordgreene@comcast.net,"""San Anselmo, CA""",Mayor
+Frank,Ortis,fortis@ppines.com,"""Pembroke Pines, FL""",Mayor
+Carlos,Molina-Rodriguez,fortiz@munarecibo.com,"""Arecibo, PR""",Mayor
+Frank ,Podbielniak,fpodbielniak@villageofposen.org,"""Posen, IL""",Village President
+Franco,Coladipietro,franco@vil.bloomingdale.il.us,"""Bloomingdale, IL""",Mayor
+Frank,Billingsley,frank.billingsley@cityoforlando.net,"""Orlando, FL""",Chief of Staff
+Fred,Shaw,FredShaw@ci.carpinteria.ca.us,"""Carpinteria, CA""",Mayor
+Sandra,Frum,frum@northbrook.il.us,"""Northbrook, IL""",Village President
+Frank,Saverino,fsaverino@carolstream.org,"""Carol Stream, IL""",Village President
+Frank,Seffrood,fseffrood@copperascovetx.gov,"""Copperas Cove, TX""",Mayor
+Frank,DeSimone,fsoto@bensenville.il.us,"""Bensenville, IL""",Village President
+Francis,Suarez,fsuarez@miamigov.com,"""Miami, FL""",Mayor
+Frank,Trilla,ftrilla@willowbrook.il.us,"""Willowbrook, IL""",Mayor
+Sean,Ashton,fvasquez@downeyca.org,"""Downey, CA""",Council Member
+Gabriel,Scheer,gabriel@limebike.com,LimeBike,Senior Director of Strategic Development & Special Projects
+Mark,Gamba,gambam@milwaukieoregon.gov,"""Milwaukie, OR""",Mayor
+Garrett,Brinker,garrett@neighborly.com,Neighborly,Product Manager
+Gary,Phillips,gary.phillips@cityofsanrafael.org,"""San Rafael, CA""",Mayor
+Gary,Shaw,gary@centralchristiancenter.org,"""Joplin, MO""",Mayor
+Gary,Carey,gcarey@walker.city,"""Walker, MI""",Mayor
+Gary,Chesney,gchesney@mymorristown.com,"""Morristown, TN""",Mayor
+Gina,Cunningham-Picek,gcunningham@vil.woodridge.il.us,"""Woodridge, IL""",Mayor
+Gary,Waldeck,gcwaldeck@gmail.com,"""Los Altos Hills, CA""",Mayor
+John ,Stalewski,general@westmilwaukee.org,"""West Milwaukee, WI""",Mayor
+George,Cretekos,George.Cretekos@myClearwater.com,"""Clearwater, FL""",Mayor
+George,Van Dusen,george.vandusen@skokie.org,"""Skokie, IL""",Village President
+Georgia,Lord,georgia.lord@goodyearaz.gov,"""Goodyear, AZ""",Mayor
+Guy,Fugal,gfugal@pgcity.org,"""Pleasant Grove, UT""",Mayor
+Gloria,Garcia,ggarcia@ci.victorville.ca.us,"""Victorville, CA""",Mayor
+Gary ,Grasso,ggrasso@burr-ridge.gov,"""Burr Ridge, IL""",Mayor
+Gregory,Habib,ghabib@cityofgoosecreek.com,"""Goose Creek, SC""",Mayor
+Gerald,Hall,GHALL@CITYOFCEDARSPRINGS.ORG,"""Cedar Springs, MI""",Mayor
+Gia,Vitali,gia.vitali@minneapolismn.gov,"""Minneapolis, MN""",Chief of Staff
+Keith,Giagnorio,giagnoriok@villageoflombard.org,"""Lombard, IL""",Village President
+Laquan,Mitchell,giffordmunicipalcourt@centurylink.net,"""Gifford, SC""",Mayor
+Gina,Sweat,Gina.Sweat@memphistn.gov,"""Memphis, TN""",Director of Fire Services
+Dr. Gopal,Lalmalani,glalmalani@oak-brook.org,"""Oak Brook, IL""",Village President
+Gleam,Davis,gleam.davis@smgov.net,"""Santa Monica, CA""",Mayor
+Jerry P,Weiers,glendalemayor@glendaleaz.com,"""Glendale, AZ""",Mayor
+Gary ,L' Heureux,glheureux@villageofmidlothian.org,"""Midlothian, IL""",Mayor
+Gary,Lorenz,glorenz@ankenyiowa.gov,"""Ankeny, IA""",Mayor
+Gerard,Mahoney,gmahoney@cambridgefire.org,"""Cambridge, MA""",Acting Chief of Fire
+Greg,Marchildon,gmarchildon@aarp.org,AARP Vermont,Vermont State Director
+Geri,McCaleb,gmccaleb@grandhaven.org,"""Grand Haven, MI""",Mayor
+Gary,McCarthy,gmccarthy@schenectadyny.gov,"""Schenectady, NY""",Mayor
+Gary,McNamara,gmcnamara@tecumseh.ca,"""Tecumseh, ON (Canada)""",Mayor
+Genevieve,Miller,gmiller@southbendin.gov,"""South Bend, IN""",Deputy Chief of Staff
+George,Moyer,gmoyer@ci.banning.ca.us,Former Mayors,Former Mayor
+Gary,Nelund,gnelund@nortonshores.org,"""Norton Shores, MI""",Mayor
+Greg,Peterson,gpeterson@dublin.oh.us,"""Dublin, OH""",Mayor
+George,Peterson,gpeterson@rothschildwi.com,"""Rothschild, WI""",Village President
+Steven,Grant,grants@bbfl.us,"""Boynton Beach, FL""",Mayor
+Greg,Raths,graths@cityofmissionviejo.org,"""Mission Viejo, CA""",Mayor 
+Geoff,Reed,greed@lexingtonky.gov,"""Lexington, KY""",Chief of Staff
+Greg,Espinosa,greg.espinosa@portlandoregon.gov,"""Portland, OR""",Fire Department Analyst
+Greg,Fischer,greg.fischer@louisvilleky.gov,"""Louisville- Jefferson County, KY""",Mayor
+Greg,Mengarelli,Greg.mengarelli@prescott-az.gov,"""Prescott, AZ""",Mayor
+Greg,Wheeler,greg.wheeler@ci.bremerton.wa.us,"""Bremerton, WA""",Mayor
+Gregory,Jury,GregJury@loves-park.il.us,"""Loves Park, IL""",Mayor
+Gregory,Frederick,gregory.frederick@louisvilleky.gov,"""Louisville- Jefferson County, KY""",Fire Chief 
+Gretchen,DeBacker,gretchen.debacker@toledo.oh.gov,"""Toledo, OH""",Legislative Director
+Gary,Soiseth,gsoiseth@turlock.ca.us,"""Turlock, CA""",Mayor
+Greg,Szymanski,gszymanski@villageofbeecher.org,"""Beecher, IL""",Village President
+George,Tourville,gtourville@invergroveheights.org,"""Inver Grove Heights, MN""",Mayor
+Grace ,Vallejo,gvallejo@cityofdelano.org,"""Delano, CA""",Mayor
+Eugene,Williams,gwilliams@lynwoodil.us,"""Lynwood, IL""",Village President
+Gene,Winstead,gwinstead@ci.bloomington.mn.us,"""Bloomington, MN""",Mayor
+Julie,Hallman,hallmanju@yahoo.com,"""Grant, MI""",Mayor
+Harold,Weinbrecht,Harold.Weinbrecht@townofcary.org,"""Cary, NC""",Mayor
+Harriet,Rosenthal,harrietrose@comcast.net,"""Deerfield, IL""",Village President
+Harry,Kim,harry.kim@hawaiicounty.org,"""Hilo, HI""",Mayor
+Herb,Atchison,hatchison@cityofwestminster.us,"""Westminster, CO""",Mayor
+Lawrence,Haygood,haygoodl@mytu.tuskegee.edu,"""Tuskegee, AL""",Mayor
+Hazelle,Rogers,hazeller@lauderdalelakes.org,"""Lauderdale Lakes, FL""",Mayor
+Holly,Brinda,hbrinda@cityofelyria.org,"""Elyria, OH""",Mayor
+Fritz,Haemmerle,heather.dawson@haileycityhall.org,"""Hailey, ID""",Mayor
+Heidi,Williams,heidi.williams@cityofthornton.net,"""Thornton, CO""",Mayor
+Heidi,Davison,heidi@heididavison.com,Former Mayors,"Former Mayor, Athens, GA"
+Henry,Perkins Jr,"Henryjr59@outlook,com","""Winstonville, MS""",Mayor
+Heidi,Gerbracht,hgerbracht@hbbf.org,Healthy Babies Bright Futures,Bright Cities National Program Director
+Hank,Guess,hguess@hickorync.gov,"""Hickory, NC""",Mayor
+Michael,Howley,hhmayor@hickoryhillsil.org,"""Hickory Hills, IL""",Mayor
+ Lou ,French,hhpresident@villageofholidayhills.com,"""Holiday Hills, IL""",Village President
+Hilary,Huntington,hhuntington@premise.com,Premise Data,Business Development Executive
+Randy,Pope,higgins@ci.oakley.ca.us,"""Oakley, CA""",Council Member 
+Debra,Hillebrand,hillebrand@cityofwhitehall.org,"""Whitehall, MI""",Mayor
+Hank,Kuspa,hkuspa@oak-forest.org,"""Oak Forest, IL""",Mayor
+ Habeeb-Ullah,Muhammad  ,hmuhammad@forestheights.md.gov,"""Forest Heights, MD""",Mayor
+Holly,Daines,holly.daines@loganutah.org,"""Logan, UT""",Mayor
+Derrick,Wood,hondwood@dumfriesva.gov,"""Dumfries, VA""",Mayor
+Harry,Price,hprice@fairfield.ca.gov,"""Fairfield, CA""",Mayor
+ Dorothy,Armstrong,hr@villageofdixmoor.org,"""Dixmoor, IL""",Mayor
+Harry,Rilling,hrilling@norwalkct.org,"""Norwalk, CT""",Mayor
+Herb ,Roach,hroach@ofallon.org,"""O'Fallon, IL""",Mayor
+Harry,Sidhu,hsidhu@anaheim.net,"""Anaheim, CA""",Mayor
+Harold,Thompson,hthompson@cityofunion.org,"""Union, SC""",Mayor
+Samantha,Grassle,https://tech.cityofnewyork.us/contact/,"""New York, NY""","Senior Manager, Office of Chief Technology Officer"
+Brian,Hughes,hughesb@coj.net,"""Jacksonville, FL""",Chief of Staff
+Hunter,Hayes,hunter@zerocycle.co,Zerocycle,Founder & CEO
+Hubert,Yopp,hyopp@highlandparkcity.org,"""Highland Park, MI""",Mayor
+Ian,Baltutis,ibaltutis@ci.burlington.nc.us,"""Burlington, NC""",Mayor
+Mary,Hamann-Roland,info@ci.apple-valley.mn.us,"""Apple Valley, MN""",Mayor
+Wayne,Jett,info@ci.mchenry.il.us,"""McHenry, IL""",Mayor
+Ginger,Gherardi,info@ci.santa-paula.ca.us,Former Mayors,Former Mayor
+Clint,Garman ,info@ci.santa-paula.ca.us,"""Santa Paula, CA""",Mayor
+Tom,Lohman,info@cityofmontague.org,"""Montague, MI""",Mayor
+Freddie,DeCourt,info@cityofnewiberia.com,"""New Iberia, LA""",Mayor
+Bradley,Sellers,info@cityofwarrensville.com,"""Warrensville Heights, OH""",Mayor
+Eleanor,McDonnell,info@northbarrington.org,"""North Barrington, IL""",Mayor
+Keith,Jackson,info@rochesterpa.org,"""Rochester, PA""",Mayor
+Lawrence,Levin,info@villageofglencoe.org,"""Glencoe, IL""",Village President
+Steve,Cross,info@villageofpeotone.com,"""Peotone, IL""",Mayor/ Village president
+Mara,Hanel,info@warrenminnesota.com,"""Warren, MN""",Mayor
+Danny,Helgerson,info@westbywi.com,"""Westby, WI""",Mayor
+Larry,McCallon,information@cityofhighland.org,"""Highland, CA""",Mayor Pro Tem
+Jackie,Millet,information@cityoflonetree.com,"""Lone Tree, CO""",Mayor
+Lori,Lightfoot,invitationforthemayor@cityofchicago.org,"""Chicago, IL""",Mayor
+Rahm,Emanuel,invitationforthemayor@cityofchicago.org,Former Mayors,Former Mayor
+Bill,De Blasio,invitethemayor@cityhall.nyc.gov,"""New York, NY""",Mayor
+Daniel,Balice,IONIAMAYOR@CI.IONIA.MI.US,"""Ionia, MI""",Mayor
+Iris,Smotrich,iriss@ranchomirageca.gov,"""Rancho Mirage, CA""",Mayor
+Jose,Alvarez,jaalvarez@kissimmee.org,"""Kissimmee, FL""",Mayor
+Jacob,Frey,jacob.frey@minneapolismn.gov,"""Minneapolis, MN""",Mayor
+Joy,Adams,jadams@hallandalebeachfl.gov,"""Hallandale Beach, FL""",Mayor
+JD ,Mangat,jaideep.mangat@gmail.com,"""Lafayette, CO""",City Councilor 
+Jess,Alumbaugh,jalumbaugh@marionindiana.us,"""Marion, IN""",Mayor
+James,Kenney,James.Kenney@phila.gov,"""Philadelphia, PA""",Mayor
+James,Mayo,james.mayo@ci.monroe.la.us,"""Monroe, LA""",Mayor
+James,Price,james.price@toledo.oh.gov,"""Toledo, OH""",Fire Deputy Chief
+James,McIntyre,james@neighborly.com,Neighborly,Head of Public Finance
+James,Morgan,jamesmorgan@derrynh.org,"""Derry, NH""",Mayor
+Jamie,Harkins,jamie.harkins@cityoflafayette.com,"""Lafayette, CO""",Mayor Pro Tem
+Jane,Castor,jane.castor@tampagov.net,"""Tampa, FL""",Mayor
+Jim,Ardis,jardis@peoriagov.org,"""Peoria, IL""",Mayor
+Jesse,Arreguin,jarreguin@CityofBerkeley.info,"""Berkeley, CA""",Mayor
+Jud,Ashman,jashman@gaithersburgmd.gov,"""Gaitherburg, MD""",Mayor
+Jason,Scott,Jason.Scott@CoronaCA.gov,"""Corona, CA""",Mayor
+Jason ,Bockenstedt ,jasonbockenstedtjr@muni.org,"""Anchorage, AK""",Deputy Chief of Staff
+Javier,Perea,javier.perea@sunlandpark-nm.gov,"""Sunland Park, NM""",Mayor
+Javier,Sanchez,javiersanchez@espanolanm.gov,"""Espanola, NM""",Mayor
+Jay,Wagner,Jay.Wagner@highpointnc.gov,"""High Point, NC""",Mayor
+Jack,Blair,jblair@cityoftulsa.org,"""Tulsa, OK""",Chief of Staff
+Jonathan ,Bolen,jbolen@laprairiemn.com,"""LaPrairie, MN""",Mayor
+Jim,Bowlin,jbowlin@cityofwildwood.com,"""Wildwood, MO""",Mayor
+James,Brainard,jbrainard@carmel.in.gov,"""Carmel, IN""",Mayor
+Julie Ward,Bujalski,jbujalski@dunedinfl.net,"""Dunedin, FL""",Mayor
+Jennifer ,Carroll,jcarroll@erieco.gov,"""Erie, CO""",Mayor
+Jim,Carruthers,jcarruthers@traversecitymi.gov,"""Traverse City, MI""",Mayor
+John,Carter,jcarter@prtcnet.com,"""Gray Court, SC""",Mayor
+John,Chelminiak,jchelminiak@bellevuewa.gov,"""Bellevue, WA""",Mayor
+Jeffery,Cheney,jcheney@friscotexas.gov,"""Frisco, TX""",Mayor
+Jennifer,Clark,jclark@wirapids.org,"""Wisconsin Rapids, WI""",Executive Coordinator
+Jamie,Clary,jclary@hvilletn.org,"""Hendersonville, TN""",Mayor
+Joseph M.,Corradino,jcorradino@pinecrest-fl.gov,"""Pinecrest, FL""",Mayor
+Joe,Coviello,jcoviell@capecoral.net,"""Cape Coral, FL""",Mayor
+Joyce,Craig,jcraig@manchesternh.gov,"""Manchester, NH""",Mayor
+Jeremy,Culuko,jculuko@sandiego.gov,"""San Diego, CA""","Program Manager, Performance & Analytics Department "
+Kim,Conway,jcurran@town.billerica.ma.us,"""Billerica, MA""",Mayor
+Jacob,Day,jday@ci.salisbury.md.us,"""Salisbury, MD""",Mayor
+Joe,Deal,JDEAL@CITYOFCHICAGO.ORG,"""Chicago, IL""",Chief of Staff
+Jan,Devereux,jdevereux@cambridgema.gov,"""Cambridge, MA""",Vice Mayor
+Jim,Diaz,jdiaz@ci.clayton.ca.us,"""Clayton, CA""",Mayor
+James,Discipio,jdiscipio@lagrangepark.org,"""LaGrange Park, IL""",Village President
+John,Duran,jduran@weho.org,"""West Hollywood, CA""",Mayor
+Jonathon,Ende,je@seamlessdocs.com,SeamlessDocs,CEO 
+Jean,Stothert,jean.stothert@ci.omaha.ne.us,"""Omaha, NE""",Mayor
+Jeff,Snow,jeff.snow@iafc.org,International Association of Fire Fighters,Deputy Chief
+Jeff,Williams,jeff.williams@arlingtontx.gov,"""Arlington, TX""",Mayor
+Jeff,Greene,jeffhgreene@springsgov.com,"""Colorado Springs, CO""",Chief of Staff
+Jeffrey,Lune,jeffrey.lunde@brooklynpark.org,"""Brooklyn Park, MN""",Mayor
+Jeffrey,Snyder,Jeffrey_Snyder@comcast.com,Comcast,"Manager, Government and Regulatory Affairs (Michigan)"
+John,Egofske,jegofske@lemont.il.us,"""Lemont, IL""",Mayor
+Jenn,Daniels,Jenn.Daniels@gilbertaz.gov,"""Gilbert, AZ""",Mayor
+Jennifer,Arguinzoni,jennifer.arguinzoni@portlandoregon.gov,"""Portland, OR""",Director of External Affairs
+Jennifer,Godzeno,jennifer@participatorybudgeting.org,Participatory Budgeting Project,Deputy Director
+Jenny,Durkan,jenny.durkan@seattle.gov,"""Seattle, WA""",Mayor
+Jerry ,Duhovic,jerry.duhovic@rpvac.gov,"""Rancho Palos Verdes, CA""",Mayor
+Jerry,Faust,jerry.faust@ci.saint-anthony.mn.us,"""St. Anthony, MN""",Mayor
+Gerald,DeWolfe,jerry@villageofellsworth.org,"""Ellsworth,WI""",Mayor
+Lincoln ,Saunders,jesaun@wm.edu,"""Richmond, VA""",Chief of Staff
+Jessica,Finn Coven,jessica.finncoven@seattle.gov,"""Seattle, WA""","Director, Office of Sustainability and Environment"
+Jesus,Silva,jesuss@cityoffullerton.com,"""Fullerton, CA""",Mayor
+Arlene,Jezierny,jeziernya@harwoodheights.org,"""Harwood Heights, IL""",Mayor
+Justin,Flippen,jflippen@wiltonmanors.com,"""Wilton Manors, FL""",Mayor
+Joel,Flores,jflores@greenacresfl.gov,"""Greenacres, FL""",Mayor
+James,Ford,JFord@countryclubhills.org,"""Country Club Hills, IL""",Mayor
+Jason ,Gadd,jgadd@hopkinsmn.com,"""Hopkins, MN""",Mayor
+Jason,Gray,jgary@CRgov.com,"""Castle Rock, CO""",Mayor
+John,Gayle,jgayle@valdostacity.com,"""Valdosta, GA""",Mayor
+Jim,Ginn,jginn@centralhuron.com,"""Central Huron, ON (Canada)""",Mayor
+Jennifer,Green,jgreen@CRgov.com,Former Mayors,Former mayor
+Jennifer,Gregerson,jgregerson@mukilteowa.gov,"""Mukilteo, WA""",Mayor
+John,Haila,jhaila@city.ames.ia.us,"""Ames, IA""",Mayor
+Jeff,Hall,jhall@newarkohio.net,"""Newark, OH""",Mayor
+John,Harrington,jharrington@sgch.org,"""San Gabriel, CA""",Mayor
+Jim,Hill,jhill@arroyogrande.org,"""Arroyo Grande, CA""",Mayor
+Jeffrey ,Hoffman,jhoffman@simplygrid.com,Move Systems,"Vice President, Operational Systems"
+Justin,Holmes,jholmes@zipcar.com,Zipcar,"Director, Corporate Communications and Public Policy"
+James,Hovland,jhovland@EdinaMN.gov,"""Edina, MN""",Mayor
+Jane ,Hughson,jhughson@sanmarcostx.gov,"""San Marcos, TX""",Mayor
+Jeff,Hulse,jhulse@cityofgolden.net,"""Golden, CO""",Fire Lieutenant
+Jim,Brown,jim.brown@cedarfalls.com,"""Cedar Falls, IA""",Mayor
+Jim,Ferrell,jim.ferrell@cityoffederalway.com,"""Federal Way, WA""",Mayor
+Jim,Griffin,jim.griffin@bedfordtx.gov,"""Bedford, TX""",Mayor
+James,Langfelder,jim.langfelder@springfield.il.us,"""Springfield, IL""",Mayor
+Jim,Riding,jim.riding@westjordan.utah.gov,"""West Jordan, UT""",Mayor
+Jim,Holland,jimholland123@gmail.com,"""Frankfort, IL""",Village President
+Jimmy ,Matta ,jimmym@burienwa.gov,"""Burien, WA""",Mayor
+Jim,Pruitt,JimPruitt@rockwall.com,"""Rockwall, TX""",Mayor
+Jim,Throgmorton,jim-throgmorton@iowa-city.org,"""Iowa City, IA""",Mayor
+James,Yarbrough,JimYarbrough@cityofgalveston.org,"""Galveston, TX""",Mayor
+Jessica,Sloan,jjackson@cityofmillvalley.org,"""Mill Valley, CA""",Mayor
+James,Jajuga,jjajuga@ci.methuen.ma.us,"""Methuen, MA""",Mayor
+Joe,Jefferson,jjefferson@englewoodgov.org,Former Mayors,Former Mayor
+John Mark,Jennings,JJennings@cityoflagunaniguel.org,"""Laguna Niguel, CA""",Mayor
+John,Fetterman,jkf99@post.harvard.edu,Former Mayors,"Former Mayor, Braddock, PA"
+Jack,Killion,jkillion@twp.pennsauken.nj.us,"""Pennsauken Township, NJ""",Mayor
+Josh,Knepper,jknepper@cityofdubuque.org,"""Dubuque, IA""",
+Jerry,Koch,jkoch@coonrapidsmn.gov,"""Coon Rapids, MN""",Mayor
+"W.J. ""Jim""",Lane,jlane@scottsdaleaz.gov,"""Scottsdale, AZ""",Mayor
+John,Lane,jlane@winnipeg.ca,"""Winnipeg, MB (Canada)""",Fire Chief 
+Jason,Lary,jlary@stonecrestga.gov,"""Stonecrest, GA""",Mayor
+John,Lebeaux,jlebeaux@shrewsburyma.gov,"""Shrewsbury, MA""",Chairman of Board of Selectmen
+Ruth,Low,jlin@diamondbarca.gov,"""Diamond Bar, CA""",Council Member
+Jeff,Longwell,JLongwell@wichita.gov,"""Wichita, KS""",Mayor
+John,Lundell,jlundell@ci.coralville.ia.us,"""Coralville, IA""",Mayor
+Jeffrey,Magnussen,jmagnussen@hampshireil.org,"""Hampshire, IL""",Village President
+John,Mahoney,jmahoney@palospark.org,"""Palos Park, IL""",Mayor
+Joseph,Marchese,jmarchese@darienil.gov,"""Darien, IL""",Mayor
+Jan Howell,Marx,jmarx@slocity.org,"""San Luis Obispo, CA""",Mayor
+Jim,Matherly,jmatherly@fairbanks.us,"""Fairbanks, AK""",Mayor
+Josh,Maxwell,Jmaxwell@Downingtown.org,"""Downingtown, PA""",Mayor
+John,McCabe,jmccabe@ci.pekin.il.us,,Former Mayor
+John ,McCabe,jmccabe@ci.pekin.il.us,"""Pekin, IL""",Mayor
+James,McDonald,jmcdonald@lake-villa.org,"""Lake Villa, IL""",Mayor
+Joseph,McElveen,jmcelveen@sumter-sc.com,"""Sumter, SC""",Mayor
+Jamie,McGarvey,jmcgarvey@townofparrysound.com,"""Parry Sound, ON (Canada)""",Mayor
+John,McTaggart,jmctaggartmayor@aol.com,"""Edwardsville, KS""",Mayor
+Greg,Davies,jmdavis@columbus.gov,"""Columbus, OH""","Chief of Staff, Mayor's Office"
+John,Minto,jminto@cityofsanteeca.gov,"""Santee, CA""",Mayor
+Jenny,Dodson Mistry,jmistry@nirhealth.org,National Institute for Reproductive Health,Senior Manager of Special Initiatives
+Jean,Mordo,jmordo@losaltosca.gov,"""Los Altos, CA""",Mayor
+Jason,Morse,jmorse@polkcity.org,"""Polk City, IA""",Mayor
+John ,Skillman,jmskillman@cville.org,"""Carpentersville, IL""",Mayor
+Julie,Moore-Wolfe,jmwolfe@decaturil.gov,"""Decatur, IL""",Mayor
+Joshua,Naramore,jnaramore@grcity.us,"""Grand Rapids, MI""",Mobile GR Director
+Julie,Nelson,Jnelson@raceforward.org,"""University of California, Berkeley""",Co-Director of GARE
+John,Ness,jness@wppienergy.org,"""Lodi, WI""",Mayor
+Justin,Nickels,jnickels@manitowoc.org,"""Manitowoc, WI""",Mayor
+John,Noak,jnoak@romeoville.org,"""Romeoville, IL""",Mayor
+John,Norris,jnorris@villageofriverwood.com,"""Riverwoods, IL""",Mayor
+Joe,McComb,joe.mccomb@cctexas.com,"""Corpus Christi, TX""",Mayor
+Joe ,Patterson,joe.patterson@rocklin.ca.us,"""Rocklin, CA""",Mayor
+Joe,Pitts,joe.pitts@cityofclarksville.com,"""Clarksville, TN""",Mayor
+Joel ,Greer,joel@cdrlaw.com,"""Marshalltown, IA""",Mayor
+Michael,Vo,john.collins@fountainvalley.org,"""Fountain Valley, CA""",Council Member
+John,Falcicchio,john.falcicchio@dc.gov,District of Columbia,Chief of Staff
+John,Gates,John.Gates@greeleygov.com,"""Greeley, CO""",Mayor
+John,Gettys,John.Gettys@cityofrockhill.com,"""Rock Hill, SC""",Mayor
+John,Hoppough,JOHN.HOPPOUGH@GMAIL.COM,"""Greenville, MI""",Mayor
+John,Hucker,john.hucker@villageofbeachpark.com,"""Beach Park, IL""",Village President
+John,Pourciau,john.pourciau@nola.gov,"""New Orleans, LA""",Chief of Staff
+John,Stromberg,john@council.ashland.or.us,"""Ashland, OR""",Mayor
+John,Clark,JohnClark@kingsporttn.gov,"""Kingsport, TN""",Mayor
+John,McCann,JohnM@hiltonheadislandsc.gov,"""Hilton Head Island, SC""",Mayor
+John,Schmitt,johnschmitt@algonquin.org,"""Algonquin, IL""",Village President
+Jonathan,Rothschild,jonathanrothschildaz@gmail.com,"""Tucson, AZ""",Mayor
+Suzanne,Jones,joness@bouldercolorado.gov,"""Boulder, CO""",Mayor
+Joni,Wickham,joni.wickham@kcmo.org,"""Kansas City, MO""",Chief of Staff
+Jon,Robinson,jonr@cityofwestsacramento.org,"""West Sacramento, CA""",Deputy City Manager
+Jordan,Redell,jordan@burlingtonvt.gov,"""Burlington, VT""",Mayor's Assistant
+Joe,Pedulla,Joseph.Pedulla@niagarafallsny.gov,"""Niagara Falls, NY""",Fire Chief
+Joseph,Koziura,joseph_koziura@cityoflorain.org,"""Lorain, OH""",Mayor
+Glenn,Joseph,josephg@bbfl.us,"""Boynton Beach, FL""",Fire Chief 
+Josh,Carpenter,josh.carpenter@birminghamal.gov,"""Birmingham, AL""",Director of the Department of Innovation and Economic Opportunity
+John,Ostenburg,jostenburg@vopf.com,"""Park Forest, IL""",Village President
+Josh,Owens,jowens@grcity.us,"""Grand Rapids, MI""",Administrative Analyst
+John,Palmer,jpalmer@ci.puyallup.wa.us,"""Puyallup, WA""",Mayor
+Jim,Patterson,jpatterson@glenview.il.us,"""Glenview, IL""",Village President
+Jim,Bouley,jpbouley@comcast.net,"""Concord, NH""",Mayor
+Jennifer,Perez,jperez@norwalkca.gov,"""Norwalk, CA""",Mayor
+Jhonny,Pineda,jpineda@hpca.gov,"""Huntington Park, CA""",Mayor
+James,Popp,jpopp@villageofmonee.org,"""Monee, IL""",Mayor
+John,Pritchard,jpritchard@ci.galesburg.il.us,"""Galesburg, IL""",Mayor
+John ,Purcell,jpurcell@yorkville.il.us,"""United Yorkville, IL""",Mayor
+Jordan ,Redell,jredell@burlingtonvt.gov,"""Burlington, VT""",Chief of Staff
+Jade,Riley,jriley@cityofboise.org,"""Boise, ID""",Chief of Staff
+Joseph,Rocha,jrocha@ci.azusa.ca.us,"""Azusa, CA""",Mayor
+Joel,Rogers,jrogers60@gmail.com,COWS,Director
+Joseph,Roudez,jroudez@university-park-il.com,"""University Park, IL""",Mayor
+J.D.,Ryan,jryan@villageofalsip.org,"""Alsip, IL""",Mayor
+Joshua ,Rydell,jrydell@coconutcreek.net,"""Coconut Creek, FL""",Mayor
+Joe,Schember,jschember@erie.pa.us,"""Erie, PA""",Mayor
+Jim,Schwantz,jschwantz@palatine.il.us,"""Palatine, IL""",Mayor
+Jeremy,Schwarz,jschwarz@miamigov.com,"""Miami, FL""",Chief of Staff
+Ian,Bain,jseybert@redwoodcity.org,"""Redwood City, CA""",Mayor
+Joan,Shannon,jshannon@burlingtonvt.gov,"""Burlington, VT""",City Councilor
+Joe ,Shumway,jshumway@cityoflaramie.org,"""Laramie, WY""",Mayor
+Jose,Sigala,jsigala@tulare.ca.gov,"""Tulare, CA""",Mayor
+John,Cannon,jsnyder@portage-in.com,"""Portage, IN""",Mayor
+Jose Luis,Solache,jsolache@lynwood.ca.us,"""Lynwood, CA""",Mayor
+Jeanne,Sorg,jsorg@borough.ambler.pa.us,"""Ambler, PA""",Mayor
+Jeff,Stone,jstone@kapurinc.com,Kapur & Associates,Senior Consultant
+Matthew,Castelli,jstupka@middleburgheights.com,"""Middleburg Heights, OH""",Mayor
+John,Suthers,jsuthers@springsgov.com,"""Colorado Springs, CO""",Mayor
+Jill,Techel,jtechel@cityofnapa.org,"""Napa, CA""",Mayor
+Jerry,Thorne,jthorne@ci.pleasanton.ca.us,"""Pleasanton, CA""",Mayor
+John,Turner,jturner@ci.pendleton.or.us,"""Pendleton, OR""",Mayor
+Juan Carlos,Bermudez,JuanCarlos.Bermudez@cityofdoral.com,"""Doral, FL""",Mayor
+Judson,Marshall,jud.marshall@ci.mahtomedi.mn.us,"""Mahtomedi, MN""",Mayor
+Judy ,Cantrell,judy@bangthetable.com,Bang the Table,"Director, Global Marketing and Communications"
+Judith,Paul,judy_paul@davie-fl.gov,"""Davie, FL""",Mayor
+Julia,Notar-Francesco,julia@seeclickfix.com,SeeClickFix,Account Executive
+Julianna ,Charchun,julianna.charchun@edmonton.ca,"""Edmonton, AB (Canada)""",Chief of Staff
+Jospeh,Meyer,jumeyer@covingtonky.gov,"""Covington, KY""",Mayor
+Junie,White,juniewhite1937@gmail.com,"""Spartanburg, SC""",Mayor
+Justin,Wilson,justin.wilson@alexandriava.gov,"""Alexandria, VA""",Mayor
+Jacob,Vandenberg,jvandenberg@tinleypark.org,"""Tinley Park, IL""",Mayor
+Joe,Vinatieri,jvcc@bewleylaw.com,"""Whittier, CA""",Mayor
+Jeff,Walik,jwalik@villageofstickney.com,"""Stickney, IL""",Mayor
+Jeffrey,Walter,jwalter@elburn.il.us,"""Elburn, IL""",Village President
+Jermaine ,Wilson,jwilson@firstcity.org,"""Leavenworth, KS""",Mayor
+Julie,Winter ,jwinter@cityofredding.org,"""Redding, CA""",Mayor
+Janine,Wright,jwright@bpdvt.org,"Burlington Police Dept,""Burlington, VT""",Deputy Chief
+Joe,Zimmerman,jzimmerman@sugarlandtx.gov,"""Sugar Land, TX""",Mayor
+Tim,Kabat,kabatt@cityoflacrosse.org,"""La Crosse, WI""",Mayor
+Karyl ,Matsumoto ,karyl.matsumoto@ssf.net,South San Francisco ,Mayor
+Kate,Stewart,KateS@takomaparkmd.gov,"""Takoma Park, MD""",Mayor
+Katherine,Saucier,katherine.saucier@newbedford-ma.gov,New Bedford MA,Special Assistant to Mayor Jon Mitchell
+Kathy,Coffey,kathy.coffey@yakimawa.gov,"""Yakima, WA""",Mayor
+Kathy,Meehan,Kathy.Meehan@mlbfl.org,"""Melbourne, FL""",Mayor
+Katie,Sheehy,katie.sheehy@seattle.gov,"""Seattle, WA""",Senior Planner
+Keisha,Lance Bottoms,kbottoms@atlantaga.gov,"""Atlanta, GA""",Mayor
+Kurt,Bradburn,kbradburn@sandy.utah.gov,"""Sandy City, UT""",Mayor
+"CB ""Kelly""",Burk,kburk@leesburgva.gov,"""Leesburg, VA""",Mayor
+Kathy,Carroll-Duda,kcarrollduda@cityofgeneseo.com,"""Geneseo, IL""",Mayor
+Kristen,Cloutier,kcloutier@lewistonmaine.gov,"""Lewiston, ME""",Mayor 
+Kathy,Curtis,KCurtis@villageofmaplepark.com,"""Maple Park, IL""",Village President
+Karen,Darch,kdarch@barrington-il.gov,"""Barrington, IL""",Village President
+Kathy,Ehley,kehley@wauwatosa.net,"""Wauwatosa, WI""",Mayor
+Kelly,Girtz,kelly.girtz@accgov.com,Athens-Clarke County,Mayor
+Ken,Moore,ken.moore@franklintn.gov,"""Franklin, TN""",Mayor
+Ken,Rosenberg,ken.rosenberg@mountainview.gov,Former Mayors,Former Mayor
+Kevin,Esser,kesser@cityofdubuque.org,"""Dubuque, IA""",Assistant Fire Chief
+Kimberlee ,Wyche Etheridge,ketheridge@mmc.edu,Meharry Medical College,"Interim Director, Meharry Medical College MSPH Program, Assistant professor in Public Health and Pediatrics"
+Kevin,Hartke,kevin.hartke@chandleraz.gov,"""Chandler, AZ""",Mayor
+Kevin,King,kevin.king@stpete.org,"""St. Petersburg, FL""",Chief of Staff
+Kevin,Faulconer,kevinfaulconer@sandiego.gov,"""San Diego, CA""",Mayor
+Kurt, Folcher,kfolcher@mountlaurel.com,"""Mount Laurel Township, NJ""",Mayor
+Kassandra,Frederique,kfrederique@drugpolicy.org,Drug Policy Alliance,Director
+Karen,Freeman-Wilson,kfreemanwilson@ci.gary.in.us,"""Gary, IN""",Mayor
+Kelly,Fong Rivas,kfrivas@cityofsacramento.org,"""Sacramento, CA""",Chief of Staff
+Kevin ,Gibson,kgibson@wainfleet.ca,"""Wainfleet, ON (Canada)""",Mayor
+Kip,Greenhill,kgreenhill@uaoh.net,"""Upper Arlington,OH""",Mayor
+Kent,Guinn,kguinn@ocalafl.org,"""Ocala, FL""",Mayor
+Joneigh,Khaldun,khaldunj@detroitmi.gov,,Chief Deputy Director for Health and Chief Medical Executive for Michigan Department of Health and Human Services
+Kurt,Hunstiger,khunstiger@ci.sauk-rapids.mn.us,"""Sauk Rapids, MN""",Mayor
+Karen,Hunt,khunt@coppelltx.gov,"""Coppell, TX""",Mayor
+Kim ,Lundgren,kim@kimlundgrenassociates.com,Kim Lundgren Associates,Principal
+Dan,Borgmeyer,kimberly.hudson@stcharlescitymo.gov,"""St. Charles, MO""",Mayor
+Kent,Keel,kkeel@CityofUP.com,"""University Place, WA""",Mayor
+Peter,Ohtaki,kkeith@menlopark.org,Former Mayors,Former Mayor
+Kit,Ketchmark,kketchmark@brookfieldil.gov,"""Brookfield, IL""",Village President
+Kevin,Klynstra,KKLYNSTRA@CITYOFZEELAND.COM,"""Zeeland, MI""",Mayor
+Kurt ,Kostuch,kkostuch@vocwi.com,"""Crivitz, WI""",Mayor
+Karalyn,Kratowicz,kkratowicz@cityofmadison.com,"""Madison, WI""",Data Projects Coordinator
+Ken,Kreutzer,kkreutzer@brightonco.gov,"""Brighton, CO""",Mayor
+Kristine,Lott,klott@winooskivt.gov,"""Winooski, VT""",Mayor
+Karen,Majewski,kmajewski@hamtramckcity.com,"""Hamtramck, MI""",Mayor
+Kimmy ,Martinez,kmartinez@villageofhebron.org,"""Hebron, IL""",Village President
+Kenneth,Massey,kmassey@fhgov.com,"""Farmington Hills, MI""",Mayor
+Kevin,Casey,kmcasey54@hotmail.com,"""Hometown, IL""",Village President
+Ken ,McClure,kmcclure@springfieldmo.gov,"""Springfield, MO""",Mayor
+Kent,McDowell,kmcdowell@cantoncityhall.org,"""Canton, IL""",Mayor
+Kurt,Metzger,kmetzger@cityofpleasantridge.org,"""Pleasant Ridge, MI""",Mayor
+Karl,Mooney,kmooney@cstx.gov,"""College Station, TX""",Mayor
+"Marshall ""Duffy""",Duffield,kmuldoon@newportbeachca.gov,"""Newport Beach, CA""",Council Member
+Kyra,S. Naumoff Shields,knaumoff@hbbf.org,Healthy Babies Bright Futures,Science and Research Coordinator for Bright Cities 
+Kathleen,Newsham,knewsham@baycitymi.org,"""Bay City, MI""",Mayor
+Kim,Norton,knorton@rochestermn.gov,"""Rochester, MN""",Mayor
+Katya,Spear,knspear@mayorsinnovation.org,COWS,Senior Associate
+Kristie,S. Overson,koverson@taylorsvilleut.gov,"""Taylorsville, UT""",Mayor
+Ken ,Palmer,kpalmer@manchestertwp.com,"""Manchester Township, NJ""",Mayor
+Keith,Pekau,kpekau@orlandpark.org,"""Orland Park, IL""",Mayor
+Kurt ,Peluso,kpeluso@fairlawn.org,"""Fair Lawn, NJ""",Mayor
+Kenneth,"Peterson, Jr.",kpeterson@villageofsteger.org,"""Steger, IL""",Village President
+Lyda,Krewson,krewsonl@stlouis-mo.gov,"""St. Louis, MO""",Mayor
+Kevin,Richardson,krichardson@lakebarrington.org,"""Lake Barrington, IL""",Village president
+Kim ,Roscoe,kroscoe@cityoffife.org,"""Fife, WA""",Mayor
+Kathleen,Rose,krose@riversidemo.com,"""Riverside, MO""",Mayor
+John,Krueger,krueger@cityofmentor.com,"""Mentor, OH""",President of the council
+Kevin,Scarpati,kscarpati@meridenct.gov,"""Meriden, CT""",Mayor
+Kelly ,Seyarto,kseyarto@MurrietaCA.gov,"""Murrieta, CA""",Mayor
+Kelly,Shaw,kshaw@cityofindianola.com,"""Indianola, IA""",Mayor
+Kimberley,Sims,ksims@cityofmuskegonheights.org,"""Muskegon Heights, MI""",Mayor
+Kenson,Siver,ksiver@cityofsouthfield.com,"""Southfield, MI""",Mayor
+Jeffry,Wosje,kslavik@ci.plymouth.mn.us,"""Plymouth, MN""",Mayor
+Kelly,Stoddard Poor,kstoddardpoor@aarp.org,AARP Vermont,Director of Outreach
+Kent,Studebaker,kstudebaker@ci.oswego.or.us,"""Lake Oswego, OR""",Mayor
+Katrina,Thompson,kthompson@broadview-il.gov,"""Broadview, IL""",Village President
+Ken ,Thurston,kthurston@lauderhill-fl.gov,"""Lauderhill, FL""",Mayor
+Kristofer,Turnbow,Kturnbow@raymore.com,"""Raymore, MO""",Mayor
+Kevin,Wallace,kwallace@vbartlett.org,"""Bartlett, IL""",Village President
+Krzysztof,Wasowicz,kwasowicz@villageofjustice.org,"""Justice, IL""",Mayor
+Kenn,Weise,kweise@avondale.org,"""Avondale, AZ""",Mayor
+Knox,White,kwhite@greenvillesc.gov,"""Greenville, SC""",Mayor
+Kara,Wood,kwood@grcity.us,"""Grand Rapids, MI""","Managing Director, Economic Development"
+Lucas,Herring,L.Herring@barrecity.org,"""Barre, VT""",Mayor
+Kevin,Richardson ,LakeBarrington@LakeBarrington.org,"""Lake Barrington, IL""",Village President
+Lance,Olive,Lance.Olive@apexnc.org,"""Apex, NC""",Mayor
+Linda,Anderson,landerson@ci.douglas.mi.us,"""Douglas, MI""",Mayor
+Lovith,Anderson,Landerson@cityoflakecity.org,"""Lake City, SC""",Mayor
+Sharon,Lane,lanese@muni.org,"""Anchorage, AK""",Executive Assistant
+Andy,Schor,Lansing.Mayor@lansingmi.gov,"""Lansing, MI""",Mayor
+Lonelle,Archuleta,larchuleta80631@outlook.com,"""Garden City, CO""",Mayor
+Larry,Dominick,larry@thetownofcicero.com,"""Cicero, IL""",Village President
+Larry,Klein,larrykleinsunnyvale@gmail.com,"""Sunnyvale, CA""",Mayor
+Loreal,Arscott,larscott@miamigardens-fl.gov,"""Miami Gardens, FL""",Director of Civic Engagement
+Craig A. ,Moe,laurelmayor@laurel.md.us,"""Laurel, MD""",Mayor
+Len,Austin,laustin@clarendonhills.us,"""Clarendon Hills, IL""",Village President
+Larry,Bird,lbird@cityofhesperia.us,"""Hesperia, CA""",Mayor
+Lili,Bosse,lbosse@beverlyhills.org,"""Beverly Hills, CA""",Mayor
+LaToya,Cantrell,lcantrell@nola.gov,"""New Orleans, LA""",Mayor
+Laura,Christman,lchristman@cherryhillsvillage.com,Former Mayors,Former Mayor
+John,Lee,leej@cityofnorthlasvegas.com,"""North Las Vegas, NV""",Mayor
+Len,Augustine,len.augustine@cityofvacaville.com,"""Vacaville, CA""",Mayor
+Len,Simon,Len.Simon@simoncompany.com,Simon and Company,Principal
+Lenny,Siegel,Lenny.siegel@mountainview.gov,Former Mayors,Former Mayor
+Leonard,Siegel,Lenny.Siegel@mountainview.gov,Former Mayors,Former Mayor
+Laura,Olson,leolson@grcity.us,"""Grand Rapids, MI""",Assistant
+Leon,Rockingham,leoroc@northchicago.org,"""North Chicago, IL""",Mayor
+Lesley,Varghese,Lesley.Varghese@austintexas.gov ,"""Austin, TX""",Chief of Staff
+Michael,Hancock,leticia.Gonzalez-Ibarra@denvergov.org,"""Denver, CO""",Mayor
+Levar,Stoney,levar.stoney@richmondgov.com,"""Richmond, VA""",Mayor
+Leon,Garcia,lgarcia@cityofamericancanyon.org,"""American Canyon, CA""",Mayor
+Lisa,Gauthier,lgauthier@cityofepa.org,"""East Palo Alto, CA""",Mayor
+Leslie,Hager-Smith,lhagersmith@blacksburg.gov,"""Blacksburg, VA""",Mayor
+Lawrence,Hanson,lhanson@antioch.il.gov,"""Antioch, IL""",Village President
+Lori,Henry,lhenry@roswellgov.com,"""Roswell, GA""",Mayor
+Lisa,Barkovic,lisa.barkovic@hklaw.com,Holland Knight,Senior Policy Advisor
+Lisa,Geater,lisa.geater@memphistn.gov,"""Memphis, TN""",Chief of Staff
+Lisa,Matichak,lisa.matichak@mountainview.gov,"""Mountain View, CA""",Mayor
+Jason,Ward,lismantownhall@tds.net,"""Lisman, AL""",Mayor
+Liz,Alpert,liz.alpert@sarasotagov.com,"""Sarasota, FL""",Mayor
+Liz,Kniss,liz.kniss@cityofpaloalto.org,"""Palo Alto, CA""",Mayor
+Paul,Resknikoff,lizg@cityofcampbell.com,"""Campbell, CA""",Council Member
+Linda,Jackson,ljackson@glendaleheights.org,"""Glendale Heights, IL""",Village President
+Laura,Jay,ljay@c40.org,C40 Cities,Deputy Regional Director for North America
+Matt,Novak,ljellema@thecitybase.com,CityBase,Vice President of Civic Engagement
+Bob,Dyer,ljones@VBgov.com,"""Virginia Beach, VA""",Mayor
+Laura,Keegan,lkeegan@edgewaterco.com,"""Edgewater, CO""",Mayor
+Lincoln,Knight,lknight@wauconda-il.gov,"""Wauconda, IL""",Mayor
+Laura,Kroeger,Lkroeger@townsendpa.com,Townsend Public Affairs,Mayor’s Staff
+Michael,Perciful,lkrupa@cityofhemet.org,"""Hemet, CA""",Council Member
+Lou,La Monte,llamonte@malibucity.org,"""Malibu, CA""",Mayor
+Lisa ,Larsen,llarsen@lawrenceks.org,"""Lawrence, KS""",Mayor
+Lydia,Lavelle,llavelle@townofcarrboro.org,"""Carrboro, NC""",Mayor
+Lynette,Lee Eng,lleeeng@losaltosca.gov,"""Los Altos, CA""",Mayor
+Liz,Lempert,llempert@princetonnj.gov,"""Princeton, NJ""",Mayor
+Lori,Lewellen,llewellen@daniabeachfl.gov,"""Dania Beach, FL""",Mayor
+Lee Ann,Lorrigan,llorrigan@fdl.wi.gov,"""Fond du Lac, WI""",Mayor
+Laurence,May,LMay@hillsborough.net,"""Hillsborough, CA""",Mayor
+Lily,Mei,lmei@fremont.gov,"""Fremont, CA""",Mayor
+Luis,Montestruque,lmontest@emnet.net,EmNet,President
+Lori,Moore-Merrell,LMoore-Merrell@iaff.org,International Association of Fire Fighters,Assistant to the General President
+Grace,Vallejo,lmorris@delano-ca.org,"""Delano, CA""",Council Member
+Lawrence,Mowles,lmowles@cityoflamirada.org,"""La Mirada, CA""",Mayor
+Linda,Murphy,lmurphy@burlingtonvt.gov,"""Burlington, VT""",Coordinator
+Linda,Olson,lolson@englewoodco.gov,"""Englewood, CO""",Mayor
+London,Breed,london.breed@sfgov.org,"""San Francisco, CA""",Mayor
+Lornna,Soto,lornnasoto@gmail.com,"""Canovanas, PR""",Mayor
+Laura,O'Sullivan,losullivan@southbendin.gov,"""South Bend, IN""",Chief of Staff
+Louis,Buonpane,louis.buonpane@raleighnc.gov,"""Raleigh, NC""",Chief of Staff
+Lovely,Warren,Lovely.Warren@cityofrochester.gov,"""Rochester, NY""",Mayor
+Lewis ,Pacheco,lpacheco@calexico.ca.gov,"""Calexico, CA""",Mayor
+Len,Pagano,LPagano@stpetersmo.net,"""St. Peters, MO""",Mayor
+Louis,Presta,lpresta@villageofcrestwoodil.gov,"""Crestwood, IL""",Village President
+Lupe ,Ramos Amith,lramosamith@indio.org,"""Indio, CA""",Mayor
+Leonard,Reed,lreed@ci.willis.tx.us,"""Willis, TX""",Mayor
+H. LeRoy,Stearns,lstearns@cityofmeadville.org,"""Meadville, PA""",Mayor
+Lucy,Vinis,lucy.k.vinis@ci.eugene.or.us,"""Eugene, OR""",Mayor
+Luke,Bronin,Luke.Bronin@Hartford.gov,"""Hartford, CT""",Mayor
+Luke ,Diaz,luke.diaz@ci.verona.wi.us,"""Verona, WI""",Mayor
+Adele,Andrade-Stadler,luwan@cityofalhambra.org,"""Alhambra, CA""",Mayor
+JoAnne,Bush,lvmayor@cei.net,"""Lake Village, AR""",Mayor
+Lori ,Williams,lwilliams@stantononline.com,"""Stanton, MI""",Mayor
+Linda,Woodard,lwoodard@cayuga-heights.ny.us,"""Cayuga Heights, NY""",Mayor
+Lori,Woods,lwoods@cityofsignalhill.org,"""Signal Hill, CA""",Mayor
+Vanessa,Carusone,lyates@cityofnorthport.com,"""North Port, FL""",Commissioner
+Lucas,Lyons,lyonsl@charlottesville.org,"""Charlottesville, VA""",Fire Systems Performance Analyst
+Mark,Boughton,m.boughton@danbury-ct.gov,"""Danbury, CT""",Mayor
+Mohammed,Hameeduddin,m.Hameed@teanecknj.gov  ,"""Teaneck Township, NJ""",Mayor
+Steve,Maas,MAASS@CITYOFGRANDVILLE.COM,"""Grandville, MI""",Mayor
+John,Clark,macdoktor@gmail.com,"""Ridgway, CO""",Mayor
+Serge,Peloquin,maire@ville.sorel-tracy.qc.ca,"""Sorel-Tracy, QC (Canada)""",Mayor
+Jean,Martel,mairie@boucherville.ca,"""Boucherville, QC (Canada)""",Mayor
+Nathalie,Simon,mairie@ville.chateauguay.qc.ca,"""Chateauguay, QC (Canada)""",Mayor
+Rejean,Porlier,mairie@ville.sept-iles.qc.ca ,"""Sept-Iles, QC (Canada)""",Mayor
+Mark,Arapostathis,marapostathis@ci.la-mesa.ca.us,"""La Mesa, CA""",Mayor
+Marc,Parent,marc.parent@ville.rimouski.qc.ca,"""Rimouski, QC (Canada)""",Mayor
+R. Mark ,Goughan,mark.goughan@cariboumaine.org,"""Caribou, ME""",Mayor
+Mark,Taylor,mark.taylor@longbeach.gov,"""Long Beach, CA""",Chief of Staff
+Mark,Mitchell,mark_mitchell@tempe.gov,"""Tempe, AZ""",Mayor
+Mark,Stanek,mark584@centurytel.net,"""Elroy, WI""",Mayor
+Mark,Kleinschmidt,markkleinschmidt@gmail.com,,"Former Mayor, Chapel Hill, NC"
+Mark,Vulich,markvulich@ci.clinton.ia.us,"""Clinton, IA""",Mayor
+Rob,Marlowe,marlower@cityofnewportrichey.org,"""New Port Richey, FL""",Mayor
+Marty,Bilek,marty.bilek@cityofomaha.org,"""Omaha, NE""",Chief of Staff
+Marty,Maloney,martymaloney@gmail.com,"""Park Ridge, IL""",Mayor
+Marvalette ,Hunter,marvalette.hunter@houstontx.gov,"""Houston, TX""",Chief of Staff
+Marylee ,Abrams,marylee.abrams@maplewoodmn.gov,"""Maplewood, MN""",Mayor
+Mary-Lynne,Bernald,mary-lynneb@saratoga.ca.us,"""Saratoga, CA""",Mayor
+Miles,Atkins,matkins@ci.mooresville.nc.us,"""Mooresville, NC""",Mayor
+Matt ,Rahn,matt.rahn@citycouncil.org,"""Temecula, CA""",Mayor
+Mattie,Parker,mattie.parker@fortworthtexas.gov,"""Fort Worth, TX""",Chief of Staff
+John,Cranley,mayor.cranley@cincinnati-oh.gov,"""Cincinnati, OH""",Mayor
+Sam,Cunningham,mayor.cunninghan@waukeganil.gov,"""Waukegan, IL""",Mayor
+Neil,Dwyer,mayor.dwyer@villageofmonroe.org,"""Monroe, NY""",Mayor
+Kate,Gallego,mayor.gallego@phoenix.gov,"""Phoenix, AZ""",Mayor
+John,Giles,Mayor.Giles@MesaAZ.gov,"""Mesa, AZ""",Mayor
+Dontario,Hardy,mayor.hardy@ci.kinston.nc.us,"""Kinston, NC""",Mayor
+Steven,Landek,mayor.landek@villageofbridgeview.com,"""Bridgeview, IL""",Mayor
+Gene,McGee,Mayor.McGee@Ridgelandms.org,"""Ridgeland, MS""",Mayor
+Randy,Meyer,Mayor.meyer@cityofsheboyganfalls.com,"""Sheboygan Falls, WI""",Mayor
+Jonathan,Mitchell,Mayor.Mitchell@newbedford-ma.gov,New Bedford MA,Mayor
+Mitch ,Panciuk,mayor.panciuk@belleville.ca,"""Belleville, ON (Canada)""",Mayor
+Christian,Provenzano,mayor.provenzano@cityssm.on.ca,"""Sault St. Marie, ON (Canada)""",Mayor
+Mike,Rawlings,mayor.request@dallascityhall.com,"""Dallas, TX""",Mayor
+Eric,Garcetti,mayor.scheduling@lacity.org,"""Los Angeles, CA""",Mayor
+Michael,Vandersteen,Mayor.Vandersteen@ci.sheboygan.wi.us,"""Sheboygan, WI""",Mayor
+Jaclyn,Veasy,Mayor.Veasy@evesham-nj.gov,"""Evesham, NJ""",Mayor
+Erik,Larson,mayor@aberdeenwa.gov,"""Aberdeen, WA""",Mayor
+Rich,Veenstra,mayor@addison-il.org,"""Addison, IL""",Mayor
+Dan,Horrigan,Mayor@AkronOhio.gov,"""Akron, OH""",Mayor
+Matt,Pacifico,mayor@altoonapa.gov,"""Altoona, PA""",Mayor
+Ginger,Nelson,Mayor@amarillo.gov,"""Amarillo, TX""",Mayor
+Timothy,Hanna,mayor@appleton.org,"""Appleton, WI""",Mayor
+Karen,Goh,Mayor@bakersfieldcity.us,"""Bakersfield, CA""",Mayor
+"Bernard C. ""Jack""",Young,Mayor@baltimorecity.gov,"""Baltimore, MD""",Mayor
+"Andrew ""FoFo""",Gilich,mayor@biloxi.ms.us,"""Biloxi, MS""",Mayor
+John,Hamilton,mayor@bloomington.in.gov,"""Bloomington, IN""",Mayor
+Marty,Walsh,mayor@boston.gov,"""Boston, MA""",Mayor
+Sharon,Weston Broome,mayor@brgov.com,"""Baton Rouge, LA""",Mayor-President
+Joseph ,Ganim,mayor@bridgeportct.gov,"""Bridgeport, CT""",Mayor
+Sharon,Broome,mayor@brla.gov,"""Parish of East Baton Rouge, LA""",Mayor
+James,Diossa,mayor@centralfallsri.us,"""Central Falls, RI""",Mayor
+Andy,Berke,mayor@chattanooga.gov,"""Chattanooga, TN""",Mayor
+Marian,Orr,mayor@cheyennecity.org,"""Cheyenne, WY""",Mayor
+Kathy,Sheehan,mayor@ci.albany.ny.us,"""Albany, NY""",Mayor
+Norman,Yoder,mayor@ci.auburn.in.us,"""Auburn, IN""",Mayor
+Tom,Stiehm,mayor@ci.austin.mn.us,"""Austin, MN""",Mayor
+Francisco,Moran,Mayor@ci.camden.nj.us,"""Camden, NJ""",Mayor
+Jack,"O'Reilly, Jr.",mayor@ci.dearborn.mi.us,"""Dearborn, MI""",Mayor
+Thomas,Henry,mayor@ci.ft-wayne.in.us,"""Fort Wayne, IN""",Mayor
+Kendall,Lane,mayor@ci.keene.nh.us,"""Keene, NH""",Mayor
+Stephen,Kepley,mayor@ci.kentwood.mi.us,"""Kentwood, MI""",Mayor
+David,Scheffler,mayor@ci.lancaster.oh.us,"""Lancaster, OH""",Mayor
+Dennis,Wright,mayor@ci.livonia.mi.us,"""Livonia, MI""",Mayor
+Jacki,Marsh,Mayor@ci.loveland.co.us,"""Loveland, CO""",Mayor
+Steve,Miller,mayor@ci.ludington.mi.us,"""Ludington, MI""",Mayor
+Gurdip,Brar,mayor@ci.middleton.wi.us,"""Middleton, WI""",Mayor
+Benjamin,Blake,mayor@ci.milford.ct.us,"""Milford, CT""",Mayor
+Tom,Lazio,mayor@ci.ottumwa.ia.us,"""Ottumwa, IA""",Mayor
+Tim,Sandoval,mayor@ci.pomona.ca.us,"""Pomona, CA""",Mayor
+Bill,Droste,mayor@ci.rosemount.mn.us,"""Rosemount, MN""",Mayor
+Elia,Garcia,mayor@ci.socorro.tx.us,"""Socorro, TX""",Mayor
+Jim,Paine,mayor@ci.superior.wi.us,"""Superior, WI""",Mayor
+Kraig,Sadownikow,mayor@ci.west-bend.wi.us,"""West Bend, WI""",Mayor
+Jeannette,McCarthy,mayor@city.waltham.ma.us,"""Waltham City, MA""",Mayor
+Tari,Renner,mayor@cityblm.org,"""Bloomington, IL""",Mayor
+David,Berger,mayor@cityhall.lima.oh.us,"""Lima, OH""",Mayor
+Chasity,Wells-Armstrong,mayor@citykankakee-il.gov,"""Kankakee, IL""",Mayor
+Thomas,"Broderick, Jr.",mayor@cityofanderson.com,"""Anderson, IN""",Mayor
+Robinson,Frederick,mayor@cityofbowie.org,"""Bowie, MD""",Mayor
+Don,Walters,mayor@cityofcf.com,"""Cuyahoga Falls, OH""",Mayor
+Dean ,Andrews,mayor@cityofcharlescity.org,"""Charles City, IA""",Mayor
+Barbara, Blain-Bellamy,mayor@cityofconway.com,"""Conway, SC""",Mayor
+Rickey,Williams,mayor@cityofdanville.org,,
+ Rickey,Williams,mayor@cityofdanville.org,"""Danville, IL""",Mayor
+Raul,Reyes,mayor@cityofelcenizo.com,"""El Cenizo, TX""",Mayor
+David,Kaptain,mayor@cityofelgin.org,"""Elgin, IL""",Mayor
+Karen,Weaver,mayor@cityofflint.com,"""Flint, MI""",Mayor
+James,Rynberg,mayor@cityoffremont.net,"""Fremont, MI""",Mayor
+Lauren,Poe,mayor@cityofgainesville.org,"""Gainesville, FL""",Mayor
+Edward,Jones,mayor@cityofgrambling.net,"""Grambling, LA""",Mayor
+Keith ,Hedrick,mayor@cityofgroton-ct.gov,"""Groton, CT""",Mayor
+Michael,Kelly,mayor@cityofharvard.org,"""Harvard, IL""",Mayor
+James,Fiorentini,mayor@cityofhaverhill.com,"""Haverhill, MA""",Mayor
+Rick ,Rector,Mayor@cityofhudson.org,"""Hudson, NY""",Mayor
+James T.,Butts,mayor@cityofinglewood.org,"""Inglewood, CA""",Mayor
+Jerry,Gist,mayor@cityofjackson.net,"""Jackson, TN""",Mayor
+Samuel,Teresi,mayor@cityofjamestownny.com,"""Jamestown, NY""",Mayor
+Bryan,Paterson,mayor@cityofkingston.ca,"""Kingston, ON (Canada)""",Mayor
+Madeline,Rogero,mayor@cityofknoxville.org,"""Knoxville, TN""",Mayor
+Greg,Goodnight,mayor@cityofkokomo.org,"""Kokomo, IN""",Mayor
+Satya,Rhodes-Conway,mayor@cityofmadison.com,"""Madison, WI""",Mayor
+Gary,Christenson,mayor@cityofmalden.org,"""Malden, MA""",Mayor
+John ,Koziol,mayor@cityofmarengo.com,"""Marengo, IL""",Mayor
+Nicolas,AbouAssalaly,mayor@cityofmarion.org,"""Marion, IA""",Mayor
+Mike,Murphy,Mayor@Cityofmerced.org,"""Merced, CA""",Mayor
+Dennis,Tyler,mayor@cityofmuncie.com,"""Muncie, IN""",Mayor
+Debbie,Kling,mayor@cityofnampa.us,"""Nampa, ID""",Mayor
+Jeff,Gahan,mayor@cityofnewalbany.com,"""New Albany, IN""",Mayor
+Hector,Lora,mayor@cityofpassaicnj.gov,"""Passiac, NJ""",Mayor
+James,Mueller,mayor@cityofpella.com,"""Pella, IA""",Mayor
+Shirley,Washington,mayor@cityofpinebluff.com,"""Pine Bluff, AR""",Mayor
+Colin,Read,mayor@cityofplattsburgh-ny.gov,"""Plattsburgh, NY""",Mayor
+Robert,Rolison,mayor@cityofpoughkeepsie.com,"""Poughkeepsie, NY""",Mayor
+Gregory,Oravec,mayor@cityofpsl.com,"""Port St. Lucie, FL""",Mayor
+Cory,Mason,mayor@cityofracine.org,"""Racine, WI""",Mayor
+Victoria,Woodards,mayor@cityoftacoma.org,"""Tacoma, WA""",Mayor
+G.T.,Bynum,mayor@cityoftulsa.org,"""Tulsa, OK""",Mayor
+Robert Michael,Palmieri,mayor@cityofutica.com,"""Utica, NY""",Mayor
+James R.,Fouts,mayor@cityofwarren.org,"""Warren, MI""",Mayor
+Brian,Sullivan,mayor@cityofwestfield.org,"""Westfield, MA""",Mayor
+Gabriel,Campana,mayor@cityofwilliamsport.org,"""Williamsport, PA""",Mayor
+Joe ,Gallo,"mayor@cityr,.org","""Rolling Meadows, IL""",Mayor
+Jim,Lienhoop,mayor@columbus.in.gov,"""Columbus, IN""",Mayor
+Brian,Treece,mayor@CoMo.gov,"""Columbia, MO""",Mayor
+Brian,Tobin,mayor@cortland.org,"""Cortland, NY""",Mayor
+Teresa,Kernc,mayor@diamond.illinois.gov,"""Diamond, IL""",Village President
+Mike,Schmitz,mayor@dothan.org,"""Dothan, AL""",Mayor
+Brad,Cohen,mayor@eastbrunswick.org,"""East Brunswick Township, NJ""",Mayor
+Deana,Holiday Ingraham,Mayor@eastpointcity.org,"""East Point, GA""",Mayor
+J. Christian,Bollwage,mayor@elizabethnj.org,"""Elizabeth, NJ""",Mayor
+Dee,Margo,mayor@elpasotexas.gov,"""El Paso, TX""",Mayor
+Linda,Martin,mayor@eulesstx.gov,"""Euless, TX""",Mayor
+Lloyd,Winnecke,mayor@evansville.in.gov,"""Evansville, IN""",Mayor
+Jasiel,Correia II,Mayor@fallriverma.org,"""Fall River, MA""",Mayor
+Lioneld,Jordan,mayor@fayetteville-ar.gov,"""Fayetteville, AR""",Mayor
+Stephen,DiNatale,mayor@fitchburgma.gov,"""Fitchburg, MA""",Mayor
+Yvonne,Spicer,mayor@framinghamma.gov,"""Framingham, MA""",Mayor
+Robert,Kennedy,mayor@freeportny.gov,"""Freeport, NY""",Mayor
+Lowe ,Cannell,mayor@fultonmo.org,"""Fulton, MO""",Mayor
+Scott,LeMay,Mayor@GarlandTX.gov,"""Garland, TX""",Mayor 
+Dale,Ross,mayor@georgetown.org,"""Georgetown, TX""",Mayor
+Mike,Palazzolo,mayor@germantown-tn.gov,"""Germantown, TN""",Mayor
+Thomas,McDermott,mayor@gohammond.com,"""Hammond, IN""",Mayor
+Jeremy,Stutsman,mayor@goshencity.com,"""Goshen, IN""",Mayor
+Mark,Myers,mayor@greenwood.in.gov,"""Greenwood, IN""",Mayor
+Cam,Guthrie,mayor@guelph.ca,"""Guelph, Ontario""",Mayor
+Robert E.,Bruchey,mayor@hagerstownmd.org,"""Hagerstown, MD""",Mayor
+Robert,Bruchey II,mayor@hagerstownmd.org,"""Hagerstown, MD""",Mayor
+David,Averitt,mayor@haltomcitytx.com,Former Mayors,Former Mayor
+Fred,Eisenberger,mayor@hamilton.ca,"""Hamilton, ON (Canada)""",Mayor
+Kelly,Yaede,mayor@hamiltonnj.com,"""Hamilton, NJ""",Mayor
+Eric,Papenfuse,mayor@harrisburgpa.gov,"""Harrisburg, PA""",Mayor
+Nicola ,Armacost,mayor@hastingsgov.org,"""Hastings on Hudson, NY""",Mayor
+Toby,Barker,mayor@hattiesburgms.com,"""Hattiesburg, MS""",Mayor
+Ignacio,Velazquez,Mayor@hollister.ca.gov,"""Hollister, CA""",Mayor
+Kirk,Caldwell,mayor@honolulu.gov,"""Honolulu, HI""",Mayor
+Pam ,Freese,"mayor@houstonlake,net","""Houston Lake, MO""",Mayor
+Mary Lou,Pauly,mayor@issaquahwa.gov,"""Issaquah, WA""",Mayor
+Jeff,Pruyn,mayor@itasca.com,"""Itasca, IL""",Village President
+Sammy,Phillips,mayor@jacksonvillenc.gov ,"""Jacksonville, NC""",Mayor
+Ken,Koelsch,mayor@juneau.org,"""Juneau, AK""",Mayor
+Bobby,Hopewell,mayor@kalamazoocity.org,"""Kalamazoo, MI""",Mayor
+Derek,Kawakami,mayor@kauai.gov,"""Kaua'I County, HI""",Mayor
+Anthony,Penterman,mayor@kaukauna-wi.org,"""Kaukauna, WI""",Mayor
+Sly,James,mayor@kcmo.org,"""Kansas City, MO""",Mayor
+Stan,Clouse,mayor@kearneygov.org,"""Kearney, NE""",Mayor
+Alberto,Santos,mayor@kearnynj.org,"""Kearny, NJ""",Mayor
+"E ""Ben"" ",Zahn,mayor@kenner.la.us,"""Kenner, LA""",Mayor
+John Martin,Antaramian,mayor@kenosha.org,"""Kenosha, WI""",Mayor
+Dana,Ralph,mayor@kentwa.gov,"""Kent, WA""",Mayor
+Jose,Segarra,mayor@killeentexas.gov,"""Killeen, TX""",Mayor
+Glenn ,Jacobs,mayor@knoxcountry.org,"""Knox County, TN""",Mayor
+David ,Varnam,mayor@lancasterwisconsin.com,"""Lancaster, WI""",Mayor
+Ken,Miyagishima,mayor@las-cruces.org,"""Las Cruces, NM""",Mayor
+Linda,Gorton,mayor@lexingtonky.gov,"""Lexington, KY""",Mayor
+Chris ,Beutler,mayor@lincoln.ne.gov,,
+Frank,"Scott, Jr.",mayor@littlerock.gov,"""Little Rock, AR""",Mayor
+Robert,Garcia,Mayor@longbeach.gov,"""Long Beach, CA""",Mayor
+William,Samaras,mayor@lowellma.gov,"""Lowell, MA""",Mayor
+Michael,Inman,mayor@macomb.com,"""Macomb, IL""",Mayor
+Robert,Reichert,mayor@macon.ga.us,"""Macon, GA""",Mayor
+Robert,Mielke,mayor@mail.ci.wausau.wi.us,"""Wausau, WI""",Mayor
+Arthur,Vigeant,mayor@marlborough-ma.gov,"""Marlborough, MA""",Mayor
+Bill ,Schickel,mayor@masoncity.net,"""Mason City, IA""",Mayor
+George,Fuller,mayor@mckinneytexas.org,"""McKinney, TX""",Mayor
+Ronald,Serpico,mayor@melrosepark.org,"""Melrose Park, IL""",Village President
+Jim,Strickland,mayor@memphistn.gov,"""Memphis, TN""",Mayor
+Carlos,Gimenez,mayor@miamidade.gov,"""Miami-Dade County, FL""",Mayor
+Daniel,Drew,mayor@MiddletownCT.gov,"""Middletown, CT""",Mayor
+Matt ,Dukes,mayor@midwestcityok.org,"""Midwest City, OK""",Mayor
+Tom,Barrett,mayor@milwaukee.gov,"""Milwaukee, WI""",Mayor
+Shaun,Sipma,mayor@minotnd.org,"""Minot, ND""",Mayor
+Dave,Wood,mayor@mishawaka.in.gov,"""Mishawaka, IN""",Mayor
+Ted,Brandvold,mayor@modestogov.com,"""Modesto, CA""",Mayor
+Todd,Strange,mayor@montgomeryal.gov,"""Montgomery, AL""",Mayor
+Susan,Cohen,mayor@mtnj.org,"""Manapalan Township, NJ""",Mayor
+Ethan ,Berkowitz,mayor@muni.org,"""Anchorage, AK""",Mayor 
+ Janey ,Boydston,mayor@muskogeeonline.org,"""Muskogee, OK""",Mayor
+Steve,Chirico,mayor@naperville.il.us,"""Naperville, IL""",Mayor
+David,Briley,mayor@nashville.gov,"""Nashville, TN""",Mayor
+Darryl,Grennell,mayor@natchez.ms.us,"""Natchez, MS""",Mayor
+Barron,Casteel,mayor@nbtexas.org,"""New Braunfels, TX""",Mayor
+Ed,Fedell,mayor@newaygocity.org,"""Newaygo, MI""",Mayor
+Erin,Stewart,Mayor@NewBritainCT.gov,"""New Britain, CT""",Mayor
+Richard,Harvey,mayor@nipigon.net,"""Nipigon, ON (Canada)""",Mayor
+Kenneth,Alexander,mayor@norfolk.gov,"""Norfolk, VA""",Mayor
+Chris,Koos,mayor@normal.org,"""Normal, IL""",Mayor
+LYNNE,MILLER,MAYOR@NORMANOK.GOV,"""Norman, OK""",MAYOR
+ Lynne,Miller,Mayor@Normanok.gov,"""Norman, OK""",Mayor
+David,Narkewicz,mayor@northamptonma.gov,"""Northampton, MA""",Mayor
+R. Keith,Summey,mayor@northcharleston.org,"""North Charleston, SC""",Mayor
+Terry ,Donahue,mayor@northlibertyiowa.org,"""North Liberty, IA""",Mayor
+Joe,Smith,mayor@northlittlerock.ar.gov,"""North Little Rock, AR""",Mayor
+Jerry ,Demings,mayor@ocfl.net,"""Orange County, FL""",Mayor
+David,Holt,mayor@okc.gov,"""Oklahoma City, OK""",Mayor
+Kyle,Hastings,mayor@orlandhills.org,"""Orland Hills, IL""",Village President
+Dan ,Carter,mayor@oshawa.ca,"""Oshawa, ON (Canada)""",Mayor
+William,Barlow,Mayor@oswegony.org,"""Oswego, NY""",Mayor
+Tom,Watson,mayor@owensboro.org,"""Owensboro, KY""",Mayor
+Robert,Straz,Mayor@palosheights.org,"""Palos Heights, IL""",Mayor
+William,Capote,mayor@pbfl.org,"""Palm Bay, FL""",Mayor
+Edward,Bettencourt Jr.,mayor@peabody-ma.gov,"""Peabody, MA""",Mayor
+Sara,Kuhn,mayor@pennhills.org,"""Municipality of Penn Hills, PA""",Mayor
+Cathy,Carlat,Mayor@PeoriaAZ.gov,"""Peoria, AZ""",Mayor
+Victor,Gonzales,mayor@pflugervilletx.gov,"""Pflugerville, TX""",Mayor
+Ambrosio 'Amos',Hernandez,mayor@pharr-tx.gov,"""Pharr, TX""",Mayor
+Dave,Ryan,mayor@pickering.ca,"""Pickering, ON (Canada)""",Mayor
+Harry,LaRosiliere,mayor@plano.gov,"""Plano, TX""",Mayor
+Lynn,Stoner,mayor@plantation.org,"""Plantation, FL""",Mayor
+Brian,Blad,mayor@pocatello.us,"""Pocatello, ID""",Mayor
+William,Steele,mayor@portcolborne.ca,"""Port Colborne, ON (Canada)""",Mayor
+Bob,Sanderson,mayor@porthope.ca ,"""Port Hope, ON (Canada)""",Mayor
+John,Rowe,mayor@portsmouthva.gov,"""Portsmouth, VA""",Mayor
+Jorge,Elorza,mayor@providenceri.com,"""Providence, RI""",Mayor
+Eric,Mikkelson,mayor@pvkansas.com ,"""Prairie Village, KS""",Mayor
+John,Marchione,mayor@redmond.gov,"""Redmond, WA""",Mayor
+Dave,Snow,mayor@richmondindiana.gov,"""Richmond, IN""",Mayor
+Jacqueline,Izzo,mayor@romecitygov.com,"""Rome, NY""",Mayor
+Fred,Pinto,mayor@royalpalmbeach.com,"""Royal Palm Beach, FL""",Mayor
+Andrea,Lauer,mayor@royaltonmn.com,"""Royalton, MN""",Mayor
+Ronny,Walker,Mayor@ruston.org,"""Ruston, LA""",Mayor
+Frank,Leonard,mayor@saanich.ca,"""Saanich, BC (Canada)""",Mayor
+Marston,Lovell,mayor@sacomaine.org,"""Saco, ME""",Mayor
+Kim,Driscoll,mayor@salem.com,"""Salem, MA""",Mayor
+Mike,Smith,mayor@saugeenshores.ca,"""Saugeen Shores, ON (Canada)""",Mayor
+John,Valdivia,Mayor@SBCity.org,"""San Bernardino, CA""",Mayor
+Georgine,Welo,mayor@seuclid.com,"""South Euclid, OH""",Mayor
+Jackie,Biskupski,mayor@slcgov.com,"""Salt Lake Country, UT""",Mayor
+Jenny ,Wilson,mayor@slco.org,"""Salt Lake Country, UT""",Mayor
+Joseph,Curtatone,mayor@somervillema.gov,"""Somerville, MA""",Mayor
+David,Condon,mayor@spokanecity.org,"""Spokane, WA""",Mayor
+Christine,Lundberg,mayor@springfield-or.gov,"""Springfield, OR""",Mayor
+Larry,Dobbins,mayor@spring-lake.org,"""Spring Lake, NC""",Mayor
+Walter,Sendzik,mayor@stcatharines.ca,"""St Catharines, ON (Canada)""",Mayor
+Raymond,Rogina,mayor@stcharlesil.gov,"""St. Charles, IL""",Mayor
+Michael,Tubbs,mayor@stocktonca.gov,"""Stockton, CA""",Mayor
+Rick,Kriseman,mayor@stpete.org,"""St. Petersburg, FL""",Mayor
+Billie,Roth,mayor@streamwood.org,"""Streamwood, IL""",Village President
+Sharon,Wolcott,mayor@surpriseaz.gov,"""Surprise, AZ""",Mayor
+Doug, McCallum,mayor@surrey.ca,"""Surrey, BC (Canada)""",Mayor
+Ben,Walsh,Mayor@SyrGov.net,"""Syracuse, NY""",Mayor
+John E.,Dailey,mayor@talgov.com,"""Tallahassee, FL""",Mayor
+Duke,Bennett,Mayor@terrehaute.in.gov,"""Terre Haute, IN""",Mayor
+Wade,Kapszukiewicz,mayor@toledo.oh.gov,"""Toledo, OH""",Mayor
+Rick,Davis,Mayor@tonawandacity.com,"""Tonawanda, NY""",Mayor
+Eulis,Willis,mayor@townofnavassa.org,"""Navassa, NC""",Mayor
+Gail ,Coniglio,mayor@townofpalmbeach.com,"""palm desert, FL""",mayor
+Kae ,Hamilton,mayor@townofperdidobeach.org,"""Perdido Beach, AL""",Mayor
+Laura,Hoydick,mayor@townofstratford.com,"""Stratford, CT""",Mayor
+Corinne,Platt,mayor@town-ophir.co.gov,"""Ophir, CO""",Mayor
+Rordan ,Hart,mayor@trumansburg-ny.gov,"""Trumansburg, NY""",Mayor
+Allan,Ekberg,Mayor@tukwilawa.gov,"""Tukwila, WA""",Mayor
+Walter,Maddox,mayor@tuscaloosa.com,"""Tuscaloosa, AL""",Mayor
+Terry,Crow,mayor@ucitymo.org,"""University City, MO""",Mayor
+Carol,Dutra-Vernaci,mayor@unioncity.org,"""Union City, CA""",Mayor
+Lisa,Helps,mayor@victoria.ca,"""Victoria, BC (Canada)""",Mayor
+Kristina,Kovarik,mayor@village.gurnee.il.us,"""Gurnee, IL""",Village President
+James,Doyle,mayor@villageofmanhattan.org,"""Manhattan, IL""",Mayor
+Terry,Wells,mayor@villageofphoenix.org,"""Phoenix, IL""",Village President
+Nick,Caiafa,mayor@villageofschillerpark.com,"""Schiller Park, IL""",Mayor
+Anthony,Fanucci,mayor@vinelandcity.org,"""Vineland, NJ""",Mayor
+Andrew,Przybylo,mayor@vniles.com,"""Niles, IL""",Mayor
+Cindy,Silva,mayor@walnut-creek.org,"""Walnut Creek, CA""",Mayor
+Kevin,Hurst,mayor@waltonhillsohio.gov,"""Walton Hills, OH""",Mayor
+Nina ,Bifolchi,mayor@wasagabeach.com,"""Wasaga beach, ON (Canada)""",Mayor
+Quentin,Hart,mayor@waterloo-ia.org,"""Waterloo, IA""",Mayor
+Shari,Cantor,Mayor@westhartfordct.gov,"""West Hartford, CT""",Mayor
+Shing-Fu,Hsueh,mayor@westwindsortwp.com,"""West Windsor, NJ""",Mayor
+Brian,Sager,mayor@woodstockil.gov,"""Woodstock, IL""",Mayor
+Joseph,Petty,mayor@worcesterma.gov,"""Worcester, MA""",Mayor
+Jamael Tito,Brown,mayor@youngstownohio.gov,"""Youngstown, OH""",Mayor
+Mike,McDonough,Mayor_Mike_McDonough@raytown.mo.us,"""Raytown, MO""",Mayor
+John,Tory,mayor_tory@toronto.ca,"""Toronto, ON (Canada)""",Mayor
+Nick,Isgro,mayor1@waterville-me.gov,"""Waterville, ME""",Mayor
+Anan,Abu-Taleb,mayoranan@oak-park.us,"""Oak Park, IL""",Mayor
+John Arthur,Ernst Jr. ,mayorandcouncil@brookhavenga.gov,"""Brookhaven, GA""",Mayor
+Lisa M.,Gillmor,MayorandCouncil@santaclaraca.gov,"""Santa Clara, CA""",Mayor
+Annie,Coulter,Mayorannie.coulter@villageoffordheights.org,"""Ford Heights, IL""",Mayor
+Shane,Bemis,MayorBemis@GreshamOregon.gov,"""Gresham, OR""",Mayor
+Gerald,Bennett,mayorbennett@paloshillsweb.org,"""Palos Hills, IL""",Mayor
+Bob,Brown,mayorbobbrown@cityoflufkin.com,"""Lufkin, TX""",Mayor
+Tom,Feldkamp,mayorbowmar@outlook.com,"""Bow Mar, CO""",Mayor
+Shelley,Brindle,MayorBrindle@westfieldnj.gov,"""Westfield, NJ""",Mayor
+Dennis,Bring,mayorbring@gmail.com,"""Sheffield Lake, OH""",Mayor
+Gavin,Buckley,mayorbuckley@annapolis.gov,"""Annapolis, MD""",Mayor
+Kevin,Burns,mayorburns@geneva.il.us,"""Geneva, IL""",Mayor
+Michael,Cahill,mayorcahill@beverlyma.gov,"""Beverly, MA""",Mayor
+Ramsey English,Cantu,mayorcantu@eaglepasstx.us,"""Eagle Pass, TX""",Mayor
+Cornell ,Harvey,mayorcharvey@gmail.com,"""Brunswick, GA""",Mayor
+Carlos,Hernandez,mayorchernandez@hialeahfl.gov,"""Hialeah, FL""",Mayor
+Jon,Costas,mayorcostas@valpo.us,"""Valparaiso, IN""",Mayor
+Janice,Curtis,mayorcurtis@simpsonville.com,"""Simpsonville, SC""",Mayor
+Allen,Scott,mayordabbs@cityofbryant.com,"""Bryant, AR""",Mayor
+Dale,Opperman,mayordale@jeffersonwis.com,"""Jefferson, WI""",Mayor
+Gerry,Daley,mayordaley@hainesville.org,"""Hainesville, IL""",Mayor
+Rich,David,mayordavid@cityofbinghamton.com,"""Binghamton, NY""",Mayor
+David,Glass,mayordavidglass@gmail.com,"""Petaluma, CA""",Mayor
+Hardie,Davis,mayordavis@augustaga.gov,"""Augusta, GA""",Mayor
+Ronald,Denson,mayordenson@calumetparkvillage.org,"""Calumet Park, IL""",Mayor
+Mike ,Elliott,mayorelliott@ci.brooklyn-center.mn.us,"""Brooklyn Center, MN""",Mayor
+Sam,Liccardo,"mayoremail@sanjoseca.gov, sam.liccardo@sanjoseca.gov","""San Jose, CA""",Mayor
+Scott,Fadness,mayorfadness@fishers.in.us,"""Fishers, IN""",Mayor
+Julia,Fahl,mayorfahl@lambertvillenj.org,"""Lambertville, NJ""",Mayor
+Joann,Gattinelli,mayorgattinelli@twp.washiington.nj.us,"""Washington Township, NJ""",Mayor
+Eric,Genrich,MayorGenrich@greenbaywi.gov,"""Green Bay, WI""",Mayor
+Marilyn,Hatley,mayorhatley@nmb.us,"""North Myrtle Beach, SC""",Mayor
+Randy,Henderson Jr.,mayorhenderson@cityftmyers.com,"""Fort Myers, FL""",Mayor
+Hubert,"Hermanek, Jr.",mayorhermanek@northriverside-il.org,"""North Riverside, IL""",Village President
+Rory,Hoskins,mayorhoskins@forestpark.net,"""Forest Park, IL""",Mayor
+Elizabeth,Carr-Hurst,mayorhurst@fairburn.com,"""Fairburn, GA""",Mayor
+Jake,Spano,mayorjakespano@gmail.com,"""St. Louis Park, MN""",Mayor
+John,Dunbar,mayorjohnd@gmail.com,"""Yountville, CA""",Mayor
+Hyrum ,Johnson,mayorjohnson@driggsidaho.org,"""Driggs, ID""",Mayor
+Wiley,Johnson,MayorJohnson@SummervilleSC.gov,"""Summerville, SC""",Mayor
+Thomas,Koch,mayorkoch@quincyma.gov,"""Quincy, MA""",Mayor
+Richard,Kos,MayorKos@chicopeema.gov,"""Chicopee, MA""",Mayor
+Lenny,Curry,mayorlennycurry@coj.net,"""Jacksonville, FL""",Mayor
+Terrance,Lumpkins,mayorlumpkins@comcast.net,"""Round Lake Heights, IL""",Village President
+Denny,Doyle,mayormail@beavertonoregon.gov,"""Beaverton, OR""",Mayor
+Ed,Malloy,mayormalloy@fairfieldiowa.gov,"""Fairfield, IA""",Mayor
+John,Marchand,mayormarchand@cityoflivermore.net,"""Livermore, CA""",Mayor
+Leo,Marshall,mayormarshall@centurytel.net,"""Salmon, ID""",Mayor
+Tony ,Martinez,mayormartinez@cob.us,"""Brownsville, TX""",Mayor
+Dominic,Marturano,mayormarturano@lindenhurstil.org,"""Lindenhurst, IL""",Village President
+Chris ,McKern,mayormckern@cityofkasson.com ,"""Kasson, MN""",Mayor
+Ron,Meer,mayormeer@emichigancity.com,"""Michigan City, IN""",Mayor
+Michael,Neitzke,mayorneitzke@ci.greenfield.wi.us,"""Greenfield, WI""",Mayor
+Jim,Wilkie,mayorofalma@gmail.com,"""Alma, WI""",Mayor
+Darrio,Melton,mayoroffice@selma-al.gov,"""Selma, AL""",Mayor
+Patrick,Green,mayorpgreen@cityofnormandy.gov,"""Normandy, MO""",Mayor
+Jesse,"Tweedle, Sr.",mayorpleasantville@comcast.net,"""Pleasantville, NJ""",Mayor
+Dennis,Raines,mayorraines@mauldincitysc.com,"""Mauldin, SC""",Mayor
+Walker,Reid,mayorreid@cityofgastonia.com,"""Gastonia, NC""",Mayor
+Gordon,Ringberg,mayorringberg@cityofbayfield.com,"""Bayfield, WI""",Mayor
+Daniel,Rivera,mayorrivera@cityoflawrence.com,"""Lawrence, MA""",Mayor
+Richard,Hill,MayorRLBeach@ameritech.net,"""Round Lake Beach, IL""",Mayor
+Grover,Robinson,mayorrobinson@cityofpensacola.com,"""Pensacola, FL""",Mayor
+Carol,Roe,mayorroe@clvhts.com,"""Cleveland Heights, OH""",Mayor
+Steve,Bakken,mayors.office@baynj.org,"""Bismarck, ND""",Mayor
+James,Davis,mayors.office@baynj.org,"""Bayonne, NJ""",Mayor
+Paul,Finley,mayors.office@madisonal.gov,"""Madison, AL""",Mayor
+Nicholas 'Nic',Hunter,mayorsactionline@cityoflc.us,"""Lake Charles, LA""",Mayor
+Andre,Sayegh,mayorsayegh@patersonnj.gov,"""Paterson, NJ""",Mayor
+Thomas,Schneider,mayorschneider@florissantmo.com,Former Mayors,Former Mayor
+Dane,Slater,mayorslater@troymi.gov,"""Troy, MI""",Mayor
+Richard,Irvin,mayorsoffice@aurora-il.org,"""Aurora, IL""",Mayor
+Joseph,Sullivan,mayorsoffice@braintreema.gov,"""Braintree, MA""",Mayor
+Ellen,Zoppo Sassu,mayorsoffice@bristolct.gov,"""Bristol, CT""",Mayor
+Michelle,Markiewicz-Qualkinbush,mayorsoffice@calumetcity.org,"""Calumet City, IL""",Mayor
+Ted,Ellis,mayorsoffice@ci.bluffton.in.us,"""Bluffton, IN""",Mayor
+Carlo,"DeMaria, Jr.",mayorsoffice@ci.everett.ma.us,"""Everett, MA""",Mayor
+Frank,Brocato,mayorsoffice@ci.hoover.al.us,"""Hoover, AL""",Mayor
+Amy,Shuler Goodwin,mayorsoffice@cityofcharleston.org,"""Charleston, WV""",Mayor
+Timothy,DeGeeter,mayorsoffice@cityofparma-oh.gov,"""Parma, OH""",Mayor
+Kelli,Linville,mayorsoffice@cob.org,"""Bellingham, WA""",Mayor
+Billy,Hewes,mayorsoffice@gulfport-ms.gov,"""Gulfport, MS""",Mayor
+Louis,Rigby,mayorsoffice@laportetx.gov,"""La Porte, TX""",Mayor
+Steve,Allender,mayorsoffice@rcgov.org,"""Rapid City, SD""",Mayor
+Bryan,Barnett,mayorsoffice@rochesterhills.org,"""Rochester Hills, MI""",Mayor
+W. Reed ,"Gusciora, Esq.",mayorsoffice@trentonnj.org,"""Trenton, NJ""",Mayor
+Joseph,Solomon,mayorsoffice@warwickri.com,"""Warwick, RI""",Mayor
+John,Engen,mayorstaff@ci.missoula.mt.us,"""Missoula, MT""",Mayor
+Darrell,Steinberg,MayorSteinberg@cityofsacramento.org,"""Sacramento, CA""",Mayor
+Sandy,Stimpson,mayorstimpson@cityofmobile.org,"""Mobile, Al""",Mayor
+Chris,Swanson,mayorswanson@twoharborsmn.gov,"""Two Harbors, MN""",Mayor
+Rhett,Taylor,mayortaylor@hotmail.com,"""Grayslake, IL""",Village President
+Richard,Thomas,mayorthomas@cmvny.com,"""Mount Vernon, NY""",Mayor
+Thom,Bogue,mayorthombogue@yahoo.com,"""Dixon, CA""",Mayor
+Anna,Tovar,mayortovar@tollesonaz.org,"""Tolleson, AZ""",Mayor
+William,Wild,mayorwild@cityofwestland.com,"""Westland, MI""",Mayor
+Steve,Williams,mayorwilliams@cityofhuntington.com,"""Huntington, WV""",Mayor
+Maile,Wilson,mayorwilson@cedarcity.org,"""Cedar City, UT""",Mayor
+Michael,Wolfe,mayorwolfe1125@hempsteadcitytx.com,"""Hempstead, TX""",Mayor
+George,Yukich,mayoryukich@homerglen.org,"""Homer Glen, IL""",Village President
+A. Max,Bacon,mbacon@smyrnaga.gov,"""Smyrna, GA """,Mayor
+Marty,Becker,mbecker@cpwwi.org,"""Port washington, WI""",Mayor
+Maria,Belen Bernal,mbelenbernal@sogate.org,"""South Gate, CA""",Mayor
+Matt,Bemrich,mbemrich@mchsi.com,"""Fort Dodge, IA""",Mayor
+Michael A.,Boehm,Mboehm@ci.lenexa.ks.us,"""Lenexa, KS""",Mayor
+Matthew,Bogusz,mbogusz@desplaines.org,"""Des Plaines, IL""",Mayor
+Michael,Brown,mbrown@grandforksgov.com,"""Grand Forks, ND""",Mayor
+Michael,Butler,mbutler@orangeburg.sc.us,"""Orangeburg, SC""",Mayor
+Marv,Calvin,mcalvin@willmarmn.gov,"""Willmar, MN""",Mayor
+Shane,McCampbell,mccampbells@burlingtoniowa.org,"""Burlington, IA""",Mayor
+Marilyn,Shepit,mccullomlake@comcast.net,"""McCullom Lake, IL""",Village President
+Amy  ,McMahon,mcmahona@bouldercolorado.gov,"""Boulder, CO""",Scheduler
+Michael,Collins,mcollins@cityoflewiston.org,"""Lewiston, ID""",Mayor
+Michael,Collins,mcollins@goplainfield.com,"""Plainfield, IL""",Mayor
+Michael,Copeland,mcopeland@olatheks.org,"""Olathe, KS""",Mayor
+Michael,Taylor,mctaylor@sterling-heights.net,"""Sterling Heights, MI""",Mayor
+Mike,Damiano,mdamiano@southbendin.gov,"""South Bend, IN""",Fire Assistant Chief of Operations
+Mary,Danko,mdanko@burlingtonvt.gov,"""Burlington, VT Fletcher Free Library""",Library Director
+Michelle,De La Isla,mdelaisla@topeka.org,"""Topeka, KS""",Mayor
+Mike,DeVore,mdevore@ci.lowell.mi.us,"""Lowell, MI""",Mayor
+Michelle,Distler,mdistler@cityofshawnee.org,"""Shawnee, KS""",Mayor
+Maureen ,Donker,mdonker@midland-mi.org,"""Midland, MI """,Mayor 
+Mike,Dunafon,mdunafon@glendale.co.us,"""Glendale, CO""",Mayor
+Mark,Eckert,meckert@belleville.net,"""Belleville, IL""",Mayor
+Meg, Kelly,meg.kelly@saratoga-spring.org,"""Saratoga Springs, NY""",Mayor
+Meghan,Sahli-Wells,meghan.sahli-wells@culvercity.org,"""Culver City, CA""",Mayor
+Michael,Einhorn,meinhorn@villageofcrete.org,"""Crete, IL""",Village President
+Mark,Eisenberg,meisenberg@springgrovevillage.com,"""Spring Grove, IL""",Village President
+Melanie,Nutter,melanie@nutterconsulting.net,Nutter Consulting,Principal
+Melissa,Bertolo,melissa@welcomingamerica.org,Welcoming America,Certified Welcoming Manager
+Melvin,Carter III,Melvin.Carter@ci.stpaul.mn.us,"""St. Paul, MN""",Mayor
+Marybeth,McGinnis,memcginnis2@wisc.edu,COWS,Outreach Specialist
+Dennis,Magee,merrionettepark@comcast.net,"""Merrionette Park, IL""",Village President
+Marita,Garrett,mgarrett@wilkinsburgpa.gov,"""Wilkinsburg, PA""",Mayor
+Mario,Garza,mgarza@cityofsanjuantexas.com,"""San Juan, TX""",Mayor
+John,Ditslear,mglodowski@noblesville.in.us,"""Noblesville, IN""",Mayor
+Michael,Gresk,mgresk@wheaton.il.us,Former Mayors,Former Mayor
+Timothy,Flaherty,mharris@ci.pleasant-hill.ca.us,"""Pleasant Hill, CA""",Council Member 
+John,Henry,mhenry@ci.carbondale.il.us,"""Carbondale, IL""",Mayor
+Milissa,Holland,mholland@palmcoastgov.com,"""Palm Coast, FL""",Mayor
+Michael,Cox,michael.b.cox@portlandoregon.gov,,Former Chief of Staff
+Michael,Kerr,Michael.Kerr@portlandoregon.gov,"""Portland, OR""","Manager, Office of Strategy, Innovation, and Performance"
+Michael,Heifetz,michael@datachief.info,Data Chief,
+Michael,Kyes,michaelkyes@sbcglobal.net,"""Sebastopol, CA""",Mayor
+Michelle ,Gomez,Michele.Gomez@tamarac.org,"""Tamarac, FL""",Mayor
+Mickey,Folsom,Mickey.Folsom@columbiasc.gov,"""Columbia, SC""",Fire Batallion Chief 
+Miguel,Lemieux,miguel.lemieux@ville.valleyfield.qc.ca,"""Salaberry-De-Valleyfield, QC (Canada)""",Mayor
+Mike,Bodker,Mike.Bodker@JohnsCreekGA.gov,"""Johns Creek, GA""",Mayor
+Mike,Spano,mike.spano@yonkersny.gov,"""Yonkers, NY""",Mayor
+Mike,Summers,Mike.Summers@lakewoodoh.net,"""Lakewood, OH""",Mayor
+Mike,Caldwell,mikecaldwell@ogdencity.com,"""Ogden, UT""",Mayor
+Michael,Hansen,MikeH@newtongov.org,"""Newton, IA""",Mayor
+Mary,Parham Copelan,milledgevillemayor2018@gmail.com,"""Milledgeville, GA""",Mayor
+Thomas,Miller,milleto@bloomington.in.gov,"""Bloomington, IN""",Director of Innovation
+Milt,Stowe,miltstowe@portervilleca.gov,"""Porterville, CA""",Mayor
+Miro,Weinberger,miro@burlingtonvt.gov,"""Burlington, VT""",Mayor
+Mitch,Colvin,mitch.colvin@ci.fay.nc.us,"""Fayetteville, NC""",Mayor
+Mitch,Twolan,mitch@lakerangerealty.ca,"""Huron-Kinloss, ON (Canada)""",Mayor
+Monica ,McCroskey ,mjmccroskey@dmgov.org,"""Des Moines, IA""",EAA to Mayor & Council
+Mark,Johnson,mjohnson@lehi-ut.gov,"""Lehi, UT""",Mayor
+,Maria Jordan ,mjordan@esri.com,ESRI,Product Marketing Director
+Mike,Kanarick,mkanarick@burlingtonelectric.com,Burlington Electric Department,Manager of Customer Care and Communications
+Matt,Kaplan,mkaplan@lyft.com,Lyft,Community Affairs Manager
+ Mary ,Kardoskee,mkardoskee@ashwaubenon.com ,"""Ashwaubenon, WI""",Mayor
+Mike,Kasperzak,mkasperzak@gmail.com,Former Mayors,"Former Mayor - Mountain View, CA"
+Mike ,Kelly,mkelly@roelandpark.org,"""Roeland Park, KS""",Mayor
+Mark,Kownick,mkownick@caryillinois.com,"""Cary, IL""",Mayor
+Larson,Mike,mlarson@sugar-creek.mo.us,"""Sugar Creek, MO""",Mayor
+Matt,LaVere,mlavere@cityofventura.ca.gov,"""Ventura, CA""",Mayor
+Michael, Longhenry,mlong@grantsburgwi.net,"""Grantsburg, WI""",Mayor
+Michael ,Ludwick,mludwick@endfield.org,"""Enfield, CT""",Mayor and Councilor at Large 
+Mike,Mason,mmason@peachtreecornersga.gov,Peachtree Corners,Mayor
+Marian,McClellan,mmcclellan@oakparkmi.gov,"""Oak Park, MI""",Mayor
+Martin,McLaughlin,Mmclaughlin@barringtonhills-il.gov,"""Barrington Hills, IL""",Village President
+Marsha,Mclean,mmclean@santa-clarita.com,"""Santa Clarita, CA""",Mayor
+Mark,Meadows,mmeadows@cityofeastlansing.com,"""East Lansing, MI""",Mayor
+Mike,Moore,MMoore@CityofJeff.net,"""Jeffersonville, IN""",Mayor
+Marcus,Muhammad,mmuhammad@cityofbentonharbormi.gov,Benton Harbor,Mayor
+Martin, Nock,mnock@willingboronj.gov,"""Willingboro Township, NJ""",Mayor
+Mark,Northrup,mnorthrup@hudsonville.org,"""Hudsonville, MI""",Mayor
+Mary,O'Connor,moconnor@ci.monona.wi.us,"""Monona, WI""",Mayor
+Michael,O'Connor,moconnor@cityoffrederick.com,"""Frederick, MD""",Mayor
+Phillip,Mohorn,mohornp@bbfl.us,"""Boynton Beach, FL""",Assistant Chief of Training and Safety
+Alex,Morse,morsea@holyoke.org,"""Holyoke, MA""",Mayor
+Michael,Passero,mpassero@ci.new-london.ct.us,"""New London, CT""",Mayor
+Mike,Pearson,mpearson@lakeelmo.org,"""Lake Elmo, MN""",Mayor
+Mike,Peterson,mpeterson@ch.utah.gov,"""Cottonwood Heights, UT""",Mayor
+Matthew ,Pigatt,mpigatt@opalockafl.gov,"""Opa Locka, FL""",Mayor
+Matt,Pina,mpina@desmoineswa.gov,"""Des Moines, WA""",Mayor
+Miguel,Pulido,mpulido@santa-ana.org,"""Santa Ana, CA""",Mayor
+Maria Regan ,Gonzalez,MRegan@RichfieldMN.gov,"""Richfield, MN""",Mayor
+Michael,Monson,mrmonson@urbanaillinois.us,"""Urbana, IL""",Chief of Staff
+Michael,Ryan,mryan@sunrisefl.gov,"""Sunrise, FL""",Mayor
+Mary,Salas,MSalas@chulavistaca.gov,"""Chula Vista, CA""",Mayor
+Rob,Rennie,msayoc@losgatosca.gov,"""Los Gatos, CA""",Council Member 
+"Janet ""Missey""",Schumacher,mschumacher@channahon.org,"""Channahon, IL""",Mayor
+Matt,Shorraw,mshorraw@cityofmonessen.com,Monessen,Mayor
+Mark,Sideris,msideris@watertown-ma.gov,"""Watertown, MA""",Mayor
+Michael,Siefkes,msiefkes@ci.seatac.wa.us,"""Seatac, WA""",Mayor
+Morton,Simon,msimon@cheltenham-township.org,"""Cheltenham, PA""",Mayor
+Marjorie,Sloan,msloan@cityofgolden.net,"""Golden, CO""",Mayor
+Michael,Smith,msmith@westvancouver.ca,"""West Vancouver, BC (Canada)""",Mayor
+Mark,Steffenson,msteffenson@maplegrovemn.gov,"""Maple Grove, MN""",Mayor
+Matthew,Surrency,msurrency@cityofhawthorne.net,"""Hawthorne, FL""",Mayor
+Mark,Tettemer,mtettemer@lakeforestca.gov,"""Lake Forest, CA""",Mayor
+Michael,Thom,mthom@columbuswi.us,"""Columbus, WI""",Mayor
+Mendell,Thompson,mthompson@cityofglendora.org,"""Glendora, CA""",Mayor
+Martin,Tully,mtully@downers.us,"""Downers Grove, IL""",Mayor
+Michael,Vargas,Mvargas@cityofperris.org,"""Perris, CA""",Mayor
+Michael,Vaughn,mvaughn@cityofrsm.org,"""Rancho Santa Margarita, CA""",Mayor
+Michael,Villa,mvilla@amsterdamny.gov,"""Amsterdam, NY""",Mayor
+Mike,Waid,mwaid@parkeronline.org,"""Parker, CO""",Mayor
+Matt,Walsh,mwalsh@councilbluffs-ia.gov,"""Council Bluffs, IA""",Mayor
+Michael,Walsh,mwalsh@mail.de-pere.org,"""De Pere, WI""",Mayor
+Mark,Washington,mwashington@grand-rapids.mi.us,"""Grand Rapids, MI""",City Manager
+Mike,Watson,mwatson@aarp.com,American Association for Retired Persons (AARP),Senior Advisor
+Mike,Foreman,mwelsh@friendswood.com,"""Friendswood, TX""",Mayor
+Mary,Werner,mwerner@villageofworth.com,"""Worth, IL""",Village President
+Marc,Williams,mwilliams@arvada.org,"""Arvada, CO""",Mayor
+Mike,Wiza,mwiza@stevenspoint.com,"""Steven's Point, WI""",Mayor
+Myron,Bailey,myronbailey@aol.com,"""Cottage Grove, MN""",Mayor
+Nancy,DeBoer,n.deboer@cityofholland.com,"""Holland, MI""",Mayor
+Nan,Whaley,nan.whaley@daytonohio.gov,"""Dayton, OH""",Mayor
+Nancy,McFarlane,nancy.mcfarlane@raleighnc.gov,"""Raleigh, NC""",Mayor
+Nancy,Vaughan,nancy.vaughan@greensboro-nc.gov,"""Greensboro, NC""",Mayor
+Jim,Donchess,NashuaMayor@nashuaNH.gov,"""Nashua, NH""",Mayor
+Natalie,Stewart,natalie@switch.com,Switch,Vice President of Government and Public Affairs
+Nate,Takara,nate.takara@portlandoregon.gov,"""Portland, OR""",Fire Marshal
+Nathan ,Blackwell,nathan.blackweel@stcloud.org,"""St. Cloud, FL""",Mayor
+Nancy,Backus,nbackus@auburnwa.gov,"""Auburn, WA""",Mayor
+Nandia,Black,nblack@villageofkildeer.com,"""Kildeer, IL""",Village President
+Noam,Bramson,nbramson@newrochelleny.com,"""New Rochelle, NY""",Mayor
+Noel,Cummings,ncummings@villageofhodgkins.org,"""Hodgkins, IL""",Village President
+Mark,Nexsen,nexsenm@lhcaz.gov,"""Lake Havasu City, AZ""",Mayor
+Nicholas,Giaquinto,ngiaquinto@cobma.us,"""Brockton, MA""",Chief of Staff
+Nick,Gradisar,ngradisar@pueblo.us,"""Pueblo, CO""",Mayor
+Nicholas,Helmer,nhelmer@prospect-heights.org,"""Prospect Heights, IL""",Mayor
+Nick,Guccione,Nick.Guccione@wentzvillemo.org,"""Wentzville, MO""",Mayor
+Nick,Mastronardi,nick@polco.us,Polco,CEO
+Nicole,LaChapelle,nicolel@easthampton.org,"""Easthampton, MA""",Mayor
+Nancy ,Kaboolian,nkaboolian@ardsleyvillage.com,"""Ardsley, NY""",Mayor
+Neale,Lunderville,nlunderville@burlingtonvt.gov,"""Burlington, VT""",Director of Community and Economic Development Office 
+Nickole,Nesby,nnesby@duquesnepa.us,"""Duquesne, PA""",Mayor
+Nicole,Nicoletta,nnicoletta@comsgov.com,"""Manitou Springs, CO""",Mayor
+Neil,O'Leary,noleary@waterburyct.org,"""Waterbury, CT""",Mayor
+Riely,Evans,northcourtland@outlook.com,"""North Courtland, AL""",Mayor
+Jeffrey,Sherwin,northlakemayor@comcast.net,"""Northlake, IL""",Mayor
+Neil,Palmer,npalmer@elmgrovewi.org,"""Elm Grove, WI""",Village President
+Nicole,Pollock,npollock@providenceri.gov,"""Providence, RI""",Chief of Staff
+Annunziato,Pulice,npulice@wooddale.com,"""Wood Dale, IL""",Mayor
+Oscar,Trevino,nrhoscar@sbcglobal.net,"""North Richland Hills, TX""",Mayor
+Nancy,Rossi,nrossi@westhaven-ct.gov,"""West Haven, CT""",Mayor
+Nancy,Rodkin Rotering,nrotering@cityhpil.com,"""Highland Park, IL""",Mayor
+Nina,Safavi,nsafavi@burlingtonvt.gov,"""Burlington, VT Parks Recreation Waterfront""",Parks Comprehensive Planner
+Nicola,Smith,nsmith@ci.lynnwood.wa.us,"""Lynnwood, WA""",Mayor
+Ron ,Case,ntyra-lukens@edenprairie.org,"""Eden Prairie, MN""",Mayor
+Nikuyah,Walker,nwalker@charlottesville.org,"""Charlottesville, VA""",Mayor
+N. Warren 'Pete',"Hess, III",nwhess@naugatuck-ct.gov,"""Naugatuck, CT""",Mayor
+Libby,Schaaf,officeofthemayor@oaklandnet.com,"""Oakland, CA""",Mayor
+Oliver,Gilbert,OGilbert@MiamiGardens-FL.gov,"""Miami Gardens, FL""",Mayor
+Opanyi ,Nasiali,onasiali@ci.claremont.ca.us,"""Claremont, CA""",Mayor
+Joe,Hogsett,onecityindy@onecityindy.org,"""Indianapolis, IN""",Mayor
+John,Keener,o'neillm@ci.pacifica.ca.us,Former Mayors,Former Mayor
+Josie,Osborne,osborne@tofino.ca,"""Tofino, BC (Canada)""",Mayor
+Paige,Brown,paige.brown@gallatin-tn.gov,"""Gallatin, TN""",Mayor
+Paul,Alexander,palexander@burlingtonelectric.com.,Burlington Electric Department,Interim General Manager
+George,Pandaleon,pandaleong@cityoflakeforest.com,"""Lake Forest, IL""",Mayor
+Pat,Moeller,pat.moeller@hamilton-oh.gov,"""Hamilton, OH""",Mayor
+Patricia,Randall,patricia.randall@portagemi.gov,"""Portage, MI""",Mayor
+Patrick,Leary,PATRICK.LEARY@SLCGOV.COM,"""Salt Lake Country, UT""",Chief of Staff
+Patrick,Madden,patrick.madden@troyny.gov,"""Troy, NY""",Mayor
+Pat ,Rogan ,patrogan1@GMAIL.COM,"""Scranton, PA""",Mayor
+Patti,Garrett,Patti.Garrett@decaturga.com,"""Decatur, GA""",Mayor
+Paul,Dyster,paul.dyster@niagarafallsny.gov,"""Niagara Falls, NY""",Mayor
+Paul,Joiner,Paul.Joiner@LincolnCA.gov,"""Lincoln, CA""",Mayor
+Paul,Voelker,Paul.Voelker@cor.gov,"""Richardson, TX""",Mayor
+Paul,Vornholt,paul.vornholt@milwaukee.gov,"""Milwaukee, WI""","Chief of Staff, Mayor's Office"
+Paul,Wesch,paul.wesch@cityofmobile.org,"""Mobile, Al""",Chief of Staff
+Paula,Seidel,paulaseidel@aia.org,American Institute of Architects,"Senior Director, Industry Relations"
+Paul,Heroux,paulheroux@cityofattleboro.us,"""Attleboro, MA""",Mayor
+Paul,Braun,pbraun@flossmoor.org,"""Flossmoor, IL""",Mayor
+Pete,Buttigieg,pbuttigieg@southbendin.gov,"""South Bend, IN""",Mayor
+Peter ,Calamari,pcalamari@twpofwashington.us,"""Washington Township, NJ""",Mayor
+Patrick,Casilio,pcasilio@clarence.ny.us,"""Clarence, NY""",Mayor 
+Peter,Chan,pchan@monterypark.ca.gov,"""Monterey Park, CA""",Mayor
+Pauline,Cutter,pcutter@sanleandro.org,"""San Leandro, CA""",Mayor
+Pegeen,Hanrahan,pegeen.hanrahan@tpl.org,The Trust for Public Land,Southeast Conservation Finance Director
+Peggy,Dunn,peggyd@leawood.org,"""Leawood, KS""",Mayor
+Patty,Eidam,peidam@villageoflansing.org,"""Lansing, IL""",Mayor
+Percy,Bland,percyformayor@gmail.com,"""Meridian, MS""",Mayor
+Paul,Esser,pesser@cityofsunprairie.com,"""Sun Prairie, WI""",Mayor
+Stan,Nader,Peter.Gilbert@LincolnCA.gov,Former Mayors,Former Mayor
+Peter,Simmons,peter.simmons@cityofbonitasprings.org,"""Bonita Springs, FL""",Mayor
+Sherry,Petrolia,petrolia@mydelraybeach.com,"""Delray Beach, FL""",Mayor
+Paul,Foster,pfoster@cityofredlands.org,"""Redlands, CA""",Mayor
+Patrick,Furey,pfurey@torranceca.gov,"""Torrance, CA""",Mayor
+Pam,Hemminger,phemminger@townofchapelhill.org,"""Chapel Hill, NC""",Mayor
+Patrick,Horcher,phorcher@wheelingil.gov,"""Wheeling, IL""",Mayor
+"Eugene 'Gene""",Hernandez,phuang@yorba-linda.org,Former Mayors,Former Mayor
+P.J., Connelly,pjconnelly@greenvillenc.gov,"""Greenville, NC""",Mayor
+Penny,Lilburn,plilburn@cityofhighland.org,"""Highland, CA""",Mayor
+Paul,Monette,plmonette@gmail.com,"""Newport City, VT""",Mayor
+Paula,McCombie,pmccombie@southbarrington.org,"""South Barrington, IL""",Village President
+Pat,McGrail,pmcgrail@cityofkeller.com,"""Keller, TX""",Mayor
+Pete,Muldoon,pmuldoon@townofjackson.com,"""Jackson, WY""",Mayor
+Patrick,Mulligan,pmulligan@burlingtonvt.gov,"""Burlington, VT""","Assistant Director - Public Works, Parking & Traffic"
+Peter Albert,Nystrom,pnystrom@cityofnorwich.org,"""Norwich, CT""",Mayor
+Jack,Poll,pollj@wyomingmi.gov,"""Wyoming, MI""",Mayor
+Steven,Ponto,ponto@ci.brookfield.wi.us,"""Brookfield, WI""",Mayor
+Paula,Perotte,pperotte@cityofgoleta.org,"""Goleta, CA""",Mayor
+Paul ,Reinke,preinke@ci.oakdale.mn.us,"""Oakdale, MN""",Mayor
+Joel,Robideaux,president@LafayetteLA.gov,"""Lafayette, LA""",Parish-president
+David,Underwood,president@prairiegrove.org,"""Prairie Grove, IL""",Mayor
+Harry,Blecker,president@villageofcamptonhills.org,"""Campton Hills, IL""",Village President
+Tony,Bibeau,presidentbibeau@centurytel.net,"""Hammond, WI""",Village President
+Bulthuis,Albert,presidentbulthuis@invillapark.com,"""Villa Park, IL""",Village President
+Allison ,Rozek,presidentRozek@villageofshorewood.org,"""Shorewood, WI""",Mayor
+Priya,Madrecki,priya@kaboom.org,Kaboom,"Senior Manager, Strategic Communications"
+Russell 'Russ' ,Blewett,pruss@cityofhesperia.us,Former Mayors,Former Mayor
+Pete,Sanchez,psanchez@suisun.com,"""Suisun City, CA""",Mayor
+Pilar,Sinawi,psinawi@tollesonaz.org,"""Tolleson, AZ""",Chief Government Affairs Officer
+Pam,Stafford,pstafford@rpcity.org,"""Rohnert Park, CA""",Mayor
+Phil ,Stephan,pstephan@village.lakewood.il.us,"""Lakewood, IL""",Village President
+Philip,Suess,psuess@wheaton.il.us,"""Wheaton, IL""",Mayor
+Peter,Truax,ptruax@forestgrove-or.gov,"""Forest Grove, OR""",Mayor
+Peter,Weiss,pweiss@oceansideca.org,"""Oceanside, CA""",Mayor
+Patrick,Wojahn,pwojahn@collegeparkmd.gov,"""College Park, MD""",Mayor
+Russ ,Gehm,R.Gehm@villageofbonduel.com,"""Bonduel, WI""",Mayor
+Robert,Nunamaker,r.nunamaker@foxrivergrove.org,"""Fox River Grove, IL""",Village President
+Rafael,Carbonell,rafael_carbonell@hks.harvard.edu,"""Ash Center for Democratic Governance and Innovation, Harvard Kennedy School""","Executive Director, Taubman Center for State & Local Government"
+Randy,Ahren,rahrens@broomfieldcitycouncil.org,"""Broomfield, CO""",Mayor
+Randall,Woodfin,Randall.Woodfin@birminghamal.gov,"""Birmingham, AL""",Mayor
+Randy ,Gustafson,randy.gustafson@falconheights.org,"""Falcon Heights, MN""",Mayor
+Ron,Appletoft,rappletoft@missionks.org,"""Mission, KS""",Mayor
+Rusty,Bailey,rbailey@riversideca.gov,"""Riverside, CA""",Mayor
+Ralph,Becker,rbecker801@gmail.com,,Speaker
+Ronald,Beitler,rbeitler@lowermac.com,"""Lower Macungie Township, PA""",Mayor
+Ravinder (Ravi),Bhalla,rbhalla@hobokennj.gov,"""Hoboken, NJ""",Mayor
+Rosalynn,Bliss,rbliss@grcity.us,"""Grand Rapids, MI""",Mayor
+Rick,Bondilla,rbondilla@cityofsanmateo.org,"""San Mateo, CA""",Mayor
+Richard,Boss,rboss@ci.alamogordo.nm.us,"""Alamogordo, NM""",Mayor
+Jeffrey,Tobolski,rbotica@villageofmccook.org,"""McCook, IL""",Mayor
+Richard,Child,rchild@springville.org,"""Springville, UT""",Mayor
+Robin,Christiansen,rchristiansen@dover.de.us,"""Dover, DE""",Mayor
+Ross,Chun,rchun@cityofalisoviejo.com,"""Aliso Viejo, CA""",Mayor
+Raymond,Coles,rcoles@lakewoodtwpnj.org,"""Lakewood, NJ""",Mayor
+Rodney,Craig,rcraig@hpil.org,"""Hanover Park, IL""",Village President
+Rick,Danner,rdanner@cityofgreer.org,"""Greer, SC""",Mayor
+Brett,Lee,rdavis@cityofdavis.org,"""Davis, CA""",Mayor
+Roy,Buol,rdbuol@cityofdubuque.org,"""Dubuque, IA""",Mayor
+Richard,Deane,rdeane@burlingtonvt.gov,"""Burlington, VT""",East District City Councilor
+Richard,Delarosa,rdelarosa@coltonca.gov,"""Colton, CA""",Mayor
+Richard ,DiLucia,rdilucia@monroetownshipnj.org,"""Monroe, NJ""",Mayor
+Ray,Mueller,rdmueller@melonpark.org,"""Menlo Park, CA""",Mayor
+Robert,Donchez,rdonchez@bethlehem-pa.gov,"""Bethlehem, PA""",Mayor
+Ray,Dunton,rdunton@bellflower.org,"""Bellflower, CA""",Council Member
+Rudy,Durham,rdurham@cityoflewisville.com,"""Lewisville, TX""",Mayor
+Robert ,Eastern,reastern@cesl.us,"""East St. Louis, IL""",Mayor
+Becky,Lamboley,rebecca.lamboley@portlandoregon.gov,"""Portland, OR""",Equity Manager
+Linda,Morse,reddi@cityofmhk.com,"""Manhattan, KS""",Commissioner 
+Reginald,Freeman,reginald.freeman@hartford.gov,"""Hartford, CT""",Fire Chief/ Emergency Management Director
+Rennie,Brantz,rennie.brantz@townofboone.net,"""Boone, NC""",Mayor
+Reyna,Schaechter,reyna@seamlessdocs.com,SeamlessDocs,Content Officer
+Rick,Forschler,rforschler@ci.seatac.wa.us,"""Seatac, WA""",Mayor
+Ruthanne,Fuller,rfuller@newtonma.gov,"""Newton, MA""",Mayor
+Ronald,Gardiner,rgardiner@villageofglenwood.com,"""Glenwood, IL""",Village President
+Jonathan,Ingram,rgibbs@MurrietaCA.gov,"""Murrieta, CA""",Council Member 
+Rich,Goodwin,rgoodwin@burlingtonvt.gov,"""Burlington, VT""","Office of The Clerk/Treasurer, Director of Financial Operations"
+Ron,Gunter,rgunter@westmont.il.gov,"""Westmont, IL""",Mayor
+Robert,Hale,rhale@midvale.com,"""Midvale, UT""",Mayor
+Richard,Hardaway,rhardaway@merrillville.in.gov,"""Merrillville, IN""",president of town council
+Robert,Hedlund,rhedlund@weymouth.ma.us,"""Weymouth, MA""",Mayor
+Richard,Hofeld,rhofeld@homesweethomewood.com,"""Homewood, IL""",Village President
+Rhonda,Pownell,rhonda.pownell@ci.northfield.mn.us,"""Northfield, MN""",Mayor
+Rebecca,Hopp ,rhopp@ferrysburg.org,"""Ferrysburg, MI""",Mayor
+Richard,Rothman,rich@zerocycle.co,Zerocycle,"Vice President, Sales"
+Richard,Kelley,richard.kelley@okc.gov,"""Oklahoma City, OK""",Fire Chief
+Richard,Coffin,richardc@ballmergroup.com,USAFacts,Founder
+Rich ,Waterman,richw@cityofcampbell.com,"""Campbell, CA""",Mayor
+Rick,Ihli,rihli@ci.rogers.mn.us,"""Rogers, MN""",Mayor
+Mike,Thoms,rimayor@rigov.org,"""Rock Island, IL""",Mayor
+Richard ,Rothstein,riroth@epi.org,Economic Policy Institute (EPI),Research Associate & Author
+Rita,Albrecht,rita.albrecht@ci.bemidji.mn.us,"""Bemidji, MN""",Mayor
+Rusty,Johnson,rjohnson@ocoee.org,"""Ocoee, FL""",Mayor
+Rich,Kerr,rkerr@ci.adelanto.ca.us,"""Adelanto, CA""",Mayor
+Rick,Kowalczyk,RKowalczyk@hmbcity.com,"""Half Moon Bay, CA""",Mayor
+Robin,Laubaugh,rLaubaugh@wadsworthcity.org,"""Wadsworth, OH""",Mayor
+Rick,Lott,rlott@plantcitygov.com,"""Plant City, FL""",Mayor
+Robert,Lovero,rlovero@ci.berwyn.il.us,"""Berwyn, IL""",Mayor
+Linda,Lucassen,rlpmayor@sbcglobal.net,"""Round Lake Park, IL""",Mayor
+Peter,Rodgers,rmarquez@chinohills.org,"""Chino Hills, CA""",Council Member
+Rob,McCoy,rmccoy@toaks.org,"""Thousand Oaks, CA""",Mayor
+Robert ,McGarvey,rmcgarvey@cityofranchocordova.org,"""Rancho Cordova, CA""",Mayor
+Rachel ,McKenzie,rmckenzie@cityofallegan.org,"""Allegan, MI""",Mayor
+Rico,Medina,RMedina@sanbruno.ca.gov,"""San Bruno, CA""",Mayor
+Renee,Morgan,rmorgan@danville.ca.gov,"""Danville, CA""",Council Member
+Richard,Nagel,rnagel@arlingtonmn.com,"""Arlington, MN""",Mayor
+Neal,Elliott,rnelliott@aceee.org,American Council for an Energy-Efficient Economy (ACEEE),Sr. Director for Research
+Clyde,Roberson,roberson@monterey.org,"""Monterey, CA""",Mayor
+Robert,Byrnes,robert.byrnes@marshallmn.com,"""Marshall, MN""",Mayor
+Robert,Clark,robert.clark@monroemi.gov,"""Monroe, MI""",Mayor
+Robert,Dye,robert.dye@farmersbranchtx.gov,"""Farmers Branch, TX""",Mayor
+Robert,Moon,Robert.Moon@palmspringsca.gov,"""Palm Springs, CA""",Mayor
+Rob,Zimmerman,robert.zimmerman@kohler.com,Kohler,Director -Sustainability
+Robert ,Agee,Robertagee@comcast.net,"""Annapolis, MD""",Advisor to the Mayor
+Rochelle,Robinson,robinsonr@douglasvillega.gov,"""Douglasville, GA""",Mayor
+Richard,O'Brien,robrien@riverbank.org,"""Riverbank, CA""",Mayor
+Robyn,Burek,robyn.burek@portlandoregon.gov,"""Portland, OR""",Principal Management Analyst at Fire and Rescue 
+Rod,Higgins,rod.higgins@spokanevalley.org,"""Spokane Valley, WA""",Mayor
+Bob,O'Dekirk,Rodekirk@jolietcity.org,"""Joliet, IL""",Mayor
+Ron,Oertle,roertle@bisbeeaz.gov,"""Bisbee, AZ""",Mayor
+Roger,Byrne,RogerB@vhills.org,"""Vernon Hills, IL""",Village President
+Roland,Velasco,roland.velasco@cityofgilroy.org,"""Gilroy, CA""",Mayor
+Rolando,Ortiz Vasquez,rolanortiz@cayey.gobierno.pr,"""Cayey, PR""",Mayor
+Rick,Osbon,rosbon@cityofaikensc.gov,"""Aiken, SC""",Mayor
+Dennis,Kintigh,roswellmayor@roswell-nm.gov,"""Roswell, NM""",Mayor
+Roy,Lawson,Roy.Lawson@portlandoregon.gov,"""Portland, OR""",Fire and Rescue Senior Management Analyst
+Rusty,Paul,rpaul@sandyspringsga.gov,"""Sandy Springs, GA""",Mayor
+Russ,Peck,rpeck@eastjordancity.org,"""East Jordan, MI""",Mayor
+Robert,Pettit,rpettit@northaugusta.net,"""North Augusta, SC""",Mayor
+Ruben,Pineda,rpineda@westchicago.org,"""West Chicago, IL""",Mayor
+Rob, Putaansuu,rputaansuu@cityofportorchard.us,"""Port Orchard, WA""",Mayor
+Rob,Putaansuu,rputaansuu@cityofportorchard.us,"""Port Orchard, WA""",Mayor
+Ron,Rakowsky,rrakowsky@greenwoodvillage.com,"""Greenwood Village, CO""",Mayor
+Robert,Ray,rray@rochestermi.org,"""Rochester, MI """,Mayor
+Richard,Reinbold,rreinbold@richtonpark.org,"""Richton Park, IL""",Village President
+Rick,Rodriguez,rrodriguez@downeyca.org,"""Downey, CA""",Mayor
+Riley,Rogers,rrogers@vodolton.org,"""Dolton, IL""",Mayor
+R. Rex,Parris,rrparris@cityoflancasterca.org,"""Lancaster, CA""",Mayor
+ Russ ,Ruzanski,rruzanski@lith.org,"""Lake in the Hills, IL""",Mayor
+Rob,Schroder,rschroder@cityofmartinez.org,"""Martinez, CA""",Mayor
+Rhonda,Shader,rshader@placentia.org,"""Placentia, CA""",Mayor
+Ricky,Shelton,rshelton@cookeville-tn.org,"""Cookeville, TN""",Mayor
+Rachel,Smetana,rsmetana@scottsdaleaz.gov,"""Scottsdale, AZ""",Chief of Staff
+Robert,"Smith, Sr",rsmith@columbusms.org,"""Columbus, MS""",Mayor
+Raymond,Soliman,rsoliman@cityofcresthill.com,"""Crest Hill, IL""",Mayor
+Russell,Stewart,rstewart@cherryhillsvillage.com,"""Cherry Hills Village, CO""",Mayor
+Rick,Stopfer,rstopfer@cityofirving.org,"""Irving, TX""",Mayor
+Robert ,Storer,rstorer@danville.ca.gov,"""Danville, CA""",Mayor
+Roy,Strong,rstrong@wilmington-il.com,"""Wilmington, IL""",Mayor
+Randy,Toms,rtoms@wrga.gov,"""Warner Robins, GA""",Mayor
+Rich,Tran,rtran@ci.milpitas.ca.gov,"""Milpitas, CA""",Mayor
+Rusty ,Hike,Rusty.Hike@bellevue.net,"""Bellevue, NE""",Mayor
+Russell,Utz,RUtz@sanjacintoca.gov,"""San Jacinto, CA""",Mayor
+Raul,Valdes-Fauli,rvaldes-fauli@coralgables.com,"""Coral Gables, FL""",Mayor
+"Richard W. ""Rick""",West,rwest@cityofchesapeake.net,"""Chesapeake, VA""",Mayor
+Ron ,Williams,rwilliams@townoffarragut.org,"""Farragut, TN""",Mayor
+Cathey,Ryan,ryancathey1@gmail.com,,
+Roy,Zartarian,rzartarian@newingtonct.gov,"""Newington, CT""",Mayor
+Sylvano,Sanchez,s.sylvano@yahoo.com,"""Encinal, TX""",Mayor
+Stephanie,Acri,sacri@moline.il.us,"""Moline, IL""",Mayor
+Sally,Faith,sally.faith@stcharlescitymo.gov,Former Mayors,Former Mayor
+Samantha,Lyons,samantha.lyons@sustainalytics.com,Sustainalytics,Associate Director
+Samantha,Paradis,samantha.phyllis.paradis@gmail.com,"""Belfast, ME""",Mayor
+Sandy,Martin,sandymartin444@gmail.com,"""Shoreview, MN""",Mayor
+Santiago,Chavez,santiago@cabq.gov,"""Albuquerque, NM""",Chief of Staff
+Sarah,Nichols,sarah.nichols@bangormaine.gov,"""Bangor, ME""",Mayor
+Shawn,Barigar,sbarigar@tfid.org,"""Twin Falls, ID""",Mayor
+Susannah,Bartlett,sbartlett@syrgov.net,"""Syracuse, NY""","Analytics Coordinator, Office of Innovation"
+Story,Bellows,sbellows@gmail.com,CityFi,Partner
+Stacey,Bernot,Sbernot@carbondaleco.net,"""Carbondale, CO""",Mayor
+Stacy,Berry,sberry@cypressca.org,"""Cypress, CA""",Mayor
+David,Ward,sbmayor@sturgeonbaywi.org,"""Sturgeon Bay, WI""",Mayor
+Sandra,Bradbury,sbradbury@pinellas-park.com,"""Pinellas Park, FL""",Mayor
+Shelly,Brophy,sbrophy@ci.nacogdoches.tx.us,"""Nacogdoches, TX""",Mayor
+Sissi ,Bruch,sbruch@cityofpa.us,"""Port Angeles, WA""",Mayor
+Shawn,Burke,sburke@bpdvt.org,"Burlington Police Dept,""Burlington, VT""",Deputy Chief
+Stephanie,Burke,sburke@medford.org,"""Medford, MA""",Mayor
+Sterling,Burke,sburke@olympia-field.com,"""Olympia Fields, IL""",Village President
+Sandra,Bury,sbury@oaklawn-il.gov,"""Oak Lawn, IL""",Village President
+Suzette,Cavadas,scavadas@uniontownship.com,"""Union Township, NJ""",Mayor
+Sheila Y.,Chalmers-Currin,SChalmers-Currin@villageofmatteson.org,"""Matteson, IL""",Village President
+Muriel,Bowser,scheduling.eom@dc.gov,District of Columbia,Mayor
+Mike,Duggan,scheduling@detroitmi.gov,"""Detroit, MI""",Mayor
+Brenda,Murphy,scheduling@houstontx.gov,"""Houston, TX""",Mayor's Executive Assistant
+Yesenia ,Garcilazo ,scheduling@southbendin.gov,"""South Bend, IN""",Scheduler
+Hillary,Schieve,schieveh@reno.gov,"""Reno, NV""",Mayor
+Donny,Schmit,schmitd@foxlake.org,"""Fox Lake, IL""",Mayor
+Scott,Cirksena,scirksena@cityofclive.com,"""Clive, IA""",Mayor
+Steve,Collier,scollier@cityoflawrence.org,"""Lawrence, IN""",Mayor
+Sheena,Collum,scollum@southorange.org,"""South Orange, NJ""",Mayor
+Scott,Hill,Scott.Hill@mcminnvilleoregon.gov,"""McMinnville, OR""",Mayor
+Ken ,Broadway,scott.yuill@rocklin.ca.us,"""Rocklin, CA""",Council Member 
+Scott,Bernstein,scott@cnt.org,Center for Neighborhood Technology (CNT),Founder and Chief Strategy & Innovation Officer
+Scott,Smith,scottsmith@south-haven.com,"""South Haven, MI""",Mayor
+Stella,Cox,scox@townofignacio.com,"""Ignacio, CO""",Mayor
+Shawna,Davie,sdavie@raceforward.org,"""University of California, Berkeley""",GARE Project Manager
+Sandi,Dingle,sdingle@stpaulpark.org,"""St. Paul Park, MN""",Mayor
+Shea ,Dobson,sdobson@oceansprings-ms.gov,"""Ocean Springs, MS""",Mayor
+Sharon,Dumas,sdumas@city.cleveland.oh.us,"""Cleveland, OH""",Acting Chief of Staff
+Sean,Dowse,sean.dowse@ci.red-wing.mn.us,"""Red Wing, MN""",Mayor
+Sean,Elsbernd,Sean.Elsbernd@sfgov.org,"""San Francisco, CA""",Chief of Staff
+Sean,Morgan,sean.morgan@chicoca.gov,"""Chico, CA""",Mayor
+Sam,Edelstein,sedelstein@syrgov.net,,Chief Data Officer
+Cheryl,Tully Stoll,selectmen@framinghamma.gov,"""Framingham, MA""",Mayor
+Suzanne,Barry,selectmen@lexingtonma.gov,"""Lexington, MA""",Mayor
+Seth ,Scott,seth.scott@phoenix.gov,"""Phoenix, AZ""",Elections Coordinator 
+Sergio,Farias,sfarias@sanjuancapistrano.org,"""San Juan Capistrano, CA""",Mayor
+Sean,Ford,sford@c3gov.com,"""Commerce City, CO""",Mayor
+Sean,Forey,sforey@town.morrison.co.us,"""Morrison, CO""",Mayor
+Suzanna,Fritzberg,sfritzberg@southbendin.gov,Schmidt Futures,Deputy Chief of Staff - Policy Director
+Scott,Galvin,sgalvin@cityofwoburn.com,"""Woburn, MA""",Mayor
+Steve,Hagerty,shagerty@cityofevanston.org,"""Evanston, IL""",Mayor
+Shalaine,Archie,shalaine.archie@columbiasc.gov,"""Columbia, SC""",Executive Assistant
+Shari ,Davis,shari@participatorybudgeting.org,Participatory Budgeting Project,Co-Executive Director
+Scott,Harl,sharlmayor@peru.il.us,"""Peru, IL""",Mayor
+Sharon,Konopa,sharon.konopa@cityofalbany.net,"""Albany, OR""",Mayor
+Patrick,Burtch,shasen@cityofjackson.org,"""Jackson, MI""",City Manager
+Scott,Singer,shaynie@ci.boca-raton.fl.us,"""Boca Raton, FL""",Mayor
+Mark A. ,Lauretti,shelton01@cityofshelton.org,"""Shelton, CT""",Mayor
+Stephen ,Henley,shenley.volo@gmail.com,"""Volo, IL""",Mayor
+Stan,Henry,shenry@cathedralcity.gov,"""Cathedral City, CA""",Mayor
+Sherman,Lea,sherman.lea@roanokeva.gov,"""Roanoke, VA""",Mayor
+Steven,Hernandez,shernandez@coachella.org,"""Coachella, CA""",Mayor
+Shibeal,O'Flaherty,shibeal_oflaherty@hks.harvard.edu,Harvard Behavioral Insights Group,Program Manager
+Shireen,Santosham,shireen.santosham@sanjoseca.gov,"""San Jose, CA""",Chief Innovation Officer 
+Steve,Holt,sholt@florenceal.org,"""Florence, AL""",Mayor
+Sue,Horn,shorn@bennett.co.us,"""Bennett, CO""",Mayor
+John,Dietz,shortshots17@aol.com,"""Elk River, MN""",Mayor
+Sho,Tay ,ShoTayforArcadia@gmail.com,"""Arcadia, CA""",Mayor
+Steve,Jazwiec,sjazwiec@charter.net,"""Rockford, MI""",Mayor
+Steven,McGill,sjmcgill@njjcps.org,"""Jersey City, NJ""",Fire Chief
+Smith,Joseph,sjoseph@northmiamifl.gov,"""North Miami, FL""",Mayor
+Samantha,Kaauamo,skaauamo@ci.tacoma.wa.us,"""Tacoma, WA""",Assistant
+Stephen,Benjamin,skbenjamin@columbiasc.net,"""Columbia, SC""",Mayor
+"Angelo ""Skip""",Saviano,skip@elmwoodpark.org,"""Elmwood Park, IL""",Village President
+Sara,Kurovski,skurovski@pleasanthilliowa.org,"""Pleasant Hill, IA""",Mayor
+Steve,Leary,sleary@cityofwinterpark.org,"""Winter Park, FL""",Mayor
+Steve,Lentz,slentz@mundelein.org,"""Mundelein, IL""",Mayor
+Seth,Leonard,sleonard@winooskivt.org,Former Mayors,"Former Mayor, Winooski, VT"
+Steve,Leonardis,sleonardis@losgatosca.gov,"""Los Gatos, CA""",Mayor
+Samantha,Linnett,slinnett@syrgov.net,"""Syracuse, NY""",Innovation Program Coordinator
+Steven,Locke,slocke@burlingtonvt.gov,"""Burlington, VT""",Chief Engineer
+Steven,Ly,sly@cityofrosemead.org,"""Rosemead, CA""",Mayor
+Steph,Mabrey,smabrey@cityofmadison.com,"""Madison, WI""",Data Analyst
+Steve,Manos,smanos@lake-elsinore.org,"""Lake Elsinore, CA""",Mayor
+Steven,Martin,smartin@prcity.com,"""Paso Robles, CA""",Mayor
+Sean,McDermott,smcdermott@countryside-il.org,"""Countryside, IL""",Mayor
+Shawn,Maclnnes,smcdonald@town.dartmouth.ma.us,"""Dartmouth, MA""",Mayor
+Shane,McFarland,smcfarland@murfreesborotn.gov,"""Murfreesboro, TN""",Mayor
+Susan ,Meyer,smeyer@spokanetransit.com,"""Spokane, WA""",Chief Executive Officer
+Bradley,Dantzler,smhunnicutt@mywinterhaven.com,"""Winter Haven, FL""",Mayor
+P. Sean,Michels,smichels@sugar-grove.il.us,"""Sugar Grove, IL""",Village President
+Scott ,Mikkelsen,smikkelsen@grimesiowa.gov,"""Grimes, IA""",Mayor
+Steve,Miller,smiller@citrusheights.net,"""Citrus Heights, CA""",Mayor
+Crystal,Ruiz,smiller@sanjacintoca.us,"""San Jacinto, CA""",Council Member 
+Stacy ,Mitchell,smitchell@ilsr.org,Institute for Local Self-Reliance,Co-Executive Director
+Svante,Myrick,smyrick@cityofithaca.org,"""Ithaca, NY""",Mayor
+Steve,Napolitano,snapolitano@citymb.info,"""Manhattan Beach, CA""",Mayor
+Steve,Nicholas,snicholas@iscvt.org,Institute for Sustainable Communities,Vice President for US Programs
+Joan ,Frazier,snoble@northfieldil.org,"""Northfield, IL""",Village President
+Shereda ,Nosakhare,snosakhare@oaklandca.gov ,"""Oakland, CA""",Chief of Staff
+Steve,Olson,solson@franklinwi.gov,"""Franklin, WI""",Mayor
+Sontia,Arnold,sonita.arnold@louisvilleky.gov,"""Louisville- Jefferson County, KY""",Senior Program Manager 
+Sue,Osborn,sosborn@cityoffenton.org,"""Fenton, MI""",Mayor
+Salvatore,"Panto, Jr.",spanto@easton-pa.gov,"""Easton, PA""",Mayor
+Samuel,Parham,sparham@petersburg-va.org,"""Petersburg, VA""",Mayor
+Steve,Patterson,spatterson@ci.athens.oh.us,"""Athens, OH""",Mayor
+Sofia,Pereira,SPereira@CityofArcata.org,"""Arcata, CA""",Mayor
+Stan,Pickett,spickett@cityofmesquite.com,"""Mesquite, TX""",Mayor
+Stephanie,Piko,spiko@CentennialCO.gov,"""Centennial, CO""",Mayor
+Shawn,Reilly,sreilly@ci.waukesha.wi.us,"""Waukesha, WI""",Mayor
+Stacy,Richardson,srichardson@chattanooga.gov,"""Chattanooga, TN""",Chief of Staff
+Sally,Russell,srussell@bendoregon.gov,"""Bend, OR""",Mayor
+Sonny,Santa Ines,ssantaines@bellflower.org,"""Bellflower, CA""",Mayor
+Steve,Scharf,sscharf@cupertino.org,"""Cupertino, CA""",Mayor
+Steven ,Schneemann,sschneemann@farmgov.com,"""Farmington, MI""",Mayor
+Steve,Schultz,SSchultz@henrietta.org,"""Henrietta, NY""",Mayor
+Suzanne,Schulz ,sschulz@grcity.us ,"""Grand Rapids, MI""",Managing Director of Design and Development
+Stephen R. ,Shelley,sshelley@cityofhomestead.com,"""Homestead, FL""",Mayor
+Skye ,Stewart ,sstewart@somervillema.gov,"""Somerville, MA""",Policy Advisor
+Stewart ,Strathearn,sstrathearn@midland.ca,"""Midland, ON (Canada)""",Mayor
+Brad,Eales,sstroud@ci.excelsior-springs.mo.us,"""Excelsior Springs, MO""",Mayor
+Sabrina,Sussman,ssussman@zipcar.com,Zipcar,"Manager, Public Partnerships"
+Stephanie,Walton,stephanie.walton@cityoflafayette.com,"""Lafayette, CO""",City Council Member
+Stephanie,Adams,stephanie@friendsofgrparks.org,Friends of Grand Rapids Parks,Executive Director
+Stephan ,Lam,stephanlam@montereypark.ca.gov,Former Mayors,Former Mayor
+Stephen,Mason,stephen.mason@cedarhilltx.com,"""Cedar Hill, TX""",Mayor
+Katrina,Foley,stephen.mensinger@costamesaca.gov,"""Costa Mesa, CA""",Mayor
+Stephen,Santellana,stephen.santellana@wichitafallstx.gov,"""Wichita Falls, TX""",Mayor
+Stephen,Terrell,sterrell@cityofallen.org,"""Allen, TX""",Mayor
+Steve,Adler,steve.adler@austintexas.gov,"""Austin, TX""",Mayor
+Steve,Aspel,steve.aspel@redondo.org,"""Redondo Beach, CA""",Mayor
+Steve,Callaway,steve.callaway@hillsboro.oregon.gov,"""Hillsboro, OR""",Mayor
+Steven,Gaer,steve.gaer@wdm.iowa.gov,"""West Des Moines, IA""",Mayor
+Stephen,Gawron,Steve.Gawron@shorelinecity.com,"""Muskegon, MI""",Mayor
+Steve,Hill,steve.hill@okc.gov,"""Oklahoma City, OK""",Chief of Staff
+Steve,Nagel,Steve.Nagel@fountainvalley.org,"""Fountain Valley, CA""",Mayor
+Steve,Pannell,steve.pannell@parkcityil.org,"""Park City, IL""",Mayor
+Steve,Schewel,Steve.Schewel@durhamnc.gov,"""Durham, NC""",Mayor
+Steve,Skadron,steve.skadron@cityofaspen.com,"""Aspen, CO""",Mayor
+Steve,Tate,steve.tate@morganhill.ca.gov,"""Morgan Hill, CA""",Mayor
+Steven,Flynn,steve@skytango.com,Skytango,Founder & CEO
+Steve,Jones,stevej@garden-grove.org,"""Garden Grove, CA""",Mayor
+Steve,Ly,SteveLy@elkgrovecity.org,"""Elk Grove, CA""",Mayor
+Steven,Fulop,steven.m.fulop@gmail.com,"""Jersey City, NJ""",Mayor
+Sefatia,Romeo Theken,stheken@gloucester-ma.gov,"""Gloucester, MA""",Mayor
+Richard,Schiefer,stjacob@hometel.com,"""St. Jacob, IL""",Mayor
+Bob,Stone,stone@beavercreekohio.gov,"""Beavercreek, OH""",Mayor
+Steven,Streit,streit@lockport.org,"""Lockport, IL""",Mayor
+Steve,Tumlin,stumlin@mariettaga.gov,"""Marietta, GA""",Mayor
+William,Hornung,supervisors@lowerpaxton-pa.gov,"""Lower Paxton, PA""",Village President
+Susan,Brooks,susan.brooks@rpvca.gov,"""Rancho Palos Verdes, CA""",Councilwoman 
+Susan,Moran,susan.moran@falmouthma.gov,"""Falmouth, MA""",Chairman of Board of Selectmen
+Susan,Talbot,susan@skytango.com,Skytango,Founder & COO
+Darcy,Paul,svaidhyanathan@cupertino.org,"""Cupertino, CA""",City Council Member
+Shruti,Vaidyanathan,svaidyanathan@aceee.org,American Council for an Energy-Efficient Economy (ACEEE),Senior Advisor for Research
+Bryan,Nelson,svancamp@apopka.net,"""Apopka, FL""",Mayor
+Steve,Vaus,svaus@poway.org,"""Poway, CA""",Mayor
+Shanyn,Viars,sviars@americanrivers.org,American Rivers,Economic & Policy Research Associate
+Dr. Jim,Gardner,svoigts@lakeforestca.gov,Former Mayors,Former Mayor
+Seth,Webb,swebb@tuskholdings.com,Tusk Holdings,Managing Director
+Steve,Wiedmeye,swiedmeyer@pingreegrove.org,"""Pingree Grove, IL""",Village President
+Sean,Wright,swright@ci.antioch.ca.us,"""Antioch, CA""",Mayor
+Sylvester,Turner,sylvester.turner@houstontx.gov,"""Houston, TX""",Mayor
+Scott,Zerby,szerby@ci.shorewood.mn.us,"""Shorewood, MN""",Mayor
+Terrence,Culbreath,T.Culbreath@johnstonsc.us,"""Johnston, SC""",Mayor
+Tim,Bala,TBALA@CITYOFWAYLAND.ORG,"""Wayland, MI""",Mayor
+Timothy,Baldermann,tbaldermann@newlenox.net,"""New Lenox, IL""",Mayor
+Theresa,Berger,tberger@twp.howell.nj.us,"""Howell Township, NJ""",Mayor
+Tab,Bowling,tbowling@decatur-al.gov,"""Decatur, AL""",Mayor
+Tom,Brady,tbrady@bullheadcity.com,"""Bullhead City, AZ""",Mayor
+Tara,Campbell,tcampbell@yorbalindaca.gov,"""Yorba Linda, CA""",Mayor
+Tony,Carey,tcarey@frederickco.gov,"""Frederick, CO""",Mayor
+Tom,Cauley,tcauley@villageofhinsdale.org,"""Hinsdale, IL""",Village President
+Tim,Davis,tdavis@templetx.gov ,"""Temple, TX""",Mayor
+Tarsi,Dunlop,tdunlop@populardemocracy.org,Local Progress,Policy and Program Manager
+John,Tecklenburg,tecklenburgj@charleston-sc.gov,"""Charleston, SC""",Mayor
+Ted,Green,Ted.Green@eastorange-nj.gov,"""East Orange, NJ""",Mayor
+Ted,Wheeler,ted@tedwheeler.com,"""Portland, OR""",Mayor
+Tim,Eder,TEder@mott.org,Mott Foundation,Program Officer
+Ted,Terry,tedterry@gmail.com,"""Clarkston, GA""",Mayor
+Tera,Radloff,Tera.Radloff@castlepinesgov.com,"""Castle Pines, CO""",Mayor
+Thomas,Bernabei,teri.ross@cantonohio.gov,"""Canton, OH""",Mayor
+Terry,Furlong,terry.furlong@northstpaul.org,"""North Saint Paul, MN""",Mayor
+Tracy,Gant,tfarrish@edmonstonmd.gov,"""Edmonston, MD""",Mayor
+Terry,Halliday,thalliday@coalcity-il.gov,"""Coal City, IL""",Mayor
+Toni,Harp,tharp@newhavenct.gov,"""New Haven, CT""",Mayor
+Thomas,Hayes,thayes@vah.com,"""Arlington Heights, IL""",Mayor
+Naheed,Nenshi,themayor@calgary.ca,"""Calgary, AB (Canada)""",Mayor
+Theodore,Beale,theofdmv@gmail.com,,
+Tom,Hinshaw,thinshaw@indianheadpark-il.gov,"""Indian Head Park, IL""",Village President
+Thomas ,Hogenson,thogenson@cityofbr.org,"""Big Rapids, MI""",Mayor
+Tom,Adams,thomas.adams@century21.com,"""Monrovia, CA""",Mayor
+Thomas,Cook,thomas.cook@indy.gov,"""Indianapolis, IN""",Chief of Staff
+Thomas,Kneeland,thomas.kneeland@gahanna.gov,"""Gahanna, OH""",Mayor
+Thomas,McGee,Thomas.McGee@lynnma.gov,"""Lynn, MA""",Mayor
+Thomas,McNamara,thomas.mcnamara@rockfordil.gov,"""Rockford, IL""",Mayor
+Thomas,Small,thomas.small@culvercity.org,"""Culver City, CA""",Council Member
+Thomas,Hoye,thoye@taunton-ma.gov,"""Taunton, MA""",Mayor
+Thu,Hoang,thu.hoang@boston.gov,"""Boston, MA""",Data Scientist
+Tim,Flynn,tim.flynn@oxnard.org,"""Oxnard, CA""",Mayor
+Tim,Neese,tim.neese@coei.org,"""Elkhart, IN""",Mayor
+Tim ,Orman,Tim.Orman@fresno.gov,"""Fresno, CA""",Chief of Staff
+Tim,Smith,tim@fcidc.com,"""St. Albans, VT""",Mayor
+Tim,Lonergan,timL@oaklandparkfl.gov,Former Mayors,Former Mayor
+Tim ,Lonergan,TimL@oaklandparkfl.gov,"""Oakland Park, FL""",Mayor
+Taif,Jany,tjany@pfaw.org,Young Elected Officials Network (YEO),Policy Coordinator
+Teri,Johnston,tjohnston@cityofkeywest-fl.gov,"""Key West, FL""",Mayor
+Edward,Estes,tjones@cityofglenarden.org,"""Glenarden, MD""",Mayor
+Thaddeus,Kirkland,tkirkland@chestercity.com,"""Chester, PA""",Mayor
+Todd,Larson,tlarson@ci.farmington.mn.us,"""Farmington, MN""",Mayor
+Tom ,Lillehei,tlillehei@cityofbreezypointmn.us,"""Breezy Point, MN""",Mayor
+Thomas,Livingston,tlivingston@villageoflagrange.com,"""La Grange , IL""",Village President
+Thomas,Madrecki,tmadrecki@ups.com,UPS Foundation,Director of Urban Mobility and Innovation
+Tim,Mahoney,tmahoney@cityoffargo.com,"""Fargo, ND""",Mayor
+Terry,Matthews,tmatthews@southchicagoheights.com,"""South Chicago Heights, IL""",Mayor
+Tim,Meerbott,tmeerbott@cutlerbay-fl.com,"""Cutler Bay, FL""",Mayor
+Travis,Mitchell,tmitchell@cityofkyle.com,"""Kyle, TX""",Mayor
+Ryan,Weilhofen,todd@lakemoor.net,"""Lakemoor, IL""",Village President
+Todd,Wodraska,toddw@jupiter.fl.us,"""Jupiter, FL""",Mayor
+Tom ,Funk,tofunk@ci.victoria.mn.us,"""Victoria, MN""",Mayor
+Thomas,Butt,tom.butt@intres.com,"""Richmond, CA""",Mayor
+Tom,Joyce,tom.joyce@parkersburgwv.gov,"""Parkersburg, WV""",Mayor
+Tom,Poynton,Tom.Poynton@LakeZurich.org,"""Lake Zurich, IL""",Mayor
+Angel,Barajas,tom.stallard@cityofwoodland.org,"""Woodland, CA""",Mayor
+Tom,Stevens,tom.stevens@hillsboroughnc.org,"""Hillsborough, NC""",Mayor
+Thomas,Bredeholf,tommyb@milesaver.com,"""Flagler, CO""",Mayor
+Teresa,Onoda,tonoda@moraga.ca.us,"""Moraga, CA""",Mayor
+Ed,Brown,tosjmo@bellsouth.net,"""St. Joseph, LA""",Mayor
+Timothy,McDonough,townclerk@hopetwp-nj.us,"""Hope, NJ""",Mayor
+Lynn,Griesemer,towncouncil@amherstma.gov,"""Amherst, MA""",Town Council President 
+Donald,Trinks,towncouncil@townofwindsorct.com,"""Windsor, CT""",Mayor
+Ryshonda ,Beechem,townhall@townofpelahatchie.com,"""Pelahatchie, MS""",Mayor
+Troy,Parlier,tparlier@oswegoil.org,"""Oswego, IL""",Mayor
+Gordon,Dove,tpcgpresident@tpcg.org,"""Terrebonne, LA""",Mayor
+Tim,Pogue,tpogue@ballwin.mo.us,"""Ballwin, MO""",Mayor
+Tracey,Ross,tracey@policylink.org,PolicyLink,Associate Director
+Tony,Ragucci,tragucci@oakbrookterrace.net,"""Oakbrook Terrace, IL""",Mayor
+Treney,Tweedy,treney.tweedy@lynchburgva.gov,"""Lynchburg, VA""",Mayor
+Trey,Jacobson,trey.jacobson@sanantonio.gov,"""San Antonio, TX""",Chief of Staff
+Tom,Reyes,treyes@newhavenct.gov,"""New Haven, CT""",Chief of Staff
+Terence,Roberts,troberts@cityofandersonsc.com,"""Anderson, SC""",Mayor
+Tony,Roswarski,troswarski@lafayette.in.gov,"""Lafayette, IN""",Mayor
+Robert,Baker,Troutmayor@aol.com,"""Trout Valley, IL""",Village President
+Dave,Glasgow,trusteeglasgow@menomonee-falls.org,"""Menomonee Falls, WI""",Village President
+Arlene,Schwartz,truzzano@margatefl.com,"""Margate, FL""",Commission
+Tom,Ryan,tryan@ci.blaine.mn.us,"""Blaine, MN""",Mayor
+Tom,Schewedhelm,tschwedhelm@srcity.org,"""Santa Rosa, CA""",Mayor
+Timothy,Scott,TScott@CarlislePa.org,"""Carlisle, PA""",Mayor
+Trish,Spencer,tspencer@alamedaca.gov,"""Alameda, CA""",Mayor
+Tim,Reed,tsreed@brookings.net,"""Brookings, SD""",Mayor
+Trent,Staggs,tstaggs@rivertoncity.com,"""Riverton, UT""",Mayor
+Tim ,Swadley,tswadley@ci.stoughton.wi.us,"""Stoughton, WI""",Mayor
+Skip,Henderson,ttomlinson@columbusga.org,"""Columbus, GA""",Mayor
+Anthony,Topf,ttopf@wlvillage.org,"""Wonder Lake, IL""",Village President
+Terry,Tornek,ttornek@cityofpasadena.net,"""Pasadena, CA""",Mayor
+Terry,Weppler,tweppler@libertyville.com,"""Libertyville, IL""",Mayor
+Tyler,Bump,tyler.bump@portlandoregon.gov,"""Portland, OR""","Senior Economic Planner, Bureau of Planning and Sustainability"
+Una,Glass,una.glass.seb@sonic.net,"""Sebastopol, CA""",Mayor
+Joseph,Barnes,urbancrest@sbcglobal.net,"""Urbancrest, OH""",Mayor
+Vernard,"Alsberry, Jr.",valsberry@villageofhazelcrest.com,"""Hazel Crest, IL""",Village President
+Sue,Vaterlaus,vaterlauss@ci.pacifica.ca.us,"""Pacifica, CA""",Mayor
+Veronica,Gee,vgarcia@somervillema.gov,"""Somerville, MA""",
+Anthony,Copeland,vgomez@eastchicago.com,"""East Chicago, IN""",Mayor
+Vicki,Tesoro,vickifortrumbull@gmail.com,"""Trumbull, CT""",Mayor
+Michael,Victorino,victorinoformayor@gmail.com;mike.victorino@mauicounty.gov,"""Maui, HI""",Mayor
+Bernard,Wysocko,vilgrnoaks@aol.com,"""Green Oaks, IL""",Village President
+David ,Belanger,Village@marathoncity.org,"""Marathon City, WI""",Mayor
+Barrett,Pederson,village62638@gmail.com,"""Franklin Park, IL""",Village President
+Ann ,Potter,villageboard@vokil.org,"""Kenilworth, IL""",Mayor
+Jim,Davis,villagemayor@att.net,"""Newark, IL""",Village President
+Emily,Berendt,villageofbullvalley@gmail.com,"""Bull Valley, IL""",Village President
+Robert,Polk,villageofburnham@comcast.net,"""Burnham, IL""",Village President
+Tim,Smith,villageofoldmillcreek@gmail.com,"""Old Mill Creek, IL""",Village President
+Jamie,LeBlanc,villageofvirgil@yahoo.com,"""Virgil, IL""",Village President
+John ,Schuepbach,villagepresident@marshall-wi.com,"""Marshall, WI""",Mayor
+Veneeth ,Iyengar,viyengar@brla.gov,"""Baton Rouge, LA""",Assistant Chief Administrative Officer
+Verne,Lauritzen,vlauritzen@jurupavalley.org,Former Mayors,Former Mayor
+Vi,Lyles,vlyles@charlottenc.gov,"""Charlotte, NC""",Mayor
+Valarie ,McCall,vmccall@city.cleveland.oh.us,"""Cleveland, OH""",Chief of Government Affairs
+Violeta,Lewis,vmunoz@lapuente.org,"""La Puente, CA""",Council Member
+Valerie,Munoz,vmunoz@lapuente.org,"""La Puente, CA""",Mayor
+Robert,Lee,vobfinance@berkeley.il.us,"""Berkeley, IL""",Village President
+R.A.,Willis,vogodley@yahoo.com,"""Godley, IL""",Village President
+Dean,Boehne,vos-dboehne@tcc.coop,"""Strum, WI""",Mayor
+Virginia,Vaughn,vvaughn@buenapark.com,Former Mayors,Former Mayor
+Vince,Williams,vwilliams@unioncityga.org,"""Union City, GA""",Mayor
+Val,Zudans,VZudans@covb.org,"""Vero Beach, FL """,Mayor
+Kip,Walby,walby@scsmi.net,"""St. Clair Shores, MI""",Mayor
+Walt,Johnson,walt.johnson@titusville.com,Former Mayors,Former Mayor
+Earnest,Ware,warebus@cox.net,"""Spencer, OK""",Mayor
+Richard ,Avol,washburnmayor@gmail.com,"""Washburn, WI""",Mayor
+Matt,Watkins,watkinscouncil@pasco-wa.gov,"""Pasco, WA""",Mayor
+Bill,Baird,wbaird@cityofls.net,"""Lee's Summit, MO""",Mayor
+John,McCormac,WBMAYOR@twp.woodbridge.nj.us,"""Woodbridge, NJ""",Mayor
+Ed,Sachs,wbucknum@cityofmissionviejo.org,"""Mission Viejo, CA""",Council Member
+Walter 'Skip',Campbell,wcampbell@coralsprings.org,"""Coral Springs, FL""",Mayor
+Wilmot,Collins,wcollins@helenamt.gov ,"""Helena, MT""",Mayor
+Warren,Copeland,wcopeland@springfieldohio.gov,"""Springfield, OH""",Mayor
+William ,Benton,wdbentonappraisers@gmail.com,"""Vergennes, VT""",Mayor
+Wilda,Diaz,wdiaz@perthamboynj.org,"""Perth Amboy, NJ""",Mayor
+James ,Tulley,web.site@titusville.com,"""Titusville, FL""",Mayor
+Ken ,Carlson,webmaster@pleasanthillca.org,"""Pleasant Hill, CA""",Mayor
+John,Warner,websiteadmin@townofbreckenridge.com,"""Breckenridge, CO""",Mayor
+Bob,Whalen,WhalenB@cityofclovis.com,"""Clovis, CA""",Mayor
+Will,Hall,whall@shorelinewa.gov,"""Shoreline, WA""",Mayor
+Thomas,Roach,whiteplainscityhall@whiteplainsny.gov,"""White Plains, NY""",Mayor
+Alexis,Wiley,wileya@detroitmi.gov,"""Detroit, MI""",Chief of Staff
+William,Johnson,william.skinner.johnson@gmail.com,"""Holly Hill, SC""",Mayor
+William J.,Bates,williambates@aia.org,,President
+Dodd,Ferrelle,wintervillemayor@gmail.com,"""Winterville, GA""",Mayor
+Jo,Emerson,wjwe@aol.com,"""White Bear Lake, MN""",Mayor
+Bill,Kawecki,wkawecki@morgantownwv.gov,"""Morgantown, WV""",Mayor
+William ,Lyons,wlyons@knoxvilletn.gov,"""Knoxville, TN""",Chief Policy Officer & Deputy to the Mayor
+William,Man,wman@templecity.us,"""Temple City, CA""",Mayor
+Bill,Mars,wmars@ShakopeeMN.gov,"""Shakopee, MN""",Mayor
+Wayne,Messam,wmessam@miramarfl.gov,"""Miramar, FL""",Mayor
+Wanda ,Montgomery,wmontgomery@browndeerwi.org,"""Brown Deer, WI""",Mayor
+William,Tate,wtate@grapevinetexas.gov,"""Grapevine, TX""",Mayor
+Wade,Troxell,wtroxell@fcgov.com,"""Fort Collins, CO""",Mayor
+ Woody ,Washam,wtwasham@cornelius.org,"""Cornelius, NC""",Mayor
+Diane,Delaware,yazoocitymayor@yazoocityms.us,"""Yazoo City, MS""",Mayor
+Jeff,Yerkey,yerkey.jeffrey@rigov.org,"""Rock Island, IL""",Fire Chief
+Yxstian,Gutierrez,yxstiang@moval.org,"""Moreno Valley, CA""",Mayor
+Gustavo,Camacho,zcaltitla@pico-rivera.org,"""Pico Rivera, CA""",Mayor
+Olivia,Zepeda,zepedaox@elpasotexas.gov,"""El Paso, TX""",Chief of Staff
+Zachary ,Haigis,zhaigis@msn.com,"""North Huntingdon, PA""",Mayor
+Zhou,Jiang,zhou.jiang@cleanfund.com,CleanFund,"Director, Finance"
+Zareh,Sinanyan,zsinanyan@glendaleca.gov,"""Glendale, CA""",Mayor
+Zachary,Vruwink,zvruwink@wirapids.org,"""Wisconsin Rapids, WI""",Mayor
+Marc,,,,
+,,,,
+Shonte,Eldridge,,,
+Joy,Grewatz,,,
+Martha,Pellegrino,,,
+Jesse,Weiss,,,
+Brett,Fleishman,,350.org,
+Jenny,Marienau,,350.org,
+Amy,Miller,,350.org,
+David,Zipper,,1776,
+Kris,McCabe,,Advisor Partners,
+Nancy,McPherson,,American Association for Retired Persons (AARP),
+Jean,Setzfand,,American Association for Retired Persons (AARP),
+David,Ribeiro,,American Council for an Energy-Efficient Economy (ACEEE),
+Gabrielle,Alahouzos,,American Institute of Architects,
+Melissa,Wackerle,,American Institute of Architects,
+Matthew,Welker,,American Institute of Architects,
+Gary,Belan,,American Rivers,
+Natasha,Lamb,,Arjuna Capital,
+Vincent,Galindo,,Arnerich Massena,
+Jennifer,Bradley,,Aspen Institute,
+Kakha,Nadiradze,,Association For Farmers Rights Defense (AFRD),
+Carmen ,Chubb,,"""Atlanta, GA""",Chief of Staff
+Meredith,Benton,,Boston Common Asset Management,
+Lisa,Hayles,,Boston Common Asset Management,
+Carol,Malnick,,Boston Common Asset Management,
+Topher,Fearey,,Brown Advisory,
+"Elizabeth ""Betsey"" ",Ball,,"""Buffalo, NY""",Chief of Staff
+Josh,Alpert,,C40 Cities,
+Jessica,Matthews,,Cambridge Associates,
+Peter,Ellis,,Cannon Design,
+David,Raffin,,Cannon Design,
+Ralph,Garboushian,,CapitalEdge,
+Amy Jo,Jacobsen,,CapitalEdge,
+Chris,Davis,,Ceres Trust,
+Mitzie,Wright,,"""Chesapeake, VA""",Chief Deputy City Clerk
+Elizabeth,Ress,,CityBase,Director of Brand Marketing
+Shelley,Alpern,,Clean Yield Asset Management,
+KC,Golden,,Climate Solutions,
+Mildred,Warner,,Cornell University,
+Lauren,DeRusha,,Corporate Accountability International,
+Bill,Schweke,,Corporation for Enterprise Development,
+Kimberly,Tolbert,,"""Dallas, TX""",Chief of Staff
+Jess,Zimbabwe,,Daniel Rose Center for Public Leadership in Land Use,
+Mark,Peters,,Federal Street Advisors,
+William,Ferguson,,"""Ferguson Group, LLC""",
+James,Michel,,First Church in Jamaica Plain,
+Michael,McDaniel,,"""Flint, MI""",
+Eric,Gimon,,Flora Family Foundation,
+Matthew,Appelbaum,,Former Mayors,
+Tom,Bates,,Former Mayors,
+DJ,Baxter,,Former Mayors,
+Christine,Berg,,Former Mayors,Former Mayor
+Jon,Crews,,Former Mayors,
+William,Euille,,Former Mayors,
+Elizabeth,Gamache,,Former Mayors,Former Mayor
+William,Gluba,,Former Mayors,
+Charlie,Hales,,Former Mayors,"Former Mayor, Portland, OR"
+George,Heartwell,,Former Mayors,
+Dana,Hinman,,Former Mayors,Former Mayor
+John,Hollar,,Former Mayors,"Former Mayor, Montpelier, VT"
+Rod,Sinks,,Former Mayors,
+Anthony,Soto,,Former Mayors,
+Jill,Swain,,Former Mayors,
+Lisa,Wong,,Former Mayors,
+Marguerite,Young,,Former Mayors,
+Stuart,Braman,,Fossil Free Indexes,
+Tom,Francis,,Fossil Free Indexes,
+Bradford,Goz,,Fossil Free Indexes,
+Michael,Palmieri,,Fossil Fuel Indexes,
+Shawntera,Hardy,,Fresh Energy,
+Christofer,Nelson,,Georgetown University,
+Erin,Gray,,Green Century Capital Management,
+Leslie,Samuelrich,,Green Century Capital Management,
+Joanna,Messing,,Growald Family Fund,
+Annie,Tegen,,Healthy Food America,
+David,Weinberger,,In Our neighborhood,
+Mary Kay,Leonard,,Initiative for a Competitive Inner City,
+Martha,Davis,,Inland Empire Utilities Agency,
+Cliff,Majersik,,Institute for Market Transformation (IMT),
+Anthony,Cortese,,Intentional Endowments Network,
+Alan,Kemp,,Iowa League of Cities,
+Christine,Jantz,,Jantz Management,
+Eric,Reese,,Johns Hopkins University,
+George,Cheung,,Joyce Foundation,
+Naudy,Martinez,,Kaboom,
+Jonathan,Naimon,,Light Green Advisors,
+George,McCarthy,,Lincoln Institute of Land Policy,
+Leirion,Baird,,"""Lincoln, NE""",Mayor
+Steven,Bosacker,,Living Cities Inc,
+Dylan,Brix,,"""Loring, Wolcott and Coolidge Office""",
+Wendy,Holding,,"""Loring, Wolcott and Coolidge Office""",
+Andy,Mims,,"""Loring, Wolcott and Coolidge Office""",
+Cyndy,Kocher,,LPL Financial Group,
+Doborah,Felder,,Maine Community Foundation,
+James,Bennet,,MainePERS,
+Jeff,Jamawat,,Mayors' Institute on City Design,
+Jim,Wehmeier,,McKinney Economic Development Corp.,
+Nick,Buonvicino,,Merrimack College,
+Brett,Juliano,,MSCI Index,
+Robert,Melton,,MSCI Index,
+Jenny,Dodson,,National Institute for Reproductive Health,
+Cooper,Martin,,National League of Cities,
+Tammi,Zborel,,National League of Cities,
+Kelly,Regan,,"""NEPC, LLC""",
+,,,"""New York, NY""",
+Larry,Dohrs,,Newground Social Investment,
+Bruce,Herbert,,Newground Social Investment,
+Delen ,Goldberg,,"""North Las Vegas, NV""",Chief of Staff
+Mark,Quercio,,NorthPointe Wealth Management,
+Carolina,Samudio-Ortega,,"""Northstar Asset Management, Inc""",
+Majorie,Cohen,,Not Known,
+Christina,Kuo,,Not Known,
+Hung,Le,,Not Known,
+Bruce,MacDonald,,Not Known,
+Alice,Madden,,Not Known,
+Richard,Mott,,Not Known,
+Donna,Owens,,Not Known,
+Laurel,Prussing,,Not Known,
+Anna,Reynoso,,Not Known,
+Brian,Schmidt,,Not Known,
+Eddy,Ury,,Not Known,
+Karundi,Williams,,Not Known,
+John,Schwarten,,OEM Capital Corp.,
+Elizabeth,Guernsey,,Open Society Foundations (Formerly OSI),
+Paul,Ellis,,Paul Ellis Consulting,
+Thomas,Gainey,,Pax World Investments,
+Bob,Helmuth,,Pax World Investments,
+Jenn,Dice,,People for Bikes Coalition,
+Zach,Vanderkooy,,People for Bikes Coalition,
+Carolyn,Dupont,,Quantified Ventures,Senior Director
+Julie,Sinai,,REDF,
+Samuel,Hecker,,SNW Asset Management,
+Jackson,Koeppel,,Soulardarity,Director
+Lonnie,Scott,,Soulardarity,Executive Director
+Vicki,Cram,,"""Squire, Patton Boggs LLP""",
+Amy,McIlvaine,,Sustainable Connections,
+Thomas,Whitley,,"""Tallahassee, FL""",Chief of Staff
+Mordie,Weintraub,,Tel-Affinity,
+Andrew,Zucker,,The Concord Consortium,
+Sarah,McKinley,,The Democracy Collaborative,
+Andy,Clarke,,Toole Design Group,
+Luke ,Robertson,,"""Toronto, ON (Canada)""",
+Kirk,Hovenkotter,,Transit Center,
+Krista,Crum,,Trek Bicycles,
+Jonas,Kron,,Trillium Asset Management,
+Nelson,Murphy,,United Church Funds,
+Sheila,Moynihan,,United States Dept of Energy (DOE),
+Odette,Mucha,,United States Dept of Energy (DOE),
+Steve,Dubb,,University of Maryland,
+Vatsal,Bhatt,,US Green Building Council,
+John,Huber,,Wall Street Associates,
+Rob,Knowles,,Wall Street Associates,
+Mark,Bagley,,Western Washington University,
+Mark,Brovak,,Western Washington University,
+Jean,Carter,,Western Washington University,
+Michael ,Jack,,"""Winnipeg, MB (Canada)""",Chief Corporate Services Officer
+Rosamond,Delori,,World Learning,
+Franco,Arieta,,Zipcar,
+Allen ,Brown,,,
+Jarvis,Patton,,"""Birmingham, AL""",
+Bill,"Ham, Jr.",,Former Mayors,Former Mayor
+Bud,Kitchin,,Former Mayors,Former Mayor
+Patsy,Parker,,Former Mayors,Former Mayor
+Carroll,Watson,,"""Lincoln, AL""",Mayor
+Richard,Madison,,"""Bryant, AR""",
+Ruth Penney,Bell,,Former Mayors,"Former Mayor, Texarkana, AR"
+Seth,Scott,,,"Former Co-Chief of Staff, Phoenix, AZ"
+Jeff,Serdy,,"""Apache Junction, AZ""",Mayor
+Harry,Oberg,,"""Prescott, AZ""",
+Dianne,Watts,,Former Mayors,"Former Mayor, Surrey, BC(Canada)"
+Kelly,Boyd,,,"Former Mayor, Laguna Beach, CA"
+Jill,Keimach,,"""Alameda, CA""",
+Jeffrey,Koji Maloney,,"""Alhambra, CA""",Council Member
+Pedro,Aceituno,,"""Bell Gardens, CA""",Council Member
+John,Mirisch,,"""Beverly Hills, CA""",
+Mark,Pulido,,"""Cerritos, CA""",Mayor
+Sam,Pedroza,,"""Claremont, CA""",
+Erin,Cooke,,"""Cupertino, CA""",
+Raymond ,Buenaventura ,,"""Daly City, CA""",Mayor
+Dirk,Brazil,,"""Davis, CA""",
+Janet,Abelson,,"""El Cerrito, CA""",
+Joe,Aguirre,,Former Mayors,Former Mayor
+Walter ,"Allen, III",,Former Mayors,Former Mayor
+"Stephen ""Steve""",DeBrum,,Former Mayors,Former Mayor
+Vanessa,Delgado,,Former Mayors,Former Mayor
+Rachel,Hundley,,Former Mayors,"Former Mayor, Sonoma, CA"
+Richard,Viczorek,,Former Mayors,Former Mayor
+Donald,Wagner,,Former Mayors,Former Mayor
+Laurene,Weste,,Former Mayors,Former Mayor
+Lee,Brand,,"""Fresno, CA""",Mayor
+Shaun,McCaffery,,"""Healdsburg, CA""",Mayor
+Marilyn,Sanabria,,"""Huntington Park, CA""",
+Jim,Gomez,,"""La Habra, CA""",Mayor
+Tim,Shaw,,"""La Habra, CA""",Council Member
+Jack,Handjinian,,"""Montebello, CA""",Mayor
+John,McAlister,,"""Mountain View, CA""",
+Paul,Leon,,"""Ontario, CA""",Mayor
+Diane,Martinez,,"""Paramount, CA""",Mayor
+Fred,Dock,,"""Pasadena, CA""",
+David,Gray,,"""Richmond, CA""",
+Chris,Lopez,,"""San Bernardino, CA""",Chief of Staff
+John,Avalos,,"""San Francisco, CA""",
+Jeremey,Pollock,,"""San Francisco, CA""",
+Steve,Cassidy,,"""San Leandro, CA""",
+Rich,Carlston,,"""Walnut Creek, CA""",
+Felipe,Hernandez,,"""Watsonville, CA""",
+,,,,
+Ricky,Stegmaier,,,Mayor
+Eric,Mamula,,"""Breckenridge, CO""",Mayor
+Joe,Baker,,"""Dacono, CO""",Mayor
+Anthony,Graves,,"""Denver, CO""",
+Tina,Harris,,Former Mayors,"Former Mayor, Eric, CO"
+Maartin,van Zoeren,,Former Mayors,"Former Mayor, Simla, CO"
+Alexandra,Lynch,,"""Lafayette, CO""",Mayor
+Brian,Bagley,,"""Longmont, CO""",Mayor
+Marcia,Leclerc,,"""East Hartford, CT""",Mayor
+Patrice,Granatosky,,Former Mayors,Former Mayor
+Joseph,Maturo Jr.,,Former Mayors,Former Mayor
+Peter,Tesei,,"""Greenwich, CT""",First Selectman
+Michael,Carter,,"""New Haven, CT""",
+Giovanni,Zinn,,"""New Haven, CT""",
+William W. ,Dickinson Jr. ,,"""Wallingford, CT""",Mayor
+Mike,Purzycki,,Former Mayors,Former Mayor
+ Michael,Purzycki,,"""Wilmington, DE""",Mayor
+,,,,
+,,,,
+,,,,
+Peggy,Bell,,Former Mayors,Former Mayor
+James,Blackwell,,Former Mayors,Former Mayor
+Bob,Buckhorn,,Former Mayors,Former Mayor
+Craig,Cates,,Former Mayors,Former Mayor
+Harry,Dressler,,Former Mayors,Former Mayor
+Sara,Guevrekian,,Former Mayors,Former Mayor
+Ashton,Hayward,,Former Mayors,Former Mayor
+Teresa,Jacobs,,Former Mayors,Former Mayor
+Tamara,James,,Former Mayors,Former Mayor
+Richard,Kaplan,,Former Mayors,Former Mayor
+Joe,Kilsheimer,,Former Mayors,Former Mayor
+David,Knowles,,Former Mayors,Former Mayor
+George Fisk,Locke III,,Former Mayors,Former Mayor
+Maria,Marino,,Former Mayors,Former Mayor
+Jeri,Muoio,,Former Mayors,Former Mayor
+Gary,Resnick,,Former Mayors,Former Mayor
+Wayne,Slaton,,Former Mayors,Former Mayor
+Beth,Spiegal,,Former Mayors,Former Mayor
+Myra,Taylor,,Former Mayors,Former Mayor
+Diane,Veltri-Bendedkobic,,Former Mayors,Former Mayor
+ John, Christian,,"""Leesburg, FL""",Mayor
+Derrick ,Henry,,"""South Daytona, FL""",Mayor
+Marva,Lewis,,,Former Chief of Staff
+Kathy,Hoard,,Athens-Clarke County,
+Lydia,Glaize,,"""Fairburn, GA""",
+Jamie,Doss,,Former Mayors,Former Mayor
+Bryan,Thompson,,Former Mayors,Former Mayor
+Jonathan,McColler,,"""Statesboro, GA""",Mayor
+Alan,Arakawa,,"""County of Maui, HI""",
+Bernard,"Carvalho, Jr.",,Former Mayors,Former Mayor
+Roy,Amemiya,,"""Honolulu, HI""",
+Gary ,Kurokawa,,"""Honolulu, HI""",Chief of Staff
+Jesse Broder,Van Dyke,,"""Honolulu, HI""",
+Nicolas ,AbouAssaly,,,Mayor
+JM Skip,Conkling,,"""Altoona, IA""",
+Don,Arendt,,Former Mayors,Former Mayor
+Tom,Armstrong,,Former Mayors,Former Mayor
+Eric,Bookmeyer,,Former Mayors,Former Mayor
+Snooks,Bouska,,Former Mayors,Former Mayor
+Gordon,Canfield,,Former Mayors,Former Mayor
+Ron,Corbett,,Former Mayors,Former Mayor
+Jim,Erb,,Former Mayors,Former Mayor
+Kent,Halverson,,Former Mayors,Former Mayor
+James,Lowrance,,Former Mayors,Former Mayor
+Amy,Nielsen,,Former Mayors,Former Mayor
+Ruth,Randleman,,Former Mayors,Former Mayor
+Keith,Ryan,,Former Mayors,Former Mayor
+Diana,Willits,,Former Mayors,Former Mayor
+Nic,Miller,,"""Boise, ID""",
+Nina,Jonas,,Former Mayors,Former Mayor
+Daniel,Powers,,Former Mayors,Former Mayor
+Neil ,Bradshaw,,"""Ketchum, ID""",Mayor
+,,,,
+,,,,
+Andre ,Harvey,,"""Bellwood, IL""",Mayor
+Mike,Chamberlain,,"""Belvidere, IL""",Mayor
+Robert, Jones,,"""Braidwood, IL""",Mayor
+David,Anderson,,Former Mayors,Former Village President
+Dean,Argiris,,Former Mayors,Former Village President
+Gary,Beggan,,Former Mayors,Former Mayor
+Henry,Berry,,Former Mayors,Former Village President
+Ernest,Blevins,,Former Mayors,Former Mayor
+Joseph,Broda,,Former Mayors,Former Village President
+Deborah,Bullwinkel,,Former Mayors,Former Village President
+Anthony,Calderone,,Former Mayors,Former Mayor
+Terry,Counley,,Former Mayors,Former Village President
+Vivian,Covington,,Former Mayors,Former Village President
+Yvonne,Davis,,Former Mayors,Former Mayor
+Dan,Drury,,Former Mayors,Former Village President
+Stanley,Duda,,Former Mayors,Former Village President
+Scott,Eisenhauer,,Former Mayors,Former Mayor
+Jay,Farquhar,,Former Mayors,Former Mayor
+Gary,Golinski,,Former Mayors,Former Village President
+Fred,Gougler,,Former Mayors,Former Village President
+Gary,Graham,,Former Mayors,Former Mayor
+Charles,Griffin,,Former Mayors,Former Village President
+David,Hanks,,Former Mayors,Former Village President
+Al,Hill,,Former Mayors,Former Mayor
+Emeka,Jackson-Hicks,,Former Mayors,Former Mayor
+John,Jacobson,,Former Mayors,Former Village President
+Gail,Johnson,,Former Mayors,Former Village President
+Sherman,Jones,,Former Mayors,Former Village President
+William,Kaplan,,Former Mayors,Former Village President
+Robert,Kellerman,,Former Mayors,Former Village President
+Eric,Kellogg,,Former Mayors,Former Mayor
+Peter,Koenig,,Former Mayors,Former Village President
+Robert,Lansing,,Former Mayors,Former Mayor
+Donald,Lockhart,,Former Mayors,Former Mayor
+Robert,Loy,,Former Mayors,Former Village President
+Mark,Luft,,Former Mayors,Former Mayor
+Marilynn,May,,Former Mayors,Former Village President
+Lael,Miller,,Former Mayors,Former Village President
+Paul,Mulcahy,,Former Mayors,Former Village President
+Alan,Nowaczyk,,Former Mayors,Former Village President
+Kathleen,O'Neill Leitner,,Former Mayors,Former Village President
+William,Offerman,,Former Mayors,Former Village President
+David,Owen,,Former Mayors,Former Village President
+Albert,Pino,,Former Mayors,Former Village President
+Sam,Pulia,,Former Mayors,Former Village President
+Brian,Reaves,,Former Mayors,Former Village President
+Ed,Ritter,,Former Mayors,Former Village President
+William,Rodeghier,,Former Mayors,Former Village President
+Tom,Rooney,,Former Mayors,Former Mayor
+William,Russell,,Former Mayors,Former Village President
+Burnell,Russell,,Former Mayors,Former Village President
+Sharon,Rybak,,Former Mayors,Former Village President
+Jeffery,Schielke,,Former Mayors,Former Mayor
+Donald,Schupek,,Former Mayors,Former Village President
+Erin,Smith,,Former Mayors,Former Village President
+Paul,Smith,,Former Mayors,Former Village President
+Gayle,Smolinski,,Former Mayors,Former Village President
+Mickey,Straub,,Former Mayors,Former Mayor
+Gerald,Turry,,Former Mayors,Former Village President
+Angie,Underwood,,Former Mayors,Former Village President
+Jim,Vehrs,,Former Mayors,Former Mayor
+Kathleen,Weaver,,Former Mayors,Former Mayor
+Tom,Weisner,,Former Mayors,Former Mayor
+Dan,Williams,,Former Mayors,Former Village President
+Shannon,Yeaton,,Former Mayors,Former Village President
+John,Ferris,,"""Greenwood, IL""",Village President
+Joseph,Mancino,,"""Hawthorn Woods, IL""",Village President
+Joseph T.,Tamburino,,"""Hillside, IL""",Village President
+Stephen,Starykowicz,,"""Indian Creek, IL""",Village President
+Elizabeth,Brandt,,"""Lincolnshire, IL""",Mayor
+Jackie,Kowalski,,"""Millbrook, IL""",Village President
+Patrick,Brennan,,"""Minooka, IL""",Village President
+James,Chmura,,"""Norridge, IL""",Village President
+Cara,Pavilcek,,"""Oak Park, IL""",
+Mike,McAlevy,,"""Richmond, IL""",Village President
+Richard,Mack,,"""Ringwood, IL""",Village President
+David,Guerin,,"""River Grove, IL""",Mayor
+Tyrone,Ward,,"""Robbins, IL""",Village President
+Don,DeGraff,,"""South Holland, IL""",Village President
+Alan,Darr,,"""Symerton, IL""",Village President
+Robert,Wagner,,"""Union, IL""",Village President
+ John,Carpino,,"""Willow Springs, IL""",Mayor
+Michael ,Bruno,,"""Winthrop Harbor, IL""",Village President
+Matthew,Johnsen,,"""Bloomington, IN""",
+Tom,Miller,,"""Bloomington, IN""",
+John,Dennis,,"""West Lafayette, IN""",Mayor
+Nancy,Bauder,,Former Mayors,Former Mayor
+Bob,Dixson,,Former Mayors,Former Mayor
+Joel,Marquardt,,Former Mayors,Former Mayor
+Laura,McConwell,,Former Mayors,Former Mayor
+Karl,Ryan,,Former Mayors,Former Mayor
+Ronald,Shaffer,,Former Mayors,Former Mayor
+Leslie,Soden,,Former Mayors,Former Mayor
+Jon,Daveline,,"""Hutchinson, KS""",Former Mayor
+Trent,Davis,,"""Salina, KS""",Mayor
+,,,,
+Robert,Myer,,Former Mayors,Former Mayor
+Michael,Yenni,,Former Mayors,Former Mayor
+Leslie,Draper III,,"""Simmesport, LA""",Mayor
+,,,,
+Arthur,Goldstein,,Former Mayors,Former Mayor
+Donna,Holaday,,"""Newburyport, MA""",Mayor
+Richard J.,Alcombright,,"""North Adams, MA""",Former Mayor
+Thomas,Bernard,,"""North Adams, MA""",Mayor
+Kenneth,Tavares,,"""Plymouth, MA""",Chairman of Select Board
+Jason,Adams,,"""Randolph, MA""",Mayor
+Edward,Bean,,"""Somerville, MA""",
+Shannon,Gurek,,"""South Hadley, MA""",
+Sam,Katz,,Former Mayors,Former Mayor
+Brian,Bowman,,"""Winnipeg, MB (Canada)""",Mayor
+Bob,Agee,,"""Annapolis, MD""",
+Eddie,Martin,,"""District Heights, MD""",Mayor
+Mary,Flynn,,Former Mayors,Former Mayor
+Jacqueline,Goodall,,Former Mayors,Former Mayor
+David,Gysberts,,Former Mayors,Former Mayor
+Catherine,Pugh,,Former Mayors,Former Mayor
+Marc,Tartaro,,Former Mayors,Former Mayor
+Lee,Walker,,Former Mayors,Former Mayor
+Gary,Aiken,,Former Mayors,Former Mayor
+Thom,Harnett,,Former Mayors,Former Mayor
+David,Keene,,Former Mayors,Former Mayor
+Robert E.,MacDonald,,Former Mayors,Former Mayor
+Donald,Pilon,,Former Mayors,"Former Mayor, Saco, ME"
+Patti,Smith,,Former Mayors,Former Mayor
+Patricia ,Hart,,"""Gardiner, ME""",Mayor
+Mark,Behnke,,"""Battle Creek, MI""",Mayor
+Ken,Burris,,Former Mayors,Former Mayor
+Kaye,Ferguson Holman,,Former Mayors,Former Mayor
+Mark,Huizenga,,Former Mayors,"Former Mayor, Walker, MI"
+Stacie,Stotmiester,,Former Mayors,Former Mayor
+Bruce,Tasker,,Former Mayors,Former Mayor
+Virgil,Bernero,,"""Lansing, MI""",
+,,,,
+Ronald,Anderson,,,Mayor
+Eric,Anderson,,Former Mayors,Former Mayor
+Mike,Fall,,Former Mayors,Former Mayor
+Mary,Giuliani Stephens,,Former Mayors,Former Mayor
+Debbie,Goettel,,Former Mayors,Former Mayor
+Stan,Karwoski,,Former Mayors,Former Mayor
+Mike,Kuehn,,Former Mayors,Former Mayor
+Peter,Lindstrom,,Former Mayors,Former Mayor
+Gene,Maxwell,,Former Mayors,Former Mayor
+Deb,Myrfield,,Former Mayors,Former Mayor
+Tom,O'Connor,,Former Mayors,Former Mayor
+Gary,Peterson,,Former Mayors,Former Mayor
+Nora,Slawik,,Former Mayors,Former Mayor
+Tim,Tjosaas,,Former Mayors,Former Mayor
+JoAnn,Weaver,,Former Mayors,Former Mayor
+Del Rae,Williams,,Former Mayors,Former Mayor
+Tim,Willson,,Former Mayors,Former Mayor
+Ted,Ziemann,,Former Mayors,Former Mayor
+Dennis,Satre,,"""Hoffman, MN""",Mayor
+Johnathan ,Judd ,,"""Moorhead, MN""",Mayor
+Gary,Skalko,,"""Mountain Iron, MN""",Mayor
+Matt,Larson,,"""St. Paul, MN""",
+Tim,Lowery,,"""Florissant, MO""",
+LeRoy,Benton,,Former Mayors,Former Mayor
+Karen,Best,,Former Mayors,Former Mayor
+Peter,Kerckhoff,,Former Mayors,Former Mayor
+Joyce,Kullman,,Former Mayors,FormerMayor
+Matt,Mallinson,,Former Mayors,Former Mayor
+Bob,Stephens,,Former Mayors,Former Mayor
+Jeffery,Kilpatrick,,"""Drew, MS""",Mayor
+Connie,Moran,,Former Mayors,Former Mayor
+Knox,Ross,,Former Mayors,Former Mayor
+Jeffrey,DeLuca,,"""Chapel Hill, NC""",
+Roger,Stancil,,"""Chapel Hill, NC""",
+Natasha,Warren,,"""Charlotte, NC""",
+Bettie,Parker,,"""Elizabeth City, NC""",Mayor
+William,Bell,,Former Mayors,"Former Mayor, Durham, NC"
+Bill,Deter,,Former Mayors,Former Mayor
+Kandie,Smith,,Former Mayors,Former Mayor
+Chuck,Travis,,Former Mayors,Former Mayor
+Chuck,Allen,,"""Goldsboro, NC""",Mayor
+Allen,Thomas,,"""Greenville, NC""",
+(The Late) Rudy,Wright,,"""Hickory, NC""",
+Steve,Rao,,"""Morrisville, NC""",
+Karen,Alexander,,"""Salisbury, NC""",
+Paul,Woodson,,"""Salisbury, NC""",
+Chris,Rey,,"""Spring Lake, NC""",
+Daune,Gardner,,"""Waxhaw, NC""",
+Peter,Haga,,"""Grand Forks, ND""",
+Leiron,Gaylor Baird,,Former Mayors,Former Mayor
+Jeremy,Jensen,,Former Mayors,Former Mayor
+Rita,Sanders,,Former Mayors,Former Mayor
+Roger ,"Steele,",,"""Grand Island, NE""",Mayor
+Anthony,Ammiano,,Former Mayors,Former Mayor
+Randy,Brown,,Former Mayors,Former Mayor
+John,Cosgrove,,Former Mayors,Former Mayor
+Darvis,Holley,,Former Mayors,Former Mayor
+Cathleen,Lewis,,Former Mayors,Former Mayor
+Gloria,McCauley,,Former Mayors,Former Mayor
+"James ""Sonny""",McCullough,,Former Mayors,Former Mayor
+Stephanie,Murray,,Former Mayors,Former Mayor
+Kenneth,Palmer,,Former Mayors,Former Mayor
+Lizette,Parker,,Former Mayors,Former Mayor
+Felix,Roque,,Former Mayors,Former Mayor
+Janet,Sabkowicz,,Former Mayors,Former Mayor
+Gerald,Tamburro,,Former Mayors,Former Mayor
+Rich,Van Noord,,Former Mayors,Former Mayor
+Tony,Vauss,,"""Irvington Township, NJ""",Mayor
+Tony ,Perry,,"""Middletown Township, NJ""",Mayor
+Amiri,Baraka,,"""Newark, NJ""",Chief of Staff
+Nicholas,Sacco,,"""North Bergen, NJ""",Mayor
+Gabriel,Rodriguez,,"""West New York, NJ""",Mayor
+Alice,Lucero,,Former Mayors,Former Mayor
+Martin,Resendiz,,Former Mayors,Former Mayor
+David,Coss,,"""Santa Fe, NM""",
+Kate,Noble,,"""Santa Fe, NM""",
+Geno,Zamora,,"""Santa Fe, NM""",
+Debra,March,,"""Henderson, NV""",Mayor
+Carolyn,McLaughlin,,"""Albany, NY""",
+Bonnie,Bennett,,"""Aurora, NY""",Mayor
+Matthew,Ryan,,"""Binghamton, NY""",
+Bob ,McLoughlin,,"""Dobbs Ferry, NY""",Mayor
+Anthony,Cardone III,,Former Mayors,Former Mayor
+Hartley,Connett,,Former Mayors,Former Mayor
+Daniel,DeLano,,Former Mayors,Former Mayor
+Tiffany,Martin Hamilton,,Former Mayors,Former Mayor
+Steve,May,,Former Mayors,Former Mayor
+Marty,Petrovic,,Former Mayors,Former Mayor
+Peter,Porcino,,Former Mayors,Former Mayor
+Peter,Swiderski,,Former Mayors,Former Mayor
+Joanne,Yepsen,,Former Mayors,Former Mayor
+Mike ,Baratta,,"""Owego, NY""",Mayor
+Alan,Simon,,"""Spring Valley, NY""",Mayor
+Edwin,Fare,,"""Valley Stream, NY""",Mayor
+Brian,Kulpa,,"""Williamsville, NY""",
+Chase,Ritenauer,,Former Mayors,Former Mayor
+Gary,Starr,,Former Mayors,Former Mayor
+Michael,Seferian,,"""Oregon, OH""",Mayor
+Catherine (Katy),Crosby,,"""Toledo, OH""",Chief of Staff
+George ,Pankonin,,"""Enid, OK""",Mayor
+Breea,Clark,,Former Mayors,Former Mayor
+Bob,Coburn,,Former Mayors,Former Mayor
+Jay Dee,Collins,,Former Mayors,Former Mayor
+Charles,Lamb,,Former Mayors,Former Mayor
+Bill,Shewey,,Former Mayors,Former Mayor
+Steve,Parish,,"""Ajax, ON (Canada)""",Mayor
+Alar ,Soever,,"""Blue Mountains, ON (Canada)""",Mayor
+Bernadette ,Clement,,"""Cornwall, ON (Canada)""",Mayor
+Taso,Christopher,,Former Mayors,Former Mayor
+John,Henry,,Former Mayors,Former Mayor
+Keith,Hobbs,,Former Mayors,Former Mayor
+April,Jeffs,,Former Mayors,Former Mayor
+John,Maloney,,Former Mayors,Former Mayor
+Gord,McKay,,Former Mayors,Former Mayor
+John,McKean,,Former Mayors,Former Mayor
+Kevin,Morrison,,Former Mayors,Former Mayor
+Leslie,O'Shaughnessy,,Former Mayors,Former Mayor
+John,Paterson,,Former Mayors,Former Mayor
+Brian,Smith,,Former Mayors,Former Mayor
+Ben,van Diepenbeek,,Former Mayors,Former Mayor
+Nelson,Santos,,"""Kingsville, ON (Canada)""",Mayor
+Hilda ,MacDonald,,"""Leamington, ON (Canada)""",Mayor
+Don,Mitchell,,"""Whitby, ON (Canada)""",Mayor
+John,Cook,,Former Mayors,Former Mayor
+Phil,Houk,,Former Mayors,Former Mayor
+Lou,Ogden,,Former Mayors,Former Mayor
+Anna,Peterson,,Former Mayors,Former Mayor
+Casey,Roats,,Former Mayors,Former Mayor
+Jennifer,Cooperman,,"""Portland, OR""",
+Jason,Snider,,"""Tigard, OR""",Mayor
+Ray ,O'Connell,,"""Allentown, PA""",Mayor
+William,Courtright,,Former Mayors,Former Mayor
+Tony,George,,Former Mayors,Former Mayor
+Tony,Martino,,Former Mayors,Former Mayor
+Danene,Sorace,,"""Lancaster, PA""",Mayor
+Andrew,Buss,,"""Philadelphia, PA""",
+Jim,Engler,,"""Philadelphia, PA""",Chief of Staff
+Anthony,George,,"""Wilkes-Barre, PA""",Mayor
+Michael,Helfrich,,"""York, PA""",Mayor
+Jorge,Santini,,"""San Juan, PR""",Mayor
+Claude,Haineault,,"""Beauharnois, QC (Canada)""",Mayor
+Caroline,St-Hilaire,,Former Mayors,Former Mayor
+Alain,Thibault,,"""Port-Cartier, QC (Canada)""",Mayor
+,,,,
+Jeff ,Mutter,,"""Cumberland, RI""",Mayor
+Bob, DaSilva,,"""East Providence, RI""",Mayor
+James,Briden,,Former Mayors,Former Mayor
+William,Murray,,Former Mayors,Former Mayor
+Sheila,Dormody,,"""Providence, RI""",
+Brett,Smiley,,"""Providence, RI""",
+Alexander,Boyd,,"""Bishopville, SC""",Mayor
+David,Bennett,,Former Mayors,Former Mayor
+Linda,Page,,Former Mayors,Former Mayor
+George,McGregor,,"""Sumter, SC""",Planning Director
+Erica,Beck,,"""Sioux Falls, SD""",Chief of Staff
+Paul,TenHacken,,"""Sioux Falls, SD""",Mayor
+Tim,Burchett,,Former Mayors,Former Mayor
+Ralph,McGill,,Former Mayors,Former Mayor
+Scott,Foster,,"""Hendersonville, TN""",
+Brian,Loughmiller,,,
+Andrew,Nelson,,"""Bryan, TX""",Mayor
+Bradi,Diaz,,"""Copperas Cove, TX""",Mayor
+Curtistene,McCowan,,"""DeSoto, TX""",Mayor
+Richard,Molina,,"""Edinburg, TX""",Mayor
+Lori,Barnett Dodson,,Former Mayors,Former Mayor
+Danny,Dunn,,Former Mayors,Former Mayor
+Derrick Ford,Freeman,,Former Mayors,Former Mayor
+Antonio,Martinez,,Former Mayors,Former Mayor
+Kevin,Strength,,Former Mayors,Former Mayor
+John,Thomaides,,Former Mayors,Former Mayor
+James,Thompson,,Former Mayors,Former Mayor
+Ron,Jensen,,"""Grand Prairie, TX""",
+An,Truong,,"""Haltom City, TX""",
+Andy,Mack,,"""Longview, TX""",Mayor
+Thurman ,Bartie,,"""Port Arthur, TX""",Mayor
+David,Allen,,"""Prairie View, TX""",Mayor
+Ron,Nirenberg,,"""San Antonio, TX""",Mayor
+Martin,Heines,,"""Tyler, TX""",Mayor
+Ben,McAdams,,Former Mayors,Former Mayor
+Michelle,Kaufusi,,"""Provo, UT""",Mayor
+Patrick,Reimherr,,"""Salt Lake County, UT""",
+Ron,Rordam,,"""Blacksburg, VA""",
+Gerald,Foreman,,Former Mayors,Former Mayor
+,,,,
+David,Allaire,,Former Mayors,Former Mayor
+Michael,Daniels,,Former Mayors,Former Mayor
+Thom,Lauzon,,Former Mayors,Former Mayor
+Sharon,Davis,,"""Rutland, VT""",Mayor
+,,,,
+Pierre,Clavel,,"""Auburn, WA""",
+Peter,Lewis,,"""Auburn, WA""",
+Bruce,Bassett,,Former Mayors,Former Mayor
+Sean,Guard,,Former Mayors,Former Mayor
+Lucy,Krakowiak,,Former Mayors,Former Mayor
+Patty,Lent,,Former Mayors,Former Mayor
+Wiston,Marsh,,Former Mayors,Former Mayor
+Tim,Matthes,,Former Mayors,Former Mayor
+Allen,Pomraning,,Former Mayors,Former Mayor
+Christine,Denis,,"""King County, WA""",
+Stephen,Buxbaum,,"""Olympia, WA""",
+Patrick,Downie,,"""Port Angeles, WA""",Former Mayor
+Allison,Burson,,"""Seattle, WA""",
+Marco,Lowe,,"""Seattle, WA""",
+Kristin,Lynett,,"""Tacoma, WA""",
+Timothy,Leavitt,,"""Vancouver, WA""",
+Frank,Kuntz,,"""Wenatchee, WA""",Mayor
+,,,,
+Kay,Erickson,,"""Amery, WI""",Mayor
+Gary,Deiter,,"""Brillion, WI""",Mayor
+Michael,Aubinger,,Former Mayors,Former Mayor
+Thad,Birmingham,,Former Mayors,Former Mayor
+Steve,Cummings,,Former Mayors,Former Mayor
+John,David,,Former Mayors,Former Mayor
+John,Deschane,,Former Mayors,Former Village President
+George,Dougherty,,Former Mayors,Former Village President
+Jason,Gonzalez,,Former Mayors,Former Mayor
+John,Graf,,Former Mayors,Former Mayor
+Scott,Griffiths,,Former Mayors,Former Mayor
+Ronald,Hayward,,Former Mayors,Former Village President
+Marlin,Hensler,,Former Mayors,Former Village President
+Jon,Hochkammer,,Former Mayors,Former Mayor
+Lowell ,Hurst,,Former Mayors,Former Mayor
+Guy,Johnson,,Former Mayors,Former Village President
+Carl,Krueger,,Former Mayors,Former Village President
+Donna,Olson,,Former Mayors,Former Mayor
+Glenn,Rolloff,,Former Mayors,Former Village President
+Eugene J.,Rosin,,Former Mayors,Former Mayor
+John,Small,,Former Mayors,FormerVillage President
+Paul,Soglin,,Former Mayors,"Former Mayor, Madison, WI"
+Mark,Spreitzer,,Former Mayors,Former Mayor
+Jerry,Wehrle,,Former Mayors,Former Mayor
+Sharon,Wussow,,Former Mayors,Former Village President
+Jennifer,Gonda,,"""Milwaukee, WI""",
+Lori ,Palmeri,,"""Oshkosh, WI""",Mayor
+Yunji,Kim,,University of Wisconsin Extension,
+Ray ,Pacheco,,Former Mayors,Former Mayor
+Andi,Summerville,,Former Mayors,Former Mayor
